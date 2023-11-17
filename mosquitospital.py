@@ -1,7 +1,9 @@
 import geopandas as gpd
 import math
+import streamlit as st
 import folium
-from folium.plugins import MarkerCluster, FloatImage
+from folium.plugins import MarkerCluster
+from streamlit_folium import folium_static
 
 def popcolormap(pop):
     if pop <= 1.1:
@@ -90,6 +92,13 @@ def marker():
         if not math.isnan(row['Long']) and not math.isnan(row['Lat']):
             mc.add_child(folium.Marker([row['Lat'], row['Long']], 
                                     tooltip='This is a tooltip with <br> multiple lines')).add_to(m)
+            
+    folium.plugins.Fullscreen(
+    position="topright",
+    title="Expand me",
+    title_cancel="Exit me",
+    force_separate_button=True,
+    ).add_to(m)
 
     return m
 
@@ -109,7 +118,14 @@ def popmap():
             weight = 0,
         ).add_to(m1)
 
-    FloatImage(pop_leg, bottom=5, left=3).add_to(m1)
+    # FloatImage(pop_leg, bottom=5, left=3).add_to(m1)
+
+    folium.plugins.Fullscreen(
+    position="topright",
+    title="Expand me",
+    title_cancel="Exit me",
+    force_separate_button=True,
+    ).add_to(m1)
 
     return m1
 
@@ -130,7 +146,14 @@ def envmap():
         ).add_to(m2)
 
 
-    FloatImage(env_leg, bottom=5, left=3).add_to(m2)
+    # FloatImage(env_leg, bottom=5, left=3).add_to(m2)
+
+    folium.plugins.Fullscreen(
+    position="topright",
+    title="Expand me",
+    title_cancel="Exit me",
+    force_separate_button=True,
+    ).add_to(m2)
 
     return m2
 
@@ -151,11 +174,18 @@ def combmap():
         ).add_to(m3)
 
 
-    FloatImage(comb_leg, bottom=5, left=3).add_to(m3)
+    # FloatImage(comb_leg, bottom=5, left=3).add_to(m3)
+
+    folium.plugins.Fullscreen(
+    position="topright",
+    title="Expand me",
+    title_cancel="Exit me",
+    force_separate_button=True,
+    ).add_to(m3)
 
     return m3
 
-def popmapmarker():
+def combmapmarker():
     new_hospi = read_data()
 
     m4 = folium.Map(location=[0.7893,113.9213], zoom_start=5, tiles='CartoDB dark_matter')
@@ -181,11 +211,18 @@ def popmapmarker():
         ).add_to(m4)
 
 
-    FloatImage(comb_leg, bottom=5, left=3).add_to(m4)
+    # FloatImage(comb_leg, bottom=5, left=3).add_to(m4)
+
+    folium.plugins.Fullscreen(
+    position="topright",
+    title="Expand me",
+    title_cancel="Exit me",
+    force_separate_button=True,
+    ).add_to(m4)
 
     return m4
 
-def envmapmarker():
+def popmapmarker():
     new_hospi = read_data()
 
     m5 = folium.Map(location=[0.7893,113.9213], zoom_start=5, tiles='CartoDB dark_matter')
@@ -198,7 +235,8 @@ def envmapmarker():
                                     tooltip='{} <br> Population Vulnerability : {}'.format(row['Name'], row['sum']))).add_to(m5)
 
 
-    pop_leg = 'Pop.png'
+    # pop_leg = 'Pop.png'
+    # pop_leg = Image.open('Pop.png')
 
     for i in range(len(new_hospi)):
         # print(i)
@@ -210,11 +248,18 @@ def envmapmarker():
             weight = 0,
         ).add_to(m5)
 
-    FloatImage(pop_leg, bottom=5, left=3).add_to(m5)
+    # FloatImage(pop_leg, bottom=5, left=3).add_to(m5)
+
+    folium.plugins.Fullscreen(
+    position="topright",
+    title="Expand me",
+    title_cancel="Exit me",
+    force_separate_button=True,
+    ).add_to(m5)
 
     return m5
 
-def combmapmarker():
+def envmapmarker():
     new_hospi = read_data()
 
     m6 = folium.Map(location=[0.7893,113.9213], zoom_start=5, tiles='CartoDB dark_matter')
@@ -239,9 +284,63 @@ def combmapmarker():
             weight = 0,
         ).add_to(m6)
 
-    FloatImage(env_leg, bottom=5, left=3).add_to(m6)
+    # FloatImage(env_leg, bottom=5, left=3).add_to(m6)
+
+    folium.plugins.Fullscreen(
+    position="topright",
+    title="Expand me",
+    title_cancel="Exit me",
+    force_separate_button=True,
+    ).add_to(m6)
 
     return m6
 
+st. set_page_config(layout="wide") 
+
+st.title('Welcome to Our Dashboard :smile:')
+
+left_column, right_column = st.columns(2)
+
+# with left_column:
+params = st.selectbox('Pick parameter to visualized by', ['None', 'Population Vulnerability', 'Mosquito Resistance', 'Combination'])
+
+with left_column:
+    map_with_marker = st.radio("Map with marker:", ("Yes", "No"))
 
 
+
+if params and map_with_marker:
+    if params == 'None' and map_with_marker == 'Yes':
+        with st.spinner('Constructing ...'):
+            folium_static(marker(), width=1200)
+    elif params == 'Population Vulnerability' and map_with_marker == 'Yes':
+        with st.spinner('Constructing ...'):
+            with right_column:
+                st.image('Pop.png')
+            folium_static(popmapmarker(), width=1200)
+            # st_folium(popmapmarker(),width='100%', height=450)
+    elif params == 'Mosquito Resistance' and map_with_marker == 'Yes':
+        with st.spinner('Constructing ...'):
+            with right_column:
+                st.image('Env.png')
+            folium_static(envmapmarker(), width=1200)
+    elif params == 'Combination' and map_with_marker == 'Yes':
+        with st.spinner('Constructing ...'):
+            with right_column:
+                st.image('Combine 1.png')
+            folium_static(combmapmarker(), width=1200)
+    elif params == 'Population Vulnerability' and map_with_marker == 'No':
+        with st.spinner('Constructing ...'):
+            with right_column:
+                st.image('Pop.png')
+            folium_static(popmap(), width=1200)
+    elif params == 'Mosquito Resistance' and map_with_marker == 'No':
+        with st.spinner('Constructing ...'):
+            with right_column:
+                st.image('Env.png')
+            folium_static(envmap(), width=1200)
+    elif params == 'Combination' and map_with_marker == 'No':
+        with st.spinner('Constructing ...'):
+            with right_column:
+                st.image('Combine 1.png')
+            folium_static(combmap(), width=1200)
