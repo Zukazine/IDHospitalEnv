@@ -1,0 +1,1617 @@
+No,Name,Address,Class,District,Longitude,Latitude,Pop,Envi_Fact
+1,RSK Bedah dan Penyakit Dalam BIMC,"Jl. By Pass Ngurah Rai No.100 X, Kuta - Badung",,Badung,115.2055221,-8.677749542,4.751959,0.476117
+2,Rumkit Tk IV Dr. Bratanata Unang Jambi,"Jl. Raden Mattaher 33,Jambi",4,,103.6185346,-1.591743008,3.346735,0.861326
+3,RSAB Sari Asih,Jl. Imam Bonjol Karawaci No 38 TNG,B,Kota Tangerang,106.626283,-6.179226039,6.780755,0.252343
+4,RSU Dr Adjidarmo,Jl. Iko Jatmika 1 Rangkasbitung,B,Lebak,106.2831106,-6.369179285,0.069562,0.633958
+5,RS Usada Insani,Jl. KH.HASYIM ASHARI NO.24 Tangerang,B,Kota Tangerang,106.6477491,-6.1839839,0.629374,0.150169
+6,RSIA Budiasih,Jl. KH Sohari No.39 Serang,C,Serang,106.1401251,-6.136240305,1.235242,0.233347
+7,RSIA Keluarga Ibu,"Jl.Benua Indah No.58,Pabuaran Tumpeng - Tangerang",C,Kota Tangerang,106.614725,-6.166040478,6.143889,0.589203
+8,RSK Bedah Bakti Rahayu,Jl. Ahmad Yani Ambon,D,Kota Ambon,128.162604,-3.706895297,4.602977,0
+9,RSIA Anugerah Medical Center,"Jl. Kunang 15 Kauman, Metro",C,Lampung Barat,105.33,-5.09999873,0.801821,0.065434
+10,RSIA Panti Secanti,"Jl. Raya Gisting,Tanggamus",Umum,Tanggamus,104.7031619,-5.459669821,0.426163,0.573868
+11,RSK Ginjal NY RA Habibie,Jl. Tubagus Ismail 46 Bandung,,Kota Bandung,107.619628,-6.885364823,10.492226,0.744544
+12,RS Puri Cinere,"Jl. Maribaya No.1 Puri Cinere,Depok",B,Bogor,106.7819993,-6.321850387,5.333867,0.103918
+13,RSUD Gunung Jati,Jl. Kesambi No.56 Cirebon,B,Kota Cirebon,108.5558877,-6.731182486,7.111844,0.317441
+14,RS Pelabuhan Cirebon,Jl. Sisingamangaraja No.45 Cirebon,C,Kota Cirebon,108.5672985,-6.713448641,4.113298,0
+15,RSB Putera Bahagia,Jl. Ciremai Raya Cirebon,C,Kota Cirebon,108.5666653,-6.716668112,4.113298,0
+16,RS KCK Pindad,Jl. Jend Gatot Subroto Bandung,D,Kota Bandung,107.631351,-6.925456601,10.858767,0.857574
+17,RSB Muhammadiyah Kodya Cirebon,Jl. Dr. W.Sudirohusodo Cirebon,D,Kota Cirebon,108.5666653,-6.716668112,4.113298,0
+18,RSK Bedah Budi Asta,Jl. Kalitanjung No.51 Cirebon,D,Kota Cirebon,108.5350012,-6.747716833,5.312845,0.325355
+19,RS Budi Luhur,Kebon Pelok Harjamukti Cirebon,D,Kota Cirebon,108.5310772,-6.763033845,3.858137,0.389211
+20,RS Jiwa Dr. Radjiman Wediodiningrat,Jl. Jen. A.Yani Lawang,A,Malang,112.6761461,-7.839826485,0.661947,0.388334
+21,RS Mata Undaan,Jl. Undaan Kulon 19 Surabaya,B,Kota Surabaya,112.7430014,-7.254440158,5.444534,0.077541
+22,RS PHC,Jl. Prapat Kurung selatan no 1,B,Kota Surabaya,112.742502,-7.265275774,4.637082,0.087826
+23,RSK Anak & P.Dalam Banyuwangi,Jl. Basuki Rachmat Banyuwangi,C,Banyuwangi,114.3750591,-8.198561165,0.661994,0.532972
+24,RSU An-Nisaa,"Jl. Suparyono Timur No.1,Bajang Talun-Blitar",D,Kota Blitar,112.2882578,-8.090084614,0.810471,0.132521
+25,RS Mardi Waluyo,"Jl. Raya Kalianget No.1, Kab Sumenep",RSU,Sumenep,113.9403815,-7.054886468,0.249067,0.583398
+26,RS Kanker Dharmais,Jl. S Parman Kav.84-86 Slipi Jakarta Barat,,Jakarta Barat,106.7977533,-6.186967039,9.772527,0.013795
+27,RSPI Prof.Dr. Sulianti S.,Jl. Sunter Permai Raya Jakarta Utara,,Jakarta Utara,106.8620045,-6.130389965,7.497571,0.285781
+28,RS Jantung & Pembuluh Darah H K,Jl. S. Parman Kav 87 Jakbar,A,Jakarta Barat,106.7900881,-6.171966623,8.136782,0.281434
+29,RS KO Jakarta,"Jl. Lanpangan Tembak no 75 kel cibubur No.76,Jaktim",B,,106.8720018,-6.346990798,7.993821,0.150872
+30,RSB Yayasan Restu,Jl. Raya Bogor Jakarta Timur,C,Jakarta Timur,106.8657189,-6.307014957,7.401686,0.032954
+31,RSIA Evasari,Jl. Rawamangun No. 47 Jakpus,Khusu,Kota Jakarta Selatan,106.8600023,-6.193731495,8.394411,0.167171
+32,RSU Purwogondo,"Jl. Puring Km.8, Kuwarasan Kebumen",,Kebumen,109.6607102,-7.671210038,1.098716,0.907316
+33,RS Khusus Bedah Karima Utama,"Jl. Amarta 8-10 Kartasura Ds.Ngabean Kartasura, Sukoharjo",,Sukoharjo,109.7932436,-7.400448963,0.092286,0.684634
+34,RSIA &quot;Dian Pertiwi&quot;,"Jl. Lawu Papahan, Tasikmadu Karanganyar",,Karanganyar,110.9750258,-7.605705844,1.040846,0.345616
+35,RSO Prof Dr. R.Soeharso,Jl. A Yani Pabelan Surakarta,,Surakarta,110.7740006,-7.557552011,2.852813,0.326975
+36,RSK Bedah Orthopedi,JL Suparjo Rustam No. 99 Sokaraja Kab. Banyumas,,Banyumas,109.2840589,-7.454413004,1.306976,0.929969
+37,RSK Bedah Jatiwinangun,"Jl. Jatiwinangun No.54, Purwokerto",,Purwokerto,109.2445691,-7.416978851,1.849326,0.872977
+38,RSK Anak Wijayakusuma,"Jl. Gelatik No.1,Kebumen",,Kebumen,109.6607102,-7.671210038,1.098716,0.907316
+39,RSU Dr. H.Soewondo Kendal,"Jl. Laut No. 21,Kendal",B,Kendal,110.1966719,-6.920663067,1.974783,0.356484
+40,RSUD Pekalongan,"Jl. Veteran 31,Pekalongan",B,Pekalongan,109.6699985,-6.882885563,3.210116,0.291657
+41,RSU Banjarnegara,Jl. Jen Sudirman No.42 Banjarnegara,C,Banjarnegara,109.6154548,-7.402584873,0.746798,0.841199
+42,RSUD Banyudono,Jl. Raya Solo - Boyolali KM.10 Kuwiran Kec.Banyudono Kab.Boyolali,D,Boyolali,110.6884081,-7.43156457,0.506114,0.494346
+43,RSIA Sarila Husada,"Jl. Veteran No. 41-43,Sragen",Khusu,Sragen,111.023951,-7.42953122,1.617369,0.372501
+44,RSK P.Dalam Husada Tama,Jl. Wiratama 4 Yogyakarta,,Yogyakarta,110.3530748,-7.792466373,5.103868,0.383281
+45,RSK Anak Empat Lima,Jl. Patangpuluhan No.35 Yogyakarta,,Yogyakarta,110.3475589,-7.807448953,2.295003,0.382461
+46,RSU Permata Husada,jl.pleret-kotagede km-4,D,Bantul,110.3300213,-7.885550108,1.517081,0.043619
+47,RSK Anak Permata Hati,"Jl. Bunga Raya No.3A/3B,Batam",,Tanjung Pinang,103.9849702,0.091026091,0,0.790442
+48,RSU lapangan Minake,Minake Kecamatan Tandukkalua - Mamasa,-,Mamasa,119.3778762,-2.941450469,1.386748,0.870776
+49,RS Stroke Nasional Bukittinggi,"Jl. Jend Sudirman,Bukittinggi",B,Bukittinggi,100.3746902,-0.315820291,0.651376,0.850323
+50,RS Jiwa Puti Bungsu,"Jl. H.Agus Salim No.36,Padang",D,Kota Padang,100.3691253,-0.945628183,3.718423,0.844876
+51,RS PT Semen Padang,"Komp.PT Semen Indarung,Padang",D,Kota Padang,100.4690002,-0.95606248,2.990905,0.862991
+52,RS Jantung Sumbar,"Jl. Khatib Sulaiman No.71,Padang",D,Padang,100.3585661,-0.915020913,3.783091,0.830107
+53,RS Sehat,"Jl. Letda Sujono No.20 E Bandar selamat,Medan",,Kota Medan,98.67559882,3.585242102,4.472114,0.391668
+54,RS Vita Insani,"Jl. Merdeka No.239, Pematang Siantar",C,Kota Pematang Siantar,99.07092934,2.96168141,3.859827,0.890877
+55,RSK Peny.Dalam Sylviani,Jl. Tg Malakosa Palu,,Palu,119.8505989,-0.898584667,1.782229,0.513874
+56,Rumkit TK.IV Singkawang,Jl. Perwira No.W 15 Singkawang,D,Sambas,109.3099974,1.361327879,1.454161,0.910552
+57,RS Bersalin Jeumpa,-,D,Pontianak,109.3303087,-0.022522919,1.695888,0.832529
+58,Rumkit Tk IV Lahat,"Jl. Mayor Ruslan I No.26,Lahat",D,Lahat,103.4237031,-3.747473116,0,0.882812
+59,RSUD Simeulue,Kab.Simeulue,C,Simeulue,96.0255729,2.64397046,0,0.868004
+60,RSU Prima Cipta,Jl. P Serangan 9X Denpasar Bali,,,115.2238222,-8.721711819,0.235634,0
+61,RSU Bhakti Rahayu,"Jl. Batukaru No.2 Br.Tuakilang, Tabanan",,Bali,115.1199609,-8.545037776,1.059578,0.254653
+62,RS Parama Sidhi,"Jl. Ahmad Yani No.177 A Baktiseraga, Singaraja",,Bali,115.0709999,-8.122689561,0.096935,0.645563
+63,RSU Dharma Sentana,Jl. Ngurah Rai 151 Negara,,Jembrana,114.6024911,-8.314988294,0.016678,0.019523
+64,RS Dharma Kerti Tabanan,Jl. Teratai 16 Tabanan,,Tabanan,115.118088,0.540971076,1.171769,0.304667
+65,RS Kertha Usadha,Jl. Cendrawasih No.5 Singaraja,,Buleleng,115.1528021,-8.674784239,0.094768,0.571608
+66,RS Kertha Usada II,Jl. Cendrawasih No. 5 Singaraja,,Buleleng,115.1528021,-8.674784239,0.094768,0.571608
+67,RSU Dharma Usadha,Jl. P.B. Sudirman 50 Denpasar,,Denpasar,115.21774,-8.670632816,4.771596,0.446893
+68,RSU Manuaba,Jl. Cokroaminoto 28 Denpasar,,Denpasar,115.2093213,-8.644181429,4.889413,0.208157
+69,RSU Kasih Ibu,"Jl. Teuku Umar 120,Denpasar",,Denpasar,115.2055221,-8.677749542,4.751959,0.476117
+70,RSU Puri Raharja,Jl. WR Supratman 14-19 Denpasar,,Denpasar,115.2264754,-8.649367363,0.443778,0.017466
+71,RSU Sari Dharma,Jl. Pulau Seram No.8 Denpasar,,Denpasar,115.2139498,-8.670953872,4.771596,0.446893
+72,RSU Bhakti Rahayu,Jl. Gatot Subroto II /11 Denpasar,,Denpasar,115.2209996,-8.637341168,4.339599,0.249149
+73,RS Graha Asih,Jl. IG Ngurah Rai 33 Kuta Bali,,Denpasar,115.1790038,-8.731958833,2.274433,0.520101
+74,RS Balimed,"Jl.Mahendradatta No.57,Denpasar Bali",,Denpasar,115.1916543,-8.656907703,4.987594,0.328349
+75,RSU Premagana,"Jl. Hyang Sangsi No.2 Komp.Perumahan Chandra Ayu Br. Tubuh,Batubulan,Sukawati - More ...",-,-,115.29379,-8.608129597,0.378146,0.396735
+76,Rumkit Tk.III Udayana Denpasar,Jl. P.B Sudirman No.1 Denpasar,3,Denpasar,115.2186764,-8.663467041,4.319963,0.287315
+77,Rumkit Tk.IV Singaraja,Jl. Ngurah Rai No. 70 Singaraja,4,Buleleng,115.0906021,-8.125458663,1.259496,0.300749
+78,RSUP Sanglah Denpasar,Jl. Diponegoro Denpasar,A,Denpasar,115.2131026,-8.676162102,4.771596,0.476117
+79,RSUD Wangaya,Jl. Kartini No.133 Denpasar,B,Kota Denpasar,115.2134013,-8.648957126,4.889413,0.204906
+80,RSUD Kab. Buleleng,Jl. Ngurah Rai 30 Singaraja,B,Buleleng,115.092368,-8.119911541,1.490294,0.364977
+81,RSUD Sanjiwani Gianyar,Jl. Ciung Wenara No.2 Gianyar,B,Gianyar,115.322734,-8.537965642,2.016779,0.272527
+82,RSU Tabanan,Jl. Pahlawan No. 14 Tabanan,B,Tabanan,115.1318845,-8.539281077,1.315123,0.199388
+83,RSU Amlapura,Jl. Ngurah Rai - Amlapura,C,Karang Asem,115.6064978,-8.457251454,0.771572,0.475384
+84,RS Karya Dharma Husada,Jl. Yudistra No. 7 Singaraja,C,Buleleng,115.0483254,-8.146683984,0.494566,0.634541
+85,RSU Surya Husadha,"Jl. Pulau Serangan No.7, Denpasar",C,Denpasar,115.2289547,-8.727597832,1.001446,0
+86,RSU Negara,Jl. Wijaya Kusuma 17 Negara,C,Jembrana,114.621799,-8.354134742,0.885216,0.470188
+87,RSU Klungkung,Jl. Flamboyan No. 40 Klungkung,C,Klungkung,115.3950963,-8.538567621,1.159822,0.039164
+88,RSU Bangli,Jl. Kusuma Yudha No. 27 Bangli,C,Bangli,115.3526457,-8.454268315,0.784853,0.187601
+89,RSU Dr GelGel,Jl. Mawar No. 76 Tabanan,D,Tabanan,115.1243486,-8.546843712,1.059578,0.206575
+90,RSUD Badung,"Jl. Raya Kapal Mengwi, Badung",D,Badung,115.1800294,-8.572282884,1.194077,0.288335
+91,RSU. Dharma Yadnya,"Jl. WR.Supratman 256,Denpasar",D,Denpasar,115.2511342,-8.642067815,0.377015,0.357005
+92,RSU Shanti Graha,"Desa Sulanyah, Kecamatan Seririt, Singaraja",D,,114.9611188,8.191377553,0.415436,0
+93,RS Efarina Etaham,"Jl. Lintas Timur No.1, Pangkalan Kerinci - Riau",,Riau,101.6615645,0.262409179,0,0.923028
+94,RS PT Chevron Pasific Indonesia,Jl. Komplek Merapi Duri Camp.PT Chevron Pasific Indonesia,,riau,101.4470951,0.516404034,2.257187,0.793443
+95,Rumkit Bhayangkara Dumai,"Jl. Hang Tuah No.1 Dumai, Bengkalis",,Bengkalis,102.250906,1.466544827,0,0.777953
+96,RS Eka Hospital Pekanbaru,"Jl. Soekarno- Hatta Km.6,5, Pekanbaru",,riau,101.4189448,0.482260697,2.310929,0.756413
+97,RS PTPN V Kbn Sri Rokan,Pos Ujung Batu Tandan Kampar,,Kampar,101.4410486,0.508292929,3.023018,0.801009
+98,RS Tandun,Komplek PTPN V Tandun Kampar,,Kampar,100.6068712,0.627431191,0.307373,0.985283
+99,RS Ibnu Sina Bangkinang,"Jl. Prof.M. Yamin,SH No.16A Bangkinang",,Kampar,101.4365003,0.525629914,2.982711,0.829461
+100,RS PT Caltex Rumbai,Rumbai Pekanbaru,,Pekanbaru,101.4264941,0.629063222,0.940494,0.971989
+101,RS Santa Maria Pekanaru,"Jl. A.Yani 68,Pekanbaru",,Pekanbaru,101.4431488,0.528051206,3.063325,0.793659
+102,RS Yayasan Abdurrab,"Jl. Jen.Sudirman 410,Pekanbaru",,Pekanbaru,101.4523301,0.504623089,2.700563,0.790225
+103,RS Nusalima,"Jl. Ronggowarsito No.40,Pekanbaru",,Pekanbaru,101.4613375,0.512707439,2.337801,0.769112
+104,RS Lancang Kuning,"Jl. Ronggowarsito Ujung No.5A,Pekanbaru",,Pekanbaru,101.4645882,0.512961608,2.337801,0.769112
+105,RSU Pekanbaru Medical Center,"Jl. Lenbaga Pemasyarakatan No.25, Gobah Pekanbaru",,Pekanbaru,101.4585015,0.514183402,2.337801,0.768728
+106,RS Putri Tujuh Dumai,"Jl. Yos Sudarso No.1,Dumai",,Dumai,101.4702066,1.677192761,0.272193,0.766535
+107,RS Tk IV Pekanbaru,"Jl. Kesehatan No. 2,Pekanbaru",4,Pekanbaru,101.449998,0.533330781,2.606513,0.792274
+108,RS Kepolisian Pekanbaru,"Jl. Kartini No.14,Pekanbaru",4,Pekanbaru,101.4488698,0.520056038,2.257187,0.793659
+109,RS Bhayangkara Pekanbaru,"Simpang Tiga,Pekanbaru",4,Pekanbaru,101.449619,0.515721791,2.257187,0.793443
+110,"RSUD Arifin Achmad,Pekanbaru","Jl. Diponegoro No. 2, Pekanbaru",B,,101.4525352,0.52064018,2.257187,0.769723
+111,RS Awal Bros Pekanbaru,"Jl. Sudirman No.117,Pekanbaru",B,Pekanbaru,101.4557993,0.497105045,2.727434,0.789376
+112,RSUD Siak,"Jl. Raja Kecik No.1 Kampung dalam,Siak Sri Indrapura",C,Siak,102.0697997,0.783254477,0,0.092952
+113,RSUD.Dr. R.M. Pratomo Bagansiapiapi,"Jl. Pahlawan No.13,Bagansiapiapi",C,Bengkalis,102.250906,1.466544827,0,0.777953
+114,RSU Puri Husada Tembilahan,"Jl. Veteran 52,Hilir Tembilahan",C,Indragiri Hilir,103.1691955,-0.347105344,0.081606,0.625545
+115,RS Bina Kasih,"Jl. Samanhudi No.3-5,Pekanbaru",C,Pekanbaru,101.449998,0.533330781,2.606513,0.792274
+116,RSU Bangkinang,"Jl. A Rahman Saleh,Bangkinang",C,Kampar,101.1189008,0.346164474,0.110334,0.979711
+117,RS Pertamina Dumai,"Jl. Raya Bukit Datuk,Dumai",C,,101.447599,1.66574179,2.640435,0.763203
+118,RSUD Petala Bumi,"Jl. Dr. Soetomo No.65, Pekanbaru",C,,101.4559999,0.528849385,2.606513,0.793615
+119,RSUD Teluk Kuantan,Jl. Kesehatan No. 1 Sinambak,C,Kuantan Singingi,101.564579,-0.531417827,1.236572,0.818823
+120,RSU Indrasari Rengat,Jl. Lintas Timur Sumatera Rengat,C,Indragiri Hulu,102.4417377,-0.394032924,0.532942,0.953617
+121,RSUD Selasih Riau,Kabupaten Pelalawan Propinsi Riau,C,Pelalawan,101.8452795,0.402942208,0.525711,0.951545
+122,RSUD Kab.Rokan Hulu,"Jl. Syekh Ismail, Pasir Pengarayan",C,Rokan Hulu,100.288469,0.874447553,1.959503,0.981589
+123,RSU Dumai,"Jl. Tanjung Jati No.4,Dumai",C,Dumai,101.4551661,1.674499464,3.732467,0.772543
+124,RSUD Kec.Mandau,"Jl. Stadion No.10 Duri,Bengkalis",D,Bengkalis,101.2130949,1.259620243,0.316228,0.793175
+125,RSU Bengkalis,"Jl. Kelapapati Tengah No.90, Bengkalis",D,Bengkalis,102.250906,1.466544827,0,0.777953
+126,RSUD Selat Panjang,"Jl. Dorak - Selatpanjang 28753,Bengkalis",D,Bengkalis,102.7418263,1.004662222,0,0.606528
+127,RS Islam Ibnu Sina,"Jl. Melati No.60,Pekanbaru",c,,101.4365003,0.525629914,2.982711,0.829461
+128,RS Asia Medika Jambi,"Jl. Soekarno - Hatta Palmerah,Jambi",,Jambi,102.438059,-1.48518387,0.318918,0.966854
+129,RS PTP VIII Kayu Aro,Kayu Aro Sei Penuh Kab.Kerinci,,Kerinci,101.305648,-1.912512901,0.113882,0.741855
+130,RS Pertamina Bajubang,Lapangan Jambi Bajubang,,Sarolangun Bangko,103.6185971,-1.587600503,1.186184,0.967604
+131,Rumkit Bhayangkara Jambi,"Jl. Raden Mathaher No.3,Jambi",4,Jambi,103.6185346,-1.591743008,3.346735,0.861326
+132,RSU Raden Mattaher Jambi,"Jl. Letjen Suprapto 31,Jambi",B,,103.5837135,-1.613927035,1.966318,0.075258
+133,RSU May.H.A. Thalib/Sungai Penuh,Jl. Basuki Rahmat,C,Kerinci,101.3678301,-2.070418587,0.139334,0.693088
+134,RSUD Hamadjid Batoe BT Hari/ Muara Bulian,"Jl. Dr. Sri Sudewi,Muara Bulian",C,Batang Hari,102.9973417,-1.890810456,0.021004,0.985121
+135,RSUD H. Hanafi/Muara Bungo,"Jl. Teuku Umar 88,Muaro Bungo",C,Bungo,101.9606186,-1.509428002,0,0.981219
+136,RSU KH. Daud Arif,"Jl. Syarif Hidayatullah,Kuala Tungkal",C,Tanjung Jabung Barat,103.0624178,-1.132839082,0,0.935804
+137,RSUD Sultan Taha Saifudin,"Jl. Lintas Tebo-Bungo Km 4,Jambi",C,Tebo,102.2762204,-1.484037881,0.080465,0.973913
+138,RSUD Kolonel Abundjani/Bangko,Lapangan Jambi Bajubang,C,Sarolangun Bangko,102.2762739,-2.069013971,1.228663,0.974578
+139,RSUD Prof.DR.H.M.Chatib Quzwain,"Jl. Lintas Sumatera Km.09 Desa Bukit,Sarolangun",C,Sarolangun Bangko,102.6847186,-2.344408052,0,0.098201
+140,RSUD Muaro Jambi,Jl. Lintas Timur,C,Muaro Jambi,103.8216244,-1.703126893,0,0.963098
+141,RSUD Nurdin Hamzah,"Jl. Keramas Muara,Sabak Barat",C,Tanjung Jabung Timur,104.0075689,-1.136459872,0,0.932741
+142,RS Budhi Graha,"Jl. Dr. Setia Budi 5,Jambi",D,,102.438059,-1.48518387,0.318918,0.966854
+143,RS Santa Theresia,"Jl. Dr. Sutomo No.19,Jambi",D,Jambi,102.438059,-1.48518387,0.318918,0.966854
+144,RSUD Sungai Bahar,Ds. Suka Makmur Kecamatan Sungai Bahar,D,jambi,103.550132,-1.858227805,0.103946,0.960761
+145,RS Mayang Medical Centre,"Jl. Ir.H. Juanda No.56 Simp III Sipin, Jambi",D,Jambi,103.5509703,-1.63042125,1.767087,0.967843
+146,RSUD H. Abdul Manap Kota Jambi,Jl. SK.Rd.Syahbuddin Kec.Kota Baru Jambi,D,Jambi,103.625473,-1.650010081,3.092552,0.080674
+147,RS Mitra Masy.Timika,"Jl.SP2-SP5 Timika, Mimika",,Mimika,136.8883335,-4.531387541,1.201983,0.977249
+148,RS Efata Angguruk,Angguruk Kab Jayawijaya,,Puncak Jaya,137.184721,-4.083609072,0,0.859206
+149,RS Immanuel,Kec Mulia Kab Puncak Jaya,,Puncak Jaya,137.184721,-4.083609072,0,0.859206
+150,RSU Merauke,Jl. SukarjowirjopraNo.to Merauke,C,Merauke,140.3944979,-8.495992124,2.478184,0.419608
+151,RSU Oksibil,jl. Poros Kabiding No. 2 Oksibil,D,ASMAT,140.6358022,-5.080178025,0,0.957107
+152,RSU Wamena,Jl. Trikora Wamena,D,Merauke,138.9516621,-4.098333024,0.579605,0.755636
+153,RSUD Paniai,"Jl. Raya Madi KM.7,Paniai Timur",D,Paniai,139.3653151,-4.35450392,0,0.863616
+154,RSU Serui,Jl. Dr Sam Ratulangi Serui,D,Pemkab Yapen Waropen,136.2366626,-1.878012836,0.605126,0.923604
+155,RSUD Kab. Mimika,Jl. Yos Sudarso Kab. Mimika,D,Mimika,139.3653151,-4.35450392,0,0.863616
+156,RS Bergerak Kab.Boven Digoel,,D,Boven Digoel,140.2833325,-6.083333071,0,0.974912
+157,RSUD Kab.Keerom,"Jl. Bhayangkara,Kp. Asyaman,Distrik Arso,Kab.Keerom",D,Keerom,139.3653151,-4.35450392,0,0.863616
+158,RSUD Mulia,"Jl. Papua, Pruleme, Distrik Mulia Kabupaten Puncak Jaya",D,,137.184721,-4.083609072,0,0.859206
+159,RSUD Supiori,Jl. Raya Korido Marsram Supiori Timur - Supiori,D,,135.5000013,-0.749998502,0,0.842049
+160,RS Mitra Husada,Tangerang Banten,,Tangerang,106.6501125,-6.080786925,2.735163,0.233814
+161,RSIA Ichsan Medical Center,"Jl.Raya Jombang No.56,Bintaro Jaya,Tangerang",,Tangerang,106.7400748,-6.312058201,4.723204,0.093495
+162,RS Medika BSD,"Jl. Letnan Soetopo Kav Kom. III A No.7, BSD Tangerang",,Kota Tangerang,106.6782628,-6.318590784,4.824779,0.001052
+163,RS Antam Emas Cikotok,Cikotok Kec Cibeber Kab Lebak,,Lebak,106.3111494,-6.828413184,0.013912,0.894089
+164,RSU Bhineka Bakti Husada,"Jl. Cabe Raya No.17 Pondok Cabe,Pamulang Tangerang",,Tangerang,106.7663389,-6.293628736,6.628948,0.151068
+165,RS Omni Internasional,"Jl. Alam Sutera Boulevard Kav.25,Tangerang",,Tangerang,106.6510221,-6.24460092,5.884922,0.445793
+166,RS Aminah,"Jl. Hos Cokroaminoto No.4 A, Kreo Selatan",,Tangerang,106.7450021,-6.238037123,6.894271,0.272294
+167,RS Siloam Gleneagles,Jl. Siloam Lippo Karawaci Tangerang,,Kota Tangerang,106.5974237,-6.225248421,4.174517,0.113836
+168,RS Internasional Bintaro,"Jl. MH Thamrin No.1 Sektor 7 Bintaro Jaya,Tangerang",,Kota Tangerang,106.7236653,-6.276140142,0.391061,0.086065
+169,RS Eka,"Jl. Raya Serpong Km.8,Kab.Tangerang",,Kota Tangerang,106.6699376,-6.298988576,4.164546,0.264122
+170,RSU Mulya,"Jl. Jl.K.H. Hasyim Ashari No.18,Tangerang",,Kota Tangerang,106.6876135,-6.222020032,4.945081,0.484058
+171,RS Bhakti Asih,"Jl. Raden saleh No.10 Karang Tengah, Tangerang",,Kota Tangerang,106.7057665,-6.221146048,5.694336,0.558272
+172,RS Hermina Tangerang,"Jl. KS, Tubun No.10 Kel. Pasar Baru Kec. Karawaci Kota Tangerang",0,,106.6302159,-6.203764473,7.342697,0.138387
+173,Rumkit Tk.IV Kencana Serang,Jl. A Yani 23 Serang,4,Serang,106.1594954,-6.118386065,3.524074,0.124551
+174,RS DIM 0506 Tangerang,Jl. Daan Mogot 59 Tangerang,4,Kota Tangerang,106.6591332,-6.163467576,5.581948,0.017118
+175,RSU Tangerang,Jl. A Yani No. 9 Tangerang,B,Kota Tangerang,106.6354688,-6.17004475,6.068963,0.104618
+176,RSU Kota Cilegon,Jl. Kapten P.Tendean Km.3 Cilegon,B,,106.0668799,-6.002556456,1.461052,0.023698
+177,RS Krakatau Medika,Jl. Semang Raya Cilegon,B,Cilegon,106.0331914,-5.990552556,1.383161,0.208461
+178,RS Q a d r,Komp Islamic Village Curug Tangerang,C,Tangerang,106.6164685,-6.227295149,3.530962,0.203814
+179,RS Islam Asshobirin,Jl. Raya Serpong Km11 Tangerang,C,Tangerang,106.6782628,-6.318590784,4.824779,0.001052
+180,RSU Melati,"Jl. Merdeka No. 92,Tangerang",C,Kota Tangerang,106.620941,-6.180724297,6.630904,0.703925
+181,RSUD As Sholihin,"Jl. Surya Kencana No.1, Kec.Pamulang, Tangerang Selatan",C,Kota Tangerang Selatan,106.7404048,-6.316887407,4.215333,0.085097
+182,RSUD Malingping,"Jl. Raya Saketi Km.1, Malingping Kab.Lebak",C,Lima Puluh Kota,105.9826207,-6.719744892,0.250421,0.895299
+183,RSU Pandeglang,Jln.Raya Labuan KM 5 Cikoneng,C,Pandeglang,108.2819071,-7.317750475,0.924971,0.961927
+184,RS SELARAS,Jl. Raya Lapan Rumpin Suradita,D,Tangerang,106.5197685,-6.228891507,3.187596,0.119666
+185,RS Islam Sari Asih Ar-rahmah,Jl. K.S Tubun No.44 Koang Jaya,D,Kota Tangerang,106.629177,-6.163735122,6.668367,0.378198
+186,RS Misi Lebak,Jl. Multatuli No.41 Rangkas Bitung,D,Lebak,106.2831106,-6.369179285,0.069562,0.633958
+187,RS Mayapada,Jl. Honoris Raya Kav.6 Tangerang,C+,Kota Tangerang,106.6417962,-6.203091148,8.541504,0.143874
+188,RS Hati Kudus Langgur,Langgur Kab.Maluku Tenggara,,Maluku Tenggara,132.7166616,-5.666665751,0.010627,0.925519
+189,RS Hative,Tantui Ambon,,Ambon,128.166421,-3.656070463,0.836905,0.980958
+190,RS GPM Ambon,Jl. Anthonie Rhebok Ambon,,Ambon,128.166421,-3.656070463,0.836905,0.980958
+191,RS Al Fatah,Jl.Sultan Babullah 2 Ambon,,Ambon,128.1751118,-3.70107617,4.514881,0
+192,Rumkit Tk.III JA. Latumeten,"Jl. Dr Tamaela No.2,Ambon",3,Ambon,128.166421,-3.656070463,0.836905,0.980958
+193,RS AL Ambon,Daeral 9 Halong Ambon,4,Ambon,128.2177185,-3.626404064,4.294643,0.972659
+194,RS Lanu Patimura,Lanu Pattimura Ambon,4,Ambon,128.0888817,-3.70499572,1.409524,0
+195,RSU Dr M Haulussy Ambon,Jl. Dr Kayadoe Ambon,B,Ambon,128.162604,-3.706895297,4.602977,0
+196,RSU Tual,Jl. Merdeka Ohoijang Tual,C,Maluku Tenggara,132.6622383,-5.637717267,0,0.857257
+197,RS Bergerak Kab.Maluku Tenggara Barat,Jln. Ir. Soekarno,D,,130.145272,-3.238462272,0,0.730387
+198,RSUD Namrole,Jl. Kamboja - Namrole,D,Buru Selatan,122.4988679,-4.00663161,2.507227,0.701716
+199,RS Fatima Saumlaki,Jl.Komplek Misi Saumlaki Maluku Tenggara Barat,D,Maluku Tenggara,130.145272,-3.238462272,0,0.730387
+200,RS St Yusuph Elat,Kei Besar Kab Maluku Tenggara,D,Maluku Tenggara,130.145272,-3.238462272,0,0.730387
+201,RSU Piru,jln. Arteri Piru,D,Seram Bagian Barat,130.145272,-3.238462272,0,0.730387
+202,RSU Namlea,Jl. Anggrek Namlea Buru Utara,D,Maluku Tengah,127.0859006,-3.233396733,0.543674,0.060079
+203,RSUD Cendrawasih Dobo,"Jl. Depnaker Km.6,Kepulauan Aru",D,Kepulauan Aru,134.4999988,-6.000001391,0,0.873353
+204,RSUD Kab.Seram Bagian Timur (Bula),"Jl. Wailola No.11-12 Bula,Kab.Seram Bag.Timur",D,Seram Bagian Timur,130.4985041,-3.109678974,0.335989,0.958269
+205,RSUD Dr. P.P Magretti Saumlaki,Jl. Ir. Soekarno - Poros Utama,D,Maluku Tenggara,120.7377816,-8.730126143,0,0.084763
+206,RS Islam Asy-Syifaa Bandar Jaya,"Jl. Negara 56 Lintas,Sumatera",,Lampung Utara,104.8494338,-4.851479651,0.242909,0.583869
+207,RS Harapan Bunda,"Jl. Raya Lintas Sumatera, Seputih Jaya No.31 Gunung Sugih, Lampung Tengah",,Lampung Tengah,105.1744666,-4.874916686,0.295536,0.670757
+208,RS Islam Metro,"Jl. Jend.AH Nasution No.250,Metro",,-,105.3229235,-5.111476456,1.679267,0.329871
+209,RS Islam Umbul Thoif,"Jl. Pemanngilan Natal,Lampung Selatan",,Lampung Selatan,105.2959414,-5.247550384,1.356748,0.688054
+210,RS Mitra Mulia Husada,"Jl. Proklamator Raya No.162-164,Lampung Tengah",,Lampung Tengah,105.3131179,-4.800806426,0,0.707686
+211,RS Yukum Medical Centre,Jl. Jl. Negara No.99 Km.67 Yukum Jaya Lampung Tengah,,Lampung Tengah,105.3131179,-4.800806426,0,0.707686
+212,RS Kartika,"Jl. Gatot Subroto 96 B,Bandar Lampung",,Bandar Lampung,105.2814939,-5.435211651,4.192086,0.259567
+213,RS Immanuel Way Halim,"Jl. Sukarno Hatta Way Halim,Bandar Lampung",,Bandar Lampung,105.2371928,-5.363348779,3.426408,0.353579
+214,RSU Advent Bandar Lampung,"Jl. Teuku Umar 48,Bandar Lampung",,Bandar Lampung,105.2694009,-5.391869189,4.594067,0.243737
+215,RS Urip Sumoharjo,"Jl. Urip Sumoharjo No.200,Bandar Lampung",,Bandar Lampung,105.2767316,-5.391253833,3.751821,0.002502
+216,RSU Graha Husada,"Jl. Gajah Mada No.88,Bandar Lampung",,Bandar Lampung,105.2671223,-5.414619523,4.019808,0.240586
+217,RS Bintang Amin Husada,"Jl. Pramuka No.27,Bandar Lampung",,Bandar Lampung,105.2205068,-5.37792558,2.411885,0.333056
+218,RS Mardi Waluyo,"Jl. Jenderal Susdirman 156,Metro Lampung",,Metro,105.2868449,-5.125156978,1.301966,0.683757
+219,RS Mitra Husada,"Jl. Jend.A.Yani No.14 Pringsewu,Kab.Tanggamus",,Tanggamus,104.7031619,-5.459669821,0.426163,0.573868
+220,RSU Muhammadiyah Metro,"Jl. Soekarno Hatta No.42 Mulyojati 16B, Metro Barat",0,,105.2972078,-5.115757193,1.722724,0.031498
+221,Rumkit Tk IV Bandara Lampung,"Jl. Dr. A.Rivai No.7, Bandar Lampung",4,Bandar Lampung,105.2585742,-5.402566573,4.613209,0.235626
+222,Rumkit Bhayangkara Lampung,Jl. Pramuka No.88 Rajabasa Bandar Lampung,4,Bandar Lampung,105.2240964,-5.374014948,2.411885,0.278384
+223,RSU Dr H Abdul Moeloek,"Jl. Dr. Rivai 6,Penengahan B.Lampung",B,Lampung Barat,105.7170634,-5.790249736,0.337313,0.687227
+224,"RSUD Ahmad Yani,Metro","Jl. Jend.A.Yani No.13,Metro",B,Metro,105.3057381,-5.113942339,0.018815,0.289051
+225,RSU Liwa,"Jl. Teuku Umar 3,Lampung Barat",C,Lampung Barat,104.0353625,-5.356682423,0.019032,0.721882
+226,RSU Pringsewu,"Jl. Kesehatan No.1360,Pringsewu",C,Lampung Selatan,104.965094,-5.355563188,0.328137,0.478617
+227,RSUD Sukadana,"Jl. Adnan Sanjaya,Lintas Timur,Sukadana,Lamp.Timur",C,Lampung Timur,105.6149678,-5.108720731,0.053932,0.724466
+228,RSU May Jen HM Ryacudu,"Jl. Jen.Sudirman No.2,Kotabumi",C,Lampung Utara,104.8920004,-4.835498232,1.518183,0.156409
+229,RSUD Zainal Abidin Pagar Alam,"Jl. Raya Lintas Sumatera,Blambangan Umpu",C,Way Kanan,105.2529379,-5.379455052,4.517499,0.282033
+230,RSUD Dr. A. Dadi Tjokrodipo,"Jl. Basuki Rachmad No.73 Teluk Betung, Bandar lampung",C,,105.2541597,-5.439626161,3.617828,0.693764
+231,RSUD Demang Sepulau Raya,Jl. Raya Lintas Sumatera Kampung Terbanggi Agung Kec.Gunung Sugih Kab.Lampung T More ...,C,Lampung Tengah,105.2016493,-5.053097905,0.597788,0.067476
+232,RSUD Kalianda,"Jl. Lettu Rohani 14 B,Kalianda",C,Lampung Selatan,105.6159979,-5.735487516,0.622155,0.721207
+233,RSUD Menggala Tulang Bawang,"Menggala,Kab.Tulang Bawang",D,Tulang Bawang,105.2210375,-4.610282416,0.002968,0.778496
+234,RS Handayani,"Jl. Soekarno - Hatta No.94,Kotabumi lampung Utara",D,,104.8838313,-4.839391028,1.110443,0.265775
+235,RSUD Kota Agung,"Jl. Sukarno Hatta Komplek Islamic Centre Kotaagung,Kab.Tanggamus",D,Tanggamus,103.5163231,-4.1460677,0.103124,0.401478
+236,RSU Bumi Waras,"Jl. W. Monginsidi No.235,Bandar Lampung",Madya,Kota Bandar Lampung,105.2553859,-5.43591173,3.617828,0.321841
+237,Rumkit Bhayangkara Jitra Bengkulu,Jl. Veteran No. Bengkulu,4,Kota Bengkulu,102.2542816,-3.792362887,0.616608,0.425094
+238,RSU Dr M Yunus Bengkulu,"Jl. Bayangkara S.Mulyo,Bengkulu",B,Bengkulu,102.3134316,-3.833832526,1.917397,0.833913
+239,RSU Curup,Jl. Basuki Rachmad No.10 Curup,C,Rejang Lebong,102.5532643,-3.457453184,0.701155,0.832947
+240,RSU Arga Makmur,Jl. Siti Khadijah Arga Makmur,C,Bengkulu Utara,101.344353,-2.666488921,0.133152,0.975769
+241,RSU Manna,"Jl. Fatmawati Soekarno 31,Manna",C,Bengkulu Selatan,102.2562035,-3.800647896,0.439227,0.425094
+242,RSU Rafflesia,"Jl. Mahoni No.10 Sawah Lebar,Bengkulu",D,Kota Bengkulu,102.2562035,-3.800647896,0.439227,0.425094
+243,RS Bergerak Enggano,Jl. Raya Malakoni KM3 Enggano,D,Bengkulu Utara,101.344353,2.666488921,0.133152,0.975769
+244,Rumkit Tk IV Bengkulu,"Jl. Zainal Arifin Gading Cempaka,Bengkulu",D,Kota Bengkulu,102.2562035,-3.800647896,0.439227,0.425094
+245,RSUD Mukomuko,"Jl. Padat Karya No.166,Mukomuko",D,Muko-Muko,101.1173045,-2.575764051,0.122056,0.980031
+246,RSUD Bengkulu Tengah,"Jl. Raya Bengkulu - Kepahyang Km.34,5 Ds. Bajak I",D,Bengkulu Tengah,102.2562035,-3.800647896,0.439227,0.425094
+247,RS Hana Charitas Arga Makmur,"Jl. IR. Sukarno No.12 Arga Makmur, Bengkulu Utara",D,Bengkulu Utara,101.344353,2.666488921,0.133152,0.975769
+248,RSUD Tais Kab.Seluma,"Jl. Raya Bengkulu - Manna KM.64,Tais",D,Seluma,102.5279232,-4.049086712,0,0.098287
+249,RSUD Kepahiang,"Jl. Kolonel Santoso No.325,Kab.Kepahiang",D,Kepahiang,102.5739858,-3.643758885,1.539247,0.928591
+250,RSUD Lebong,Jl. Muning Agung Desa Muning Agung Kec. Lebong Sakti,D,Lebong,102.3822043,-2.992618654,0,0.813135
+251,RS Islam Gorontalo,"Jl. KH. Agus Salim No.50, Gorontalo",,gorontalo,123.0474622,0.565766283,3.924018,0.319139
+252,RSU Prof Dr H Aloei Saboe,Jl. Sultan Batutihe No. 7 Gorontalo,B,Gorontalo,123.0857703,0.555198213,0.212064,0.460702
+253,RSU Dr M Mohammad Dunda,Jl. A Yani Limboto Gorontalo,C,Boalemo,122.2653894,0.701340791,0,0.460038
+254,RSUD Otanaha Gorontalo,"Jl. Usman Isa, Gorontalo",D,Gorontalo,123.0654948,0.552509375,1.970358,0.326813
+255,RSUD Tombulilato,Kabupaten Bine Bolango,D,Bone,123.0815119,0.55253613,0.212064,0.317773
+256,RSUD Pohuwato,Jl. Teratai Desa Botubilotahu Gorontalo,D,Pohuwato,121.7328835,0.517648123,0.044582,0.895506
+257,RSUD Tani dan Nelayan,"Jl.Letjen Ahmad Yani Ds.Lamu Kec.Tilamuta,Kab.Boalemo",D,Boalemo,122.2653894,0.701340791,0,0.460038
+258,RS Proklamasi,"Jl. Proklamasi KM.2 Rengasdengklok,Karawang",,Karawang,106.847013,-6.20189165,8.225068,0.260309
+259,RS Sumber Waras,"Jl. Urip Sumoharjo No.5 Ciwaringin,Kab.Cirebon",,Kota Cirebon,106.7980075,-6.166629079,9.367375,0.015759
+260,RS Al-Islam Bandung,Jl. Soekarno. Hatta 644 Bandung,,Kota Bandung,107.6689992,-6.939221846,10.446408,0.083019
+261,RS St. Borromeus,Jl. Ir. H.Juanda No.100 Bandung,,Kota Bandung,107.6130018,-6.893979806,10.675496,0.071293
+262,RS Islam Tasikmalaya,Jl. Rancamaya Blok B-2 Cikunten,,Tasikmalaya,108.1199481,-7.346101439,0.888818,0.095274
+263,RSU Mitra Keluarga Bekasi Barat,Jl. Raya A Yani Bekasi,,KOTA BEKASI,106.9927364,-6.240948916,6.323698,0.669993
+264,RS PMI Bogor,Jl. Raya Pajajaran No. 80 Bogor,,Kota Bogor,106.8272012,-6.573959042,2.906042,0.614659
+265,RS Azra,"Jl. Raya Pajajaran No.219, Bogor",,Kota Bogor,106.8074875,-6.579033499,5.660464,0.058903
+266,RS Bungsu,Jl. Veteran No. 6 Bandung,,Bandung,107.6130018,-6.918518239,11.271125,0.833533
+267,RSU Betha Medika,"Jl. Raya Cisaat No.595, Sukabumi",,Sukabumi,106.8717521,-6.905872229,2.023854,0.929974
+268,RS Al - Arif,"Jl. R.E. Martadinata No.158 B, Baregdeg - Ciamis",,Ciamis,106.8462505,-6.444680784,6.558654,0.541075
+269,RS Juanda Kuningan,"Jl. Ir. H. Juanda No. 107, Kuningan",,Kuningan,108.4912351,-6.973213573,1.034085,0.944093
+270,RS Dewi Sri,Jl. Arif Rahman Hakim Karawang,,Karawang,107.2977567,6.304214642,3.664799,0.393158
+271,RSU Lamaran Medical Center,"Jl. Syech Quro No.14, Palumbonsari - Lamaran Karawang",,Karawang,107.3209352,-6.308366065,0.263038,0.165553
+272,RS Sentosa,"Jl. Palhlawan No. 60, Duren Jaya Bekasi",,KOTA BEKASI,107.0260013,-6.242768229,8.054395,0.598344
+273,RS Permata Bekasi,"Jl. Legenda Raya No.9 RT.001 Rw.011 Mustika Jaya, Bekasi",,KOTA BEKASI,107.0442033,-6.277691909,0.196728,0.249017
+274,RS Kartika Husada,"Jl. Raya Mangunjaya No.07 Kp.Rukem,Tambun - Bekasi",,Bekasi,107.064626,-6.244592002,4.324304,0.313718
+275,RS Karya Medika II,Jl. Sultan Hasanuddin No.63 Kec. Tambun Selatan,,Bekasi,107.0680016,-6.264220965,3.544815,0.262166
+276,RS Kartika Medical Center,"Jl. Jenderal Ahmad Yani No.18 A , Sukabumi",,Sukabumi,106.9272277,-6.922156866,4.293006,0.855974
+277,RS Mitra Anugrah Lestari,"Jl. Cibaligo No.76, Cimahi",,Cimahi,107.5558406,-6.900623867,7.918924,0.832699
+278,RS Gunung Salak,Jl. Cibungbulang Leuwiliang,,Bogor,106.6650059,-6.572304715,1.911068,0.718386
+279,RSU Bunda Margonda,Jl. Margonda Raya KM 3 RT.02/03,,Bogor,106.8305544,-6.380839834,6.208859,0.415019
+280,RSU MH. Thamrin,"Jl. Raya Narogong Km.16, Limus Nunggal Cileungsi,Bogor",,Bogor,106.9490372,-6.432275565,1.729061,0.335501
+281,RS Islam Bogor,"Jl. Perdana Bogor No.22,Kedung Badak - Bogor",,Bogor,106.7918673,-6.55834327,3.992649,0.660731
+282,RS Islam Sukabumi,Jl. Cibolang Cisaat Sukabumi,,Sukabumi,106.9318741,-6.915526183,4.642198,0.884194
+283,RSU &quot;Hermina&quot;,"Jl. Jl. R.A. Kosasih Cimahpar Sukaraja,Kab. Sukabumi",,Sukabumi,106.9545442,-6.919401141,1.925728,0.866971
+284,RS Max I Salhutera,Kec Ciwidey Kab Bandung,,Bandung,107.670765,-6.914674494,7.651536,0.792595
+285,RS Mitra Kasih,Jl. Raya Cibabat No.341 Cimahi,,Bandung,107.5529065,-6.884379362,8.259523,0.759569
+286,RS Jasa Kartini,Jl. Sarianingrat 2 Tasikmalaya,,Tasikmalaya,108.2224628,-7.326289654,4.178118,0.909747
+287,RS Prasetya Bunda,"Jl. Ir.H. Juanda No.1,Tasikmalaya",,Kota Tasikmalaya,108.2049074,-7.30517581,3.212508,0.946398
+288,RS Nirmala,"Jl. Raya Ciamis - Kawali KM.5,Petirhilir",,Ciamis,108.3599369,-7.305893725,0.903949,0.971749
+289,RS Permata Bunda,Jl. Mr. Iwa Kusumasomantri No.1 Ciamis,,Ciamis,108.3623448,-7.331279388,1.373442,0.938703
+290,RS Sekar Kamulyan,"Jl. Raya Cigugur Kuningan,Jakbar",,Kuningan,108.456035,-6.970136793,1.464954,0.906418
+291,RS Pertamina Klayan,Jl. Raya Klayan Cirebon,,Cirebon,108.5488334,-6.68577546,0.337706,0.353721
+292,RSK Bedah Mitra Plumbon,Jl. Raya Plumbon Km.I,,Cirebon,108.4766182,-6.701707828,2.776694,0.002755
+293,RS Pakuwon,Jl. Dewi Sartika No. 17 Sumedang,,Majalengka,107.9237566,-6.857085204,1.411668,0.856191
+294,RS Islam Zam Zam,Jl. Letnan Joni Jatibarang,,Indramayu,108.3070297,-6.482016837,1.824529,0.310561
+295,RS PTP VIII Subang,Jl. Otista No.1 Subang,,Subang,107.7624798,-6.568037356,1.839634,0.285495
+296,RS Dit Lis PO Jatiluhur,Jatiluhur Kab Purwakarta,,Purwakarta,107.403375,-6.509756905,0.074072,0.736745
+297,RSU Bayukarta,Jl. Kertabumi No.44 Karawang,,Karawang,107.3172341,-6.314720284,0.263038,0.165553
+298,RS Islam Karawang,"Jl. Pangkal Perjuangan KM.2,Karawang",,Karawang,107.2834965,-6.28195035,2.837264,0.240346
+299,RS Saraswati,"Jl. Jend Ahmad Yani No.27,Cikampek,Kab.Karawang",,Karawang,107.459631,-6.354103065,1.093529,0.555421
+300,RS Delima Asih Sisma Medika,"Jl. Wirasaba No.54,Johar-Karawang",,Karawang,107.3159989,-6.315201867,0.223139,0.172695
+301,RS AQMA,"Jl. Raya Ciselang Cikampek Utara,Kab.Karawang",,Karawang,107.4580079,-6.37421361,0.679761,0.323829
+302,RS C i t o,Jl. Arteri Tol Karawang Barat Teluk jambe Karawang,,Karawang,107.277994,-6.304143296,2.024506,0.292901
+303,RSU Mekar Sari Bekasi,Jl. Mekar Sari No. 1 Bekasi,,KOTA BEKASI,107.0107244,-6.232815516,7.954547,0.602217
+304,RS Budi Lestari,Jl. KH. Noer Ali No. 2,,KOTA BEKASI,106.9813256,-6.247954164,5.158807,0.609036
+305,RS Jati Rahayu,"Jl. Raya Hankam No. 17 Pondok Gede, Kota Bekasi",,KOTA BEKASI,106.9211589,-6.296232851,6.257133,0.178528
+306,RS Bhakti Husada,Jl. By Pass Cikarang Bekasi,,KOTA BEKASI,107.1413092,-6.266267692,0.367473,0.460784
+307,RS Karya Medika,Jl. Raya Cibitung Bekasi,,KOTA BEKASI,107.0680016,-6.264220965,3.544815,0.262166
+308,RS Annisa,Jl. Cikarang Baru No.31 Bekasi,,KOTA BEKASI,107.1738294,-6.273237267,2.839564,0.163141
+309,RS Bhakti Kartini,Jl. R.A. Kartini No.11 Bekasi,,KOTA BEKASI,107.0015565,-6.247896196,6.057437,0.078336
+310,RS Rawa Lumbu,Jl. Dasa Darma 20-23 Bekasi,,KOTA BEKASI,106.9987161,-6.280594784,7.089199,0.012035
+311,RS Hosana Medica,"Jl. Ruko Thamrin Lippo RT.08/04 Blok C3/3A,D2,Cikarang",,KOTA BEKASI,107.1288683,-6.328886848,2.152872,0.291246
+312,RS Graha Juanda,"Jl. IR.H.Juanda No.326,Bekasi Timur",,Bekasi,107.0300011,-6.252101128,6.634467,0.361199
+313,RS Medika Galaxi,"Jl. Gardenia Raya Selatan BA No.11Rt.05 Rw.17 Kel.Jaka Setia,Bekasi Selatan",,Bekasi,106.9720016,-6.268390224,5.524916,0.559018
+314,RS St Elisabeth,"Jl. Raya Narogong 202 KM.5,Kemang Pratama,Bekasi",,Bekasi,106.9910018,-6.277370854,5.192089,0.106947
+315,RS Hosana Medica Bekasi,"Jl. Pramuka No.12 Rt.004/Rw002 Kel.Sepanjang Jaya Kec.Rawalumbu,Bekasi",,Bekasi,106.9989167,-6.269562968,6.623242,0.425601
+316,RS Hermina Grand Wisata,Jl. Festival Boulevard Blok J A1 No.1 Lambang Sari Tambun Selatan Bekasi,,Bekasi,107.0437931,-6.276037582,0.196728,0.249017
+317,RS Karya Bhakti,Jl. Dr. Semeru 120 Bogor,,Kota Bogor,106.7779593,-6.580340016,4.826557,0.664869
+318,RS Bogor Medical Center,"Jl. Pajajaran Indah V No.97, Bogor",,Kota Bogor,106.8108006,-6.607696601,5.125097,0.769347
+319,RS Assyifa Sukabumi,Jl. Jend Sudirman 27 Sukabumi,,Kota Sukabumi,106.9169629,-6.918995363,3.286512,0.903831
+320,RS Immanuel Bandung,Jl. Kopo 161 Bandung,,Kota Bandung,107.5959993,-6.935449446,10.996219,0.833533
+321,RS St Yusup Bandung,Jl. Cikutra No. 7 Bandung,,Kota Bandung,107.6438231,-6.906951331,11.591848,0.830374
+322,RSU Muhammadiyah Bandung,Jl. K.H. Ahmad Dahlan 53 Bandung,,Kota Bandung,107.6229991,-6.933549869,10.812949,0.085907
+323,RSU Rajawali,Jl. Rajawali No.38 Bandung,,Kota Bandung,107.5729992,-6.912551962,11.124279,0.832699
+324,RS PTP VIII Yung Huhn,Jl. Ir. H. Juanda No. 107 Bandung,,Kota Bandung,107.6157174,-6.887054822,11.271125,0.744544
+325,RSU A M C,"Jl. Raya Cileunyi Rancaekek,Bandung",,Kota Bandung,107.7667828,-6.953357196,2.917216,0.858402
+326,RS Islam Siti Fatimah,Jl. Brigjen Dharsono. 26 Cirebon,,Kota Cirebon,108.5681413,-6.716168693,4.113298,0
+327,RS Tangkil,Jl. Sunan Gunung Jati Cirebon,,Kota Cirebon,108.5506839,-6.691634719,0.337706,0.353721
+328,RS Simpangan Depok,"Jl. Raya Bogor Km.36,Sukamaju Sukmajaya Depok",,Depok,106.8610012,-6.40858882,0.615056,0.505147
+329,RSU Hasanah Graha Afiah,Jl. Raden Saleh No.42 (Studio Alam TVRI) Depok,,Depok,106.8381617,-6.402354997,7.316543,0.505464
+330,RSIA Masmitra Jatimakmur,"Jl. Kelurahan Jati Makmur No.40, Pondok Gede Kota Bekasi",-,Bekasi,106.9266079,-6.285187658,4.726133,0.170207
+331,RS Sentra Medika,Jl. Raya Bogor KM. Cisalak - Depok,-,Depok,106.865001,-6.39083268,5.684167,0.373612
+332,Rumkit Tk II Dustira Cimahi,Jl. Rumah Sakit No.1 Cimahi,2,Bandung,107.5355651,-6.886109493,1.410011,0.742438
+333,RS Pusat AU Dr M Salamun,Jl. Ciumbuleiut 203 Bandung,2,Kota Bandung,107.6050022,-6.864888631,5.843821,0.658291
+334,Rumkit Tk III Ciremai Cirebon,Jl. Kesambi 237 Cirebon,3,Kota Cirebon,108.5496984,-6.737987074,7.112328,0.317441
+335,RS Lanud Atang Sanjaya,"Jl. Sarijo No. 1, Semplak",3,Kota Bogor,106.7623391,-6.544466548,3.355917,0.672835
+336,Rumkit Bhayangkara Indramayu,"Jl. Raya Pantura Km.73-75, Losarang Indramayu",4,Indramayu,108.1516345,-6.382320256,0.130323,0.649963
+337,Rumkit Tk IV Guntur Garut,Jl. Bratayuda 101 Garut,4,Garut,107.9111284,-7.222579881,2.934045,0.086771
+338,RS Lanu Kalijati,Lanud Kalijati Subang,4,Subang,107.6944072,-6.529265472,0.025416,0.600495
+339,Rumkit Tk IV Salak Bogor,Jl. Jend Sudirman No. 8 Bogor,4,Kota Bogor,106.7969105,-6.587327427,5.685734,0.571857
+340,RS Secapa Polri,Jl. Bhayangkara No. 166 Sukabumi,4,Kota Sukabumi,106.9248198,-6.911142886,3.717866,0.887765
+341,RS Sartika Asih,Jl. Mooh. Toha No. 369 Bandung,4,Kota Bandung,107.6121145,-6.956344794,4.257303,0.830018
+342,RS Lanu Sulaiman,Jl. Terusan Kopo Margahayu Bdg,4,Kota Bandung,107.6604868,-6.944933954,1.117949,0.831722
+343,RSU Tk IV Sariningsih Bandung,Jl. LL RE Martadinata 9 Bandung,4,Kota Bandung,107.6138669,-6.907232255,9.438422,0.082276
+344,RSU Bakhti Medicare,"Jl. Raya Siliwangi No.186B, Cicurug - Sukabumi",A,,106.7864807,-6.778083311,1.447362,0.725447
+345,RSU Dr Hasan Sadikin,Jl. Pasteur 38 Bandung,A,Kota Bandung,107.5982689,-6.899188036,10.675496,0.767061
+346,RSUD Karawang,"Jl. Galuh Mas Raya No.1,Karawang",B,Karawang,107.322857,-6.257055189,0.310326,0.598731
+347,RSU Santosa Bandung Internasional Hospital,"Jl. Kebon Jati No.38,Bandung",B,Kota Bandung,107.5981619,-6.918495944,1.154603,0.833533
+348,RSU Meilia,"Jl. Alternatif Cibubur - Cilenungsi,Cimanggis, Depok",B,Bogor,106.9019982,-6.376260338,4.917392,0.162617
+349,RSU Cianjur,Jl. Rumah Sakit No.1 Cianjur,B,Cianjur,107.1410372,-6.812190975,1.971596,0.705875
+350,RS Advent Bandung,Jl. Cihampelas 161 Bandung,B,Kota Bandung,107.6039989,-6.892066852,8.430435,0.767061
+351,RSU Ciawi,Jl. Raya Puncak 479 Ciawi Bogor,B,Bogor,106.8738211,-6.653888428,2.165877,0.740658
+352,RSUD Indramayu,Jl. Rumah Sakit No. 1 Indramayu,B,Indramayu,108.2875434,-6.392692125,1.010007,0.716393
+353,RSU Cibinong,Jl. KSR Dadi Kusmayadi No. 27 Bogor,B,Kab Bogor,106.8312099,-6.473290377,2.438886,0.506064
+354,RSUD Waled,"Jl. Kesehatan No. 4 Waled, Cirebon",B,Cirebon,108.7178199,-6.914228584,1.350824,0.777515
+355,RSUD Bekasi,Jl. Pramuka No. 55 Bekasi,B,KOTA BEKASI,107.0824981,-6.268109301,0.343346,0.266125
+356,RS Efarina Etaham,"Jl. Bungursari No.1, Purwakarta",B,Purwakarta,107.4772489,-6.488683193,1.431221,0.366824
+357,RSU Cibabat,Jl. Jend. H. Amir Machmud No. 140,B,Bandung,107.5508375,-6.879648256,8.429822,0.727326
+358,RS Islam Al Ihsan,Jl. Bale Endah Kab Bandung,B,Bandung,107.623998,-7.00810158,1.817533,0.858201
+359,RSUD Dr. Slamet,Jl. Rumah Sakit No.10 Garut,B,Garut,107.8971313,-7.21970822,3.505411,0.876802
+360,RSU Tasikmalaya,Jl. Rumah Sakit 33 Tasikmalaya,B,Tasikmalaya,108.2249332,-7.332545772,3.806729,0.916268
+361,RSUD Banjar,Jl. Rumah Sakit No. 5 Banjar,B,Ciamis,108.5725513,-7.369863989,0.729733,0.978751
+362,RSUD Kuningan,Jl. Sudirman No. 68 Kuningan,B,Kuningan,108.4874271,-6.982613358,0.100177,0.941556
+363,RSUD Sumedang,Jl. Palasari No. 80 Sumedang,B,Majalengka,107.9210722,-6.858026075,2.226092,0.856191
+364,RSUD Subang,Jl. Palasari No. 80 Sumedang,B,Subang,107.9491824,-6.814482953,1.726579,0.851774
+365,RS Ananda,"Jl. Sultan Agung No.173,Kec.Medan Satria - Bekasi",B,Bekasi,106.9770002,-6.210729588,6.589959,0.336693
+366,RSUD R Syamsudin SH,Jl. Rumah Sakit No. 1 Sukabumi,B,Kota Sukabumi,106.9345451,-6.914968795,4.642198,0.884194
+367,RS Bhakti Yudha,Jl. Raya Sawangan No. 2A Depok,C,Bogor,106.806074,-6.397374181,7.199944,0.452421
+368,RS Mitra Keluarga Cibubur,"Jl. Alternatif Transyogi, Cibubur",C,Kota Bekasi,106.9334482,-6.383818514,0.329498,0.203815
+369,RSUD Kota Bandung/Ujung Berung,Jl. Rumah Sakit 22 Bandung,C,Kota Bandung,107.6986701,-6.91534336,6.086237,0.854242
+370,RS Siloam Glenegles,Jl. MH Thamrin Kav.105 Bekasi,C,Bekasi,107.1349996,-6.331437454,2.895242,0.291246
+371,RS Karya Husada,Jl. Jend. A.Yani No.89 Cikampek,C,Karawang,107.4440019,-6.401351699,2.157503,0.017975
+372,RS Mitra Keluarga Depok,"Jl. Margonda Raya, Jawa Barat",C,,106.8238658,-6.39440442,6.296308,0.303126
+373,RS Bina Husada,Jl. Mayor Oking No.101 Km 01 Cibinong - Bogor,C,Bogor,106.8633377,-6.473134308,3.749332,0.502821
+374,RSUD Bayu Asih,Jl. Veteran No. 39 Purwakarta,C,Purwakarta,107.4476717,-6.525947901,2.824779,0.022371
+375,RS Kebonjati,Jl. Kebonjati 152 Bandung,C,Bandung,107.5962579,-6.916088029,10.904584,0.833868
+376,RS Tugu Ibu,Jl. Raya Bogor Km 29 Cimanggis - Depok,C,Bogor,106.8599979,-6.356560029,6.058716,0.134571
+377,RSU Sekarwangi,Jl. Siliwangi Cibadak Sukabumi,C,Sukabumi,106.7859991,-6.894764608,1.005794,0.895293
+378,RSU Pelabuhan Ratu,Jl. Rumah Sakit Pelabuhan Ratu,C,Sukabumi,106.5572918,-6.992369871,0.478365,0.978187
+379,RSU Majalaya,Jl. Cipaku No.87 Paseh Sukabumi,C,Bandung,107.7722764,-7.048657104,2.627022,0.870515
+380,RSUD Soreang,Jl. Alun-Alun Utara Soreang,C,Bandung,107.5171445,-7.026040543,0.184808,0.811569
+381,RSUD Ciamis,Jl. Rumah Sakit No.76 Ciamis,C,Ciamis,108.359326,-7.329803425,1.576655,0.938703
+382,RS Wijaya Kusumah,Jl. RE Martadinata 172 Kuningan,C,Kuningan,108.5064942,-6.970511358,1.863507,0.093372
+383,RSUD Arjawinangun,Jl. Pahlawan No. 38 Arjawiangun,C,Cirebon,108.4119077,-6.652844999,3.362051,0.333767
+384,RSUD Majalengka,Jl. Kesehatan No.82 Majalengka,C,Majalengka,108.2332583,-6.833376164,0.469541,0.794305
+385,RSUD Cideres,Jl. Raya Cideres 180 Majalengka,C,Majalengka,108.1961185,-6.75750456,2.412917,0.639392
+386,RS Medika,Jl. Raya Industri Pasirgombong Cikarang,C,KOTA BEKASI,107.1719744,-6.25933379,2.765327,0.132892
+387,RSUD Kab.Bekasi,"Jl. Teuku Umar Cibitung,Bekasi",C,Bekasi,107.0819987,-6.266789407,0.343346,0.266125
+388,RS Citra Harapan,Jl.Raya Harapan Indah Blok 3-5 Kota Bekasi,C,Bekasi,106.9773659,-6.18532609,5.591481,0.033257
+389,RS Islam Dr.Subki Abdulkadir,"Jl. R.A. Kartini No.66,Bekasi",C,Bekasi,106.9999289,-6.249813609,6.057437,0.078336
+390,RSUD Kota Depok,"Jl. Raya Muchtar No.99,Sawangan Depok",C,Depok,106.7967545,-6.177870473,1.002418,0.170241
+391,RSUD Leuwiliang,Jl. Raya Cibeber - Leuwiliang Bogor,C,,106.6251772,-6.570574584,1.801864,0.821867
+392,RS Harapan Depok,"Jl. Pemuda No.10,Depok Bogor",D,Bogor,106.8199997,-6.402729562,5.975662,0.046743
+393,RSUD Jampang Kulon,"Jl. Cibarusah No.1 Jampang Kulon,Kab.Sukabumi",D,Sukabumi,106.927201,-6.919601801,4.293006,0.855974
+394,RSUD Tasikmalaya,"Jl. Rancamaya Singaparna, Tasikmalaya",D,,108.2254549,-7.3326082,3.806729,0.916268
+395,RS Permata Medical Center,Jl Raya Panyindangan Wetan,D,Indramayu,108.2875434,-6.392692125,1.010007,0.716393
+396,RSUD Cimacan,"Jl. Raya Cimacan No.17, Cianjur",D,Cianjur,107.031807,-6.720444971,2.122484,0.588412
+397,RSUD Pantura M.A.Sentot Patrol,"Jl. Raya Patrol Km.50,Indramayu",D,Indramayu,107.7025316,-6.829184609,0.053271,0.731994
+398,RS Katholik Surabaya,"Jl. Diponegoro 51,Surabaya",,Kota Surabaya,112.7360006,-7.291169774,5.398394,0.091394
+399,RS Darmo,"Jl. Raya Darmo 90,Surabaya",,Kota Surabaya,112.7390952,-7.287343865,5.029273,0.091394
+400,RS Wijaya Kusuma,Jl. A. Yani No.149 Lumajang,,Lumajang,112.5234174,-7.872261986,2.238339,0.523666
+401,RSU Mardi Waluyo,"Jl. Kalimantan 113, Kota Blitar",,Kota Blitar,112.1664976,-8.072881402,1.301738,0.157168
+402,RSU Bala Keselamatan,"Jl. A.Yani 91 Turen , Kab.Malang",,Malang,112.6939468,-8.163432367,0.508452,0.164988
+403,RS Anwar Medika,"Dsn. Semawut RT.10/RW.04, Ds Balongbendo Kec.Balongbendo, Sidoarjo",,Jatim,112.5610879,-7.412167481,2.441843,0.063431
+404,RS Bedah Dan Kandungan Unipdu Medika,"Jl. Raya Peterongan Jogoroto Km.0.5, Jombang",,Jatim,112.2308157,-7.537539566,0.285598,0.425711
+405,RS Aisyiah Ponorogo,"Jl. Dr Sutomo 18 - 24, Ponorogo",,Ponorogo,111.4613086,-7.8721951,0.960538,0.034783
+406,RS PTPN X Jember,Jl. Bedadung No.2 Jember,,Jember,113.6704097,-8.260301878,1.162241,0.037456
+407,RS Darmayu,Jl. Dr. Soetomo 44 Ponorogo,,Ponorogo,111.4730003,-7.868449455,1.256089,0.032939
+408,RS Aisyiah Diponegoro,Jl. Diponegoro No.50 Ponorogo,,Ponorogo,111.4638458,-7.866358137,1.497902,0.358278
+409,RS Griya Waluya,Jl. Sultan Agung 68 Ponorogo,,Ponorogo,111.4612595,-7.872275364,0.960538,0.034783
+410,RS Budi Asih Trenggalek,Jl. Mayjen Sungkono Trenggalek,,Trenggalek,111.6977167,-8.05622666,0.559686,0.556487
+411,RS Mardi Mulia,Jl. Sutomo 19 Trenggalek,,Trenggalek,111.7048156,-8.058045973,0.661447,0.057763
+412,RS PTP XXI Toeloengredjo,Jl. A Yani No. 25 Pare Kediri,,Kediri,112.196873,7.765065197,2.186161,0.172838
+413,RS Amelia,Jl. Pahlawan No.25A Pare Kediri,,Kediri,112.180459,-7.761604935,1.124569,0.169147
+414,RS Baptis Batu,"Jl. Raya Tlekung No.I, Malang",,Malang,112.5298073,-7.884818815,1.632798,0.522408
+415,RS PTP XXIV Jatiroto,Jl. Sudirman Jatiroto Lumajang,,Lumajang,113.3195854,-8.116107928,0.307739,0.780057
+416,RS Islam Fatimah,Jl. Jember 25 Kabat Banyuwangi,,Banyuwangi,114.3340488,-8.26163515,0.228546,0.257181
+417,RS Nahdlatul Ulama Banyuwangi,"Jl. Raya Mangir,Rogojampi - Banyuwangi",,Banyuwangi,114.2725622,-8.337368522,0.330997,0.348896
+418,RS Elizabeth PTP Nusantara XI,Jl. WR Supratman 2A Situbondo,,Situbondo,114.0153836,-7.704207386,0.220059,0.256193
+419,RS Graha Sehat,Jl. Raya Panglima Sudirman No.2,,Probolinggo,113.4395174,-7.755950795,1.116342,0.588964
+420,RS Islam Masyitoh Bangil,Jl. A.Yani No.6 Bangil Jatim,,Pasuruan,112.8187303,-7.604738219,0.310986,0.404213
+421,RS Panca Dharma,Jl. Raya 14 Sukorejo Pasuruan,,Pasuruan,112.6459357,-7.677541962,1.216902,0.569669
+422,RSU Siti Khodijah,Jl. Pahlawan Sepanjang Sidoarjo,,Sidoarjo,112.7074044,-7.449120051,4.012819,0.160261
+423,RS Delta Surya,Jl. Pahlawan Sidoarjo,,Sidoarjo,112.7021694,-7.448192558,3.671303,0.049527
+424,RS Islam Siti Hajar,Jl. Raden Patah No. 70 Sidoarjo,,Sidoarjo,112.7220793,-7.457440734,0.351762,0.048507
+425,RS Emma,Jl. Raya Ijen No.67 Mojokerto,,Mojokerto,112.4310025,-7.472873682,3.670218,0.245149
+426,RS Islam Jombang,Jl. Brig. Kretarto 22 A Jombang,,Jombang,112.2374998,-7.530833078,1.706327,0.387258
+427,RS Satiti,Jl. Lonsep No. 3 Kertosono.,,Nganjuk,112.0896539,7.602120726,1.071204,0.438352
+428,RS Muhamadiyah Sumberejo,Jl. Raya Sumberrejo Bojonegoro,,Bojonegoro,112.0046099,-7.176075916,0.392265,0.051665
+429,RS Medika Mulia Tuban,Jl. Mojopahit 699 Tuban,,Tuban,112.0492232,-6.916997686,1.067084,0.290321
+430,RS Islam Nashrul Ummah,Jl. Merpati No.62 Lamongan,,Lamongan,112.4196541,-7.116341799,2.502998,0.276344
+431,RS Muhammadiyah Lamongan,Jl. Jaksa Agung Suprapto Lamongan,,Lamongan,112.387883,-7.106139375,1.090518,0.468646
+432,RS Petrokimia Gresik,Jl. Jen Ahmad Yani 69 Gresik,,Gresik,112.6400318,-7.156843813,1.350277,0.072975
+433,RS Baptis Kediri,Jl. Mauni 1-7 Kediri,,Kota Kediri,112.0320022,-7.827011029,2.852315,0.199714
+434,RS Islam Al-Arafah,"Jl. Raung 190,Kediri",,Kota Kediri,111.9953439,-7.831652953,2.400678,0.316863
+435,RS Panti Nirmala,Jl. Kebalen Wetan N0.2-8 Malang,,Kota Malang,112.6374322,-7.991395789,5.734426,0.404464
+436,RS PTPN XI Lavalete,Jl. WR Supratman 10 Malang,,Kota Malang,112.6360588,-7.798762624,0,0.354126
+437,RS LPK Malang,Jl. Asahan No.7 Malang,,Kota Malang,112.6375169,-7.959887781,6.853339,0.427035
+438,RS Islam Gondang Legi,Jl. Hayam Wuruk 66 Gondang Legi Malang,,Kota Malang,112.639956,-8.170651652,0.738695,0.181066
+439,RS Islam Aisyiyah Malang,Jl. Sulawesi No. 6 Malang,,Kota Malang,112.625455,-7.988733706,0.467146,0.424152
+440,RS Sumber Sentosa,Jl. Kebonsari No. 221 Malang,,Kota Malang,112.7618901,-8.003154439,1.055278,0.354985
+441,RS Dharma Husada,Jl. Sukarno Hatta Probolinggo,,Kota Probolinggo,113.1980437,-7.753837181,2.135649,0.641184
+442,RS Wonolangan,Jl. Raya Dringun Probolinggo,,Kota Probolinggo,113.234207,-7.761520212,1.104646,0
+443,RS PTP XXI_XXII Gatoel,Jl. R Wijaya No.56 Mojokerto,,Mojokerto,112.4333257,-7.480596845,4.245078,0.073884
+444,RS Reksa Waluya,"Jl. Mojopahit 422, Mojokerto",,Mojokerto,112.4317517,-7.477734103,4.214997,0.073884
+445,RS Hasanah Muhammadiyah,Jl. HOS Cokroaminoto No. 26-28 Mojokerto,,Mojokerto,112.4358853,-7.468445795,4.913356,0.245149
+446,RS Santa Clara,Jl. Biliton No. 15 Madiun,,Kota Madiun,111.5239902,-7.621415257,3.001511,0.181713
+447,RS Islam Siti Aisyah,Jl. Mayjen SungkoNo. 38 - 40 Madiun,,Kota Madiun,111.5122583,-7.632469368,2.237237,0.030788
+448,RS William Booth,"Jl. Diponegoro 34,Surabaya",,Surabaya,112.7369994,-7.290969114,5.398394,0.091394
+449,RS Adi Husada Pusat,"Jl. Undaan Wetan 40-44,Surabaya",,Surabaya,112.7459979,-7.251831584,5.444534,0.077541
+450,RS Griya Husada Surabaya,"Jl. Dukuh Pakis No.2,Surabaya",,Surabaya,112.7083229,-7.293461752,5.098483,0.159406
+451,RS Husada Utama,Jl. Prof Dr Moestopo 31-33-35 Surabaya,,Surabaya,112.7563118,-7.265534402,5.213833,0.077541
+452,RS Mitra Keluarga Surabaya,Jl. Satelit Indah II Surabaya,,Surabaya,112.6909993,7.266867673,5.513744,0.080429
+453,RS Gotong Royong,Jl. Medokan Semampir Indah Sby,,Surabaya,112.7869993,-7.307619397,0.380656,0.052147
+454,RSU Bunda Surabaya,,,,112.7409992,-7.227970934,5.190763,0.080577
+455,RS PTP XII Bakti Husada,Krikilan Glenmore Banyuwangi,,Banyuwangi,114.0143312,-8.308054392,0.401925,0.038806
+456,RS Syuhada Haji,Jl. Mojo No.12 Pakunden-Blitar,-,Kota Blitar,112.1380753,-8.083574326,0.847275,0.298856
+457,RS Al Dr Ramelan,Jl. Gadung No. 1 Surabaya,1,Surabaya,112.7379804,-7.308368526,5.236903,0.078639
+458,Rumkit Tk.II Dr. Soepraoen,"Jl. Sodanco Supriyadi No.22,Malang",2,Kota Malang,112.1748049,-8.095011921,2.348449,0.256147
+459,RS Bhayangkara Kediri,Jl. Kombes Pol Duryat 17 Kediri,3,Kota Kediri,112.0178133,-7.812460982,0.386196,0.174154
+460,RS Lanuma Iswahyudi,Lanud Iswahyudi Magetan,3,Kota Madiun,111.4392494,-7.611970881,0.315232,0.321794
+461,RS Al Tanjung Perak,"Jl. Laksda M.Nazir No.56,Surabaya",3,Surabaya,112.7243311,-7.212457722,3.206738,0.124735
+462,"Rumkit Tk III Brawijaya,Sby",Jl. Kesatrian No.17 Surabaya,3,Surabaya,112.7251828,-7.297849507,5.190763,0.087303
+463,RS AL Gunungsari,Jl. Golf No. 1 Surabaya,3,Surabaya,112.7127285,-7.305853593,4.198751,0.182584
+464,RS Pusdik Polri Porong,Pusdik Sabhara Porong,4,Sidoarjo,112.7003813,-7.538542864,1.622204,0.004405
+465,RS AL Batuporon,Jl. Mawar Madura Kab Bangkalan,4,Bangkalan,112.7514781,-7.025737324,0.996759,0.394634
+466,Rumkit Tk.IV Kediri,"Jl. Mayjen SungkoNo. 44, Kediri",4,Kota Kediri,112.4475547,-7.451929285,1.995488,0.051927
+467,RS Lanuma Abdul Saleh,"Jl. Dr. M. Munir No.18, Malang",4,Kota Malang,112.6758874,-7.952062059,1.016904,0.346322
+468,Rumkitban Mojokerto,Jl. R Wijaya 58 Mojokerto,4,Mojokerto,112.4380791,-7.48161798,4.245078,0.067729
+469,RS Rumkit Tk.IV Madiun,Jl. Pahlawan No. 79 Madiun,4,Kota Madiun,111.5220103,-7.623029451,3.001511,0.181713
+470,RS AL Pal Surabaya,Jl. Taruna 66-68 Ujung Surabaya,4,Surabaya,112.7404864,-7.20735651,2.491566,0.168011
+471,RS AL Juanda,"Jl. Bachtiar Yahya No.1,Juanda,Surabaya",4,Surabaya,112.7372804,-7.276588513,5.675234,0.080429
+472,RS TNI AU Soemitro,Jl. Serayu 17 Surabaya,4,Surabaya,112.7407674,7.291472992,5.029273,0.091394
+473,RS AL Kodikal,Jl. Morokrembangan Surabaya,4,Surabaya,112.7414897,-7.305697525,5.606024,0.078639
+474,RS Bhayangkara H.S.Samsoeri Mertojoso,"Jl. Achmad Yani No.16,Surabaya",4,Surabaya,112.7002609,-7.340028144,0.300858,0.188562
+475,RSU Dr. Saiful Anwar,Jl. Jaksa Agung Suprapto No.2 Malang,A,Kota Malang,112.6317111,7.964534165,6.853339,0.405738
+476,RSU Dr. Soetomo,Jl. Prof Dr. Moestopo Surabaya,A,Surabaya,112.7582203,7.266680391,5.836725,0.077541
+477,RSUD Dr Soegiri Lamongan,Jl. Kusumabangsa 7 Lamongan,B,Lamongan,112.410999,-7.114130084,1.152833,0.279404
+478,RSU &quot;Kanjuruhan&quot;Kepanjen,"Jl. Panji No. 100 Kepanjen, Malang",B,Malang,112.5708489,-8.140543801,1.122432,0.266801
+479,Premier Surabaya,Jl. Ninden Intan Barat Sby,B,,112.7650873,-7.304792327,5.190763,0.159163
+480,RSUD Ibnu Sina Kab. Gresik,"Jl. Dr. W Sudiro Husodo No.243 B, Gresik",B,Gresik,112.6514248,-7.161780038,0.258803,0.024388
+481,RSUD Kab. Jombang,"Jl. KHW Hasyim 52, Jombang",B,Jombang,112.2308157,-7.537539566,0.285598,0.425711
+482,RSU Dr. R Koesma Tuban,"Jl. Dr W S Husodo No.800, Tuban",B,Tuban,112.0461687,-6.899584896,1.294333,0
+483,RSU Haji Surabaya,Jl. Manyar Kertoadi Surabaya,B,Surabaya,112.7795838,-7.282331835,5.306114,0.161532
+484,RSU Dr. R. Sosodoro Djatikoesoemo,"Jl. Dr Wahidin No.40, Bojonegoro",B,Bojonegoro,111.8982827,-7.142940336,1.176794,0.024158
+485,RS Islam Surabaya Jemursari,"Jl. Jemursai 51 - 57, Surabaya",B,Surabaya,112.7400004,-7.322717914,5.721375,0.081724
+486,RSUD Dr. Harjono S Ponorogo,Jl. Ciptomangunkusumo Ponorogo,B,Ponorogo,111.4685368,-7.854104527,1.175484,0.331897
+487,RSUD Dr Iskak Tulungagung,"Jl. Dr. W Sudirohusudo, Tulungagung",B,Tulungagung,111.9076156,-8.060618874,1.791981,0.293724
+488,RSUD Ngudi Waluyo Wlingi,Jl. Dr. Sucipto No.5 Wlingi,B,Blitar,112.3155653,-8.08380174,0.519386,0.185383
+489,RSU Pare,"Jl. Pahlawan Kusuma Bangsa No.1, Pare",B,Kediri,112.1759821,-7.759758867,1.475434,0.245707
+490,RSU Dr. Haryoto Lumajang,"Jl. Basuki Rahmat No.5, Lumajang",B,Lumajang,113.227777,-8.122274864,1.606013,0.369548
+491,RSU Dr. Soebandi,"Jl. Dr. Soebandi No.124, Jember",B,Jember,113.7153931,-8.156190787,2.143216,0.387396
+492,RSUD Dr. H.Koesnadi,Jl. Piere Tendean Bondowoso,B,Bondowoso,114.3774581,-8.215010789,0.906301,0.468607
+493,RSUD Sidoarjo,Jl. Mojopahit No.667 Sidoarjo,B,Sidoarjo,112.7156582,-7.465257538,0.392744,0.047311
+494,RSU Prof Dr Soekandar,Jl. Hayam Wuruk 25 Mojosari,B,Mojokerto,112.4350425,-7.4627649,3.131204,0.091796
+495,RSUD Nganjuk,"Jl. Dr. Sutomo 62, Nganjuk",B,Nganjuk,111.8723485,-7.661177061,0.795449,0.173373
+496,RSUD Syarifah Ambarni Rato Ebuh,Jl. Pemuda Kaffa No. 9 Bangkalan,B,Bangkalan,112.7592682,-7.029260014,0.670659,0.079904
+497,RSUD Pamekasan,"Jl. Raya Panglegur No.4, Pamekasan",B,Pamekasan,113.4792792,-7.183371006,0.704287,0.022027
+498,RSU Gambiran,Jl. KH Wahid Hasyim 64 Kediri,B,Kota Kediri,112.0049979,-7.815947999,3.409658,0.028103
+499,RSU Dr. Moh Saleh Probolinggo,Jl. Panjaitan No.65 Probolinggo,B,Kota Probolinggo,113.2103241,-7.748950006,0.328448,0
+500,RSU Dr. Soedono Madiun,"Jl. Dr. Soetomo 59, Madiun",B,Kota Madiun,111.5241239,-7.626431745,3.001511,0.181713
+501,RSUD Dr. Mohamad Soewandhie,Jl. Tambakrejo 45-47 Surabaya,B,Surabaya,112.7580018,-7.246132853,5.582954,0.081699
+502,RS Kristen Mojowarno,"Jl. Merdeka No.59 Mojowarno, Jombang",C,Jombang,112.2436846,-7.5386588,2.976996,0.240169
+503,RS Panti Waluya Sawahan,"Jl. Nusakambangan No.56, Malang",C,Kota Malang,112.6264405,-7.987997954,0.467146,0.438815
+504,RSUD Genteng,"Jl. Hasanudin No.98,Genteng",C,Banyuwangi,114.1477698,-8.364051783,1.497368,0.491377
+505,RSUD Kab. Sampang,"Jl. Rajawali No. 10, Sampang",C,Sampang,113.267686,-7.151122787,0.024255,0.324544
+506,RS Adi Husada Hapsari,Jl. Kapasari No. 97-101 Surabaya,C,,112.7510233,-7.247046969,5.629094,0.080601
+507,RS Budi Rahayu,Jl. Jend.A Yani 18 Blitar,C,Kota Blitar,112.1720001,-8.099738568,2.721039,0.343615
+508,RS Al-irsyad,Jl. KH.Mansyur 210 Surabaya,C,Kota Surabaya,112.7409992,-7.227970934,5.190763,0.080577
+509,RSU Dr. Soedomo Trenggalek,Jl. Dr Soetomo No. 2 Trenggalek,C,Trenggalek,111.5241239,-7.626431745,3.001511,0.181713
+510,RSUD Bhakti Dharma Husada,"Jl. Raya Kendung No.115-117, Surabaya",C,Kota Surabaya,112.6349217,-7.253378892,4.406381,0.045202
+511,RS PT Semen Gresik,Jl. R A Kartini No. 280 Gresik,C,Gresik,112.6419983,-7.165828902,2.600533,0.097543
+512,"RSUD kab, Pacitan",Jl. Jen A Yani No. 51 Pacitan,C,Pacitan,111.1020433,-8.201250003,1.284197,0.925338
+513,RSU Blambangan,Jl. Istiqlah No. 49 Banyuwangi,C,Banyuwangi,114.3582394,-8.23628516,1.844126,0.453157
+514,RSUD dr. Abdoer Rahem Situbondo,Jl. Anggrek No. 68 Situbondo,C,Situbondo,114.0147682,-7.702981133,0.220059,0.256193
+515,RSU Islam Orpeha,Jl. KHR Abdul Fatah Tulungagung,C,Tulungagung,111.8831172,-8.05260141,1.141048,0.042296
+516,RS Utama Husada,"Jl. Manggar No.134 Tegalsari, Ambulu Jember",C,Jember,113.6950016,-8.160855007,1.364834,0.413273
+517,RSUD Balung,"Jl. Rambipuji 19, Balung Jember",C,Jember,113.5393032,-8.271043853,0.916998,0.613859
+518,RSU Waluyo Jati Kraksaan,Jl. Dr Sutomo No. 1 Kraksaan,C,Probolinggo,113.4374038,-7.761832349,0.696332,0.588964
+519,RSUD Bangil,Jl. Raci - Bangil,C,Pasuruan,112.8305246,-7.608376845,0.040563,0.539017
+520,RSU Kertosono,Jl. Supriadi No. 29 Kertosono.,C,Nganjuk,112.1258484,-7.592636219,0.629284,0.596489
+521,RSUD Panti Waluyo,Jl. A Yani Km 2 Caruban Madiun,C,Madiun,111.6556942,-7.538814869,0.097644,0.352729
+522,RSU Dr. Saydiman Magetan,Jl. Pahlawan No.2 Magetan,C,Magetan,111.3349198,7.652834083,1.110477,0.189834
+523,RSU Dr. Soeroto Ngawi,"Jl. Dr Wahidin 27, Ngawi",C,Ngawi,111.4450017,-7.392681209,0.397356,0.626155
+524,RSU Muh Anwar Sumenep,Jl. Dr Cipto No. 42 Sumenep,C,Sumenep,113.8637295,-7.015334242,1.223357,0.224298
+525,RSU Marsudi Waluyo,Jl. Raya Mondoroko Km. 9 Singosari Malang,C,Kota Malang,112.6555094,-7.905723081,1.429422,0.593747
+526,RS Islam Malang,Jl. M. T. Haryono No. 139 Malang,C,Kota Malang,112.6086933,-7.940267737,6.874103,0.427564
+527,RSU Dr. R.Soedarsono Pasuruan,Jl. Dr Wahidin Sudirohusodo No. 1-4 Pasuruan,C,Kota Pasuruan,112.8989986,-7.66420925,2.563982,0.310317
+528,RSU Dr. Wahidin S Husodo,Jl. Gajah Mada 100 Mojokerto,C,Mojokerto,112.4370937,-7.465088092,4.913356,0.091796
+529,RS Islam Sakinah,Jl. RA Basuni No.12 Mojokerto,C,Mojokerto,112.4240017,-7.496261667,2.526931,0.073133
+530,RSUD RA.Basoeni,"Jl. Raya Gedeg No.17,Kab.Mojokerto",C,Mojokerto,112.4097951,-7.455995985,0.538919,0.071176
+531,RSUD Kota Madiun,"Jl. Campursari No.12,Madiun",C,Kota Madiun,111.5222779,-7.626592273,3.001511,0.181713
+532,RS Islam Surabaya,Jl. Jend A Yani 2-4 Surabaya,C,Surabaya,112.7407049,-7.323511634,5.721375,0.159163
+533,RS Islam Darus Syifa,"Jl. Raya Benowo No.5,Surabaya",C,Surabaya,112.6130007,-7.23538196,0.394498,0.085358
+534,RSUD Lawang,"Jl. RA Kartini 5, Lawang Kab. Malang",D,Malang,112.6761461,-7.839826485,0.661947,0.388334
+535,RSUD Sumberrejo,"Jl. Raya No.231 Sumberrejo,Bojonegoro",D,Bojonegoro,111.8982827,-7.142940336,1.176794,0.024158
+536,RSUD Kalisat Kab.Jember,Jl. M.H.Thamrin No.31 Jember,D,Jember,113.6719793,-8.201455122,0.437173,0.530535
+537,RSUD Padangan,"Jl. Dr. Soetomo No.02 Padangan,Bojonegoro",D,Bojonegoro,111.6335146,7.160638508,0.584224,0.500374
+538,RSUD Tongas,"Jl. Raya Tongas No. 229,Probolinggo",D,Kota Probolinggo,113.1195056,-7.735421093,0.729491,0.637579
+539,Rumkit Tk.III Baladika Husada Jember,Jl. PB Sudirman No. 49 Jember,III,Jember,113.6704097,8.260301878,1.162241,0.037456
+540,RS Pelabuhan Tg.Priok,Jl. Kramat Jaya Tg Priok Jakut,,Kota Jakarta Utara,106.9180019,-6.124998912,6.685334,0.116329
+541,RS Sahid Sahirman,"Jl. Jend.Sudirman No.86, Jaksel",,,106.8021812,-6.227201508,6.782517,0.011048
+542,RS Islam Jakarta Utara,Jl. Tipar Cakung No.5 Jakut,,Kota Jakarta Utara,106.9209538,-6.13978975,7.028973,0.113102
+543,RS PGI Tjikini,Jl. Raden Saleh No. 40 Jakpus,,Kota Jakarta Selatan,106.8419831,6.191484108,7.993453,0.205483
+544,RS Jakarta Medical Center (JMC),"Jl. Buncit Raya No.15,Jakarta Selatan",,Jakarta Selatan,106.8302022,-6.271395658,7.063159,0.085145
+545,RS Pantai Indah Kapuk,Jl. Pantai Indah Utara 3 Jakut,,Jakarta Utara,106.7531846,-6.111942664,4.935901,0.287706
+546,RS FK UKI,"Jl. May.Jen Soetoyo Cawang,Jakarta Timur",,Jakarta Timur,106.8720018,-6.250919466,6.463871,0.542575
+547,RS Pusat Pertamina,"Jl. Kyai Maja,Jakarta Selatan",,Jakarta Selatan,106.8004778,-6.242835116,6.426317,0.085523
+548,RS Jakarta,"Jl. Jend.Sudirman Kav.49,Jaksel",,Jakarta Selatan,106.8021812,-6.227201508,6.782517,0.011048
+549,RS Kebayoran,"Jl. Birah III/4 Keb Baru,Jaksel",,Jakarta Selatan,106.8220331,-6.233158867,5.702632,0.156201
+550,RS Setia Mitra,"Jl. Fatmawati No. 80-82,Jaksel",,Jakarta Selatan,106.8060561,-6.269362308,6.860527,0.106057
+551,RS Tebet,"Jl. Let.Jend.Haryono. MT No.8,Jaksel",,Jakarta Selatan,106.8514676,-6.238465197,0.628158,0.292301
+552,RS Pondok Indah,"Jl. Metro Duta Pd Indah,Jaksel",,Jakarta Selatan,106.7803494,-6.280487765,6.136843,0.099076
+553,RSU Prikasih,"Jl. RS Fatmawati Raya 74,Jaksel",,Jakarta Selatan,106.7949886,-6.313355799,6.316359,0.090376
+554,RS Harapan Kartini,"Jl. Ampera Raya No.1,Jaksel",,Jakarta Selatan,106.8156343,-6.286137446,6.744738,0.089178
+555,RSU Gandaria,"Jl. Gandaria Tengah 11 Kby Baru,Jaksel",,Jakarta Selatan,106.7929954,-6.246518333,6.686843,0.483471
+556,RS Agung,"Jl. Sultan Agung No.67,Jaksel",,Jakarta Selatan,106.8446809,-6.209253626,7.292259,0.270987
+557,RS Siaga Raya,"Jl. Siaga Raya Kav.4-8,Jaksel",,Jakarta Selatan,106.8382063,-6.272934048,6.947369,0.143514
+558,RS Pasar Minggu,"Jl. Raya Ragunan P 7,Jaksel",,Jakarta Selatan,106.8329178,-6.286480797,7.034212,0.432036
+559,RS Medistra,"Jl. Gatot Subroto Kav 59,Jaksel",,Jakarta Selatan,106.8337917,6.240012505,0.616579,0.111143
+560,RS Indah Medika,"Jl. Tebet Raya No. 4-6,Jaksel",,Jakarta Selatan,106.8482392,-6.229462272,7.121054,0.026494
+561,RSU Tria Dipa,"Jl. Raya Pasar Minggu No.3A,Jaksel",,Jakarta Selatan,106.842652,-6.250482474,6.918422,0.273713
+562,RS LPK Cipinang,"Jl. Bekasi Timur 170,Jaktim",,Jakarta Timur,106.8928079,-6.209757504,7.763547,0.205931
+563,RSU Kartika Pulo Mas,Jl. Pulo Mas Barat IV Jaktim,,Jakarta Timur,106.8850982,-6.1740624,0.500025,0.366464
+564,RS Harum,"Jl. Tarum Barat, Kalimalang",,Jakarta Timur,106.9092665,-6.247691077,7.599065,0.302913
+565,RS Harapan Jayakarta,Jl. Bekasi Timur No. 6 Jaktim,,Jakarta Timur,106.9061273,-6.194922075,7.335894,0.165018
+566,RS Dharma Nugraha,Jl. Balai Pustaka Baru 9 Jaktim,,Jakarta Timur,106.8545979,6.199341044,8.225068,0.203576
+567,RS Mediros,"Jl. P.Kemerdekaan 149,Jaktim",,Jakarta Timur,106.9038219,-6.179627359,7.368373,0.027476
+568,RS Husada,Jl. Raya Mangga Besar No.137/139 Jakpus,,Jakarta Pusat,106.8346345,-6.148721329,8.061483,0.108896
+569,RS Pertamina Jaya,Jl. A. Yani No. 2 By Pass Jakarta Pusat,,Jakarta Pusat,106.8760908,-6.173286517,6.783959,0.183845
+570,RS Moh Husni Thamrin,Jl. Salemba Tengah 24-28 Jakpus,,Jakarta Pusat,106.8519983,-6.193548672,8.018826,0.203576
+571,RS Abdi Waluyo,Jl. Hos Cokroaminoto 31-33 Jakarta Pusat,,Jakarta Pusat,106.8290294,-6.18968709,7.721336,0.146845
+572,RS Pelni Petamburan,Jl. K. S. Tubun 92-94 Jakbar,,Jakarta Barat,106.8053248,-6.193432735,7.150519,0.015133
+573,RS Trisna Pangastuti,Jl. KS Tubun No.79 Slipi Jakbar,,Jakarta Barat,106.8009995,-6.19921173,7.483233,0.141422
+574,RSU Al-Kamal,Jl. Raya Al Kamal Kebon Jeruk Jakbar,,Jakarta Barat,106.7620181,-6.187225667,9.017568,0.398969
+575,RS Patria IKKT,Jl. Cendrawasih 1 Slipi Jakbar,,Jakarta Barat,106.7926699,-6.196955425,9.139285,0.260904
+576,RS Medika Permata Hijau,Jl. Kebayoran Lama No.64 Jakarta Barat,,Jakarta Barat,106.7779995,-6.218350192,6.686843,0.352969
+577,RS Puri Mandiri Kedoya,"Jl. Raya Kedoya No.2,Kelurahan Kedoya Jakbar",,Jakarta Barat,106.7622009,-6.188220046,9.017568,0.398969
+578,RS Royal Taruma,"Jl. Daan Mogot No.34,Jakarta Barat",,Jakarta Barat,106.7850226,-6.166365992,8.346493,0.296945
+579,RS Puri Indah,"Jl. Puri Indah Raya,Blok S-2,Kel.Kembangan Selatan,Jakbar",,Jakarta Barat,106.7407258,-6.185856723,0.943699,0.094426
+580,RS Akademik Atma Jaya,Jl. Pluit Raya Jakarta Utara,,Jakarta Utara,106.7930534,-6.126684452,7.858056,0.116339
+581,RS Satya Negara,Jl. Agung Utara Raya No. 1 Jakut,,Jakarta Utara,106.8585933,-6.137586954,0.759129,0.085533
+582,RS Pluit,Jl. Raya Pluit Selatan 2 Jakut,,Jakarta Utara,106.7983374,-6.125578595,6.185496,0.168352
+583,RS Port Medical Center,"Jl. Enggano No.10 Tanjung Priok, Jakarta Utara",,Jakarta Utara,106.8878628,-6.110756543,7.528811,0.111477
+584,RS Gading Pluit,"Jl. Boulevard Timur Raya Pegangsaan Dua,Kelapa Gading",,Jakarta Utara,106.9169228,-6.166379369,7.341371,0.130536
+585,RS Mulyasari,"Jl. Raya Plumpung Semper No.19 RT.006/RW.015, Jakarta Utara",0,JAKARTA UTARA,106.9173196,-6.129400044,7.310132,0.112175
+586,RS PAD Gatot Soebroto,Jl. Dr A Rahman Saleh No. 24 Jakarta Pusat,1,Jakarta Pusat,106.8387146,-6.176171555,7.925424,0.369996
+587,Rumkit Tk II M.Ridwan Meuraksa,"Jl. Kramat Raya No.174, Jakarta Pusat",2,Kota Jakarta Pusat,106.8466072,-6.191751654,8.018826,0.205483
+588,RS Halim Perdana Kusuma,"Jl. Merpati No. 2 Halim Perdana Kusuma, Jakarta",2,Jakarta Timur,106.8939985,-6.262080596,1.052684,0.121273
+589,RS Kepolisian Pusat,"Kramat Jati,Jakarta Timur",2,Jakarta Timur,106.87618,-6.275765577,6.513484,0.414746
+590,RS AL Dr Mintoharjo,Jl. Bendungan Hilir 17 Jakpus,2,Jakarta Pusat,106.8120001,-6.210948084,6.424945,0.012259
+591,RS AL Cilandak,"Jl. Raya Cilandak,Jaksel",3,Jakarta Selatan,106.8148673,-6.309596777,0.408158,0.146496
+592,RS Pusdikkes,"Jl. Raya Bogor,Jakarta Timur",4,Jakarta Timur,106.8690142,-6.276140142,7.533272,0.414746
+593,Rumkit Tk IV Cijantung,"Jl. Mahoni Pasar Rebo,Jaktim",4,Jakarta Timur,106.858999,-6.307282503,7.001775,0.094796
+594,RSUP Fatmawati,"Jl. RS Fatmawati Cilandak,Jaksel",A,Kota Jakarta Selatan,106.7955639,-6.294846071,5.586843,0.148545
+595,RS MMC,"Jl. H R. Rasuna Said No.21,Jaksel",A,Kota Jakarta Selatan,106.8324139,-6.219879664,0.408158,0.481336
+596,RSU Dr. Cipto Mangunkusumo (RSCM),Jl. Diponegoro 71 Jakarta Pusat,A,Jakarta Pusat,106.8451535,-6.196661125,7.993453,0.205483
+597,RSUP Persahabatan,"Jl. Raya Persahabatan,Jaktim",B,Kota Jakarta Timur,106.8847726,-6.204058773,7.928029,0.403125
+598,RSUD Budhi Asih,"Jl. Dewi Sartika, Cawang III/ 200,Jakarta Timur",B,Kota Jakarta Timur,106.8633645,-6.256167828,0.074946,0.426228
+599,RS Mitra Keluarga Kelapa Gading,Jl. Bukit Gading Raya Kav.2,B,Kota Jakarta Utara,106.8971021,-6.151922964,7.028973,0.316874
+600,RS Mitra Kemayoran,Jl. Landas Pacu Timur Kemayoran,B,Kota Jakarta Utara,106.8586379,-6.152074573,6.773783,0.028748
+601,RS Omni Medical Center,"Jl. Pulomas Barat VI/20,Jaktim",B,Jakarta Timur,106.8836133,-6.179948414,0.500025,0.366464
+602,RS Siloam Graha Medika,Jl. Perjuangan Raya Kav.8 Jakarta Barat,B,Jakarta Barat,106.7634717,-6.19077957,9.730585,0.398969
+603,RS Sint Carolus,Jl. Salemba Raya No.41 Jakarta Pusat,B,Jakarta Pusat,106.8451312,-6.184737488,8.231556,0.176128
+604,RS Islam Jakarta Cempaka Putih,Jl. Cempaka Putih Tengah I Jakarta Pusat,B,Jakarta Pusat,106.8707131,-6.170312296,8.197541,0.169334
+605,RSUD Koja,"Jl. Deli No.4 Tanjung Priok,Jakut",B,Jakarta Utara,106.9000005,-6.108861425,7.966169,0.145726
+606,RS Mitra Internasional,"Jl. Jatinegara Timur No.85A-87,Jaktim",B,Jakarta Timur,106.8681893,-6.221395758,7.270101,0.295315
+607,RSUD Cengkareng,"Dra. Khafifah Any,Apt,MARS",B,PemPro DKI Jakarta,106.7350004,-6.142750593,9.688643,0.134451
+608,RSU Pasar Rebo,"Jl. TB Simatupang No.30,Jaktim",B,Jakarta Timur,106.8673955,-6.318381206,7.270101,0.001184
+609,RSU Tarakan,Jl. Kyai Caringin Jakarta Pusat,B,Jakarta Pusat,106.8064575,-6.172840607,8.651885,0.152621
+610,RS Manuela,Jl. Mangga Besar VIII/23 Jakbar,C,Kota Jakarta Barat,106.8093871,-6.151200589,10.695255,0.124784
+611,RS Kramat 128,"Jl. Kramat Raya No.128,Jakpus",C,Jakarta Pusat,106.8440878,-6.185348385,8.231556,0.176128
+612,RS Medika Griya,Jl. Danau Sunter Utara Jakut,C,Jakarta Utara,106.8653265,-6.138951439,6.872773,0.116274
+613,RS Sukmul,Jl. Tawes No.18-20 Jakarta Utara,C,Jakarta Utara,106.8819991,-6.112330605,7.528811,0.129879
+614,RS Harapan Bunda,Jl. Raya Bogor Km.22 No.44 Jaktim,C,Jakarta Timur,106.8674312,6.30303298,7.829339,0.032954
+615,RS Yadika,Jl. P.Revolusi No.47 Pondok Bambu Jaktim,C,Jakarta Timur,106.7779237,-6.255226958,6.773685,0.094005
+616,RSU Haji Jakarta,Jl. Raya Pondok Gede Jaktim,C,Jakarta Timur,106.8892986,6.290034701,7.335894,0.162707
+617,RS Keluarga Afi,Jl. Kalipasir No.9 Jakarta Pusat,D,Jakarta Pusat,106.8387636,-6.187216749,8.231556,0.179738
+618,RS Sumber Waras,Jl. Kiyai Tapa Grogol Jakbar,b,Kota Jakarta Barat,106.7980075,-6.166629079,9.367375,0.015759
+619,RS Islam Jakarta Timur,Jl. Raya Pondok Kopi Jakarta Timur,c,Jakarta Timur,106.9400923,-6.220205178,6.908241,0.485845
+620,RS Islam Kendal,"Jl. Ar.Rahmah No.17 Weleri,Kendal",,Kendal,110.067456,-6.923570401,0.149747,0.687845
+621,RSU Bhakti Waluyo,"Ds Sukorejo,Warungasem,Batang",,Batang,109.6959014,-6.90318785,1.420647,0.028113
+622,RS Islam Moga,"Jl. Raya Moga Pulosari,Pemalang",,Pemalang,109.4125345,-6.901417587,0.183843,0.306322
+623,RS Islam Al-Ikhlas,"Jl. Kol.Soegiono No.13,Pemalang",,Pemalang,109.4114687,-6.904084129,0.183843,0.306322
+624,RS Telogorejo Semarang,Jl. KH. Ahmad Dahlan Semarang,,Kota Semarang,110.42665,-6.988276416,0.379859,0.243285
+625,RSU PKU Muhammdiyah DI,"Jl. Raya Delanggu Utara No.19,Delanngu",,Klaten,110.6987577,-7.61951568,1.111187,0.307841
+626,RS Mardi Lestari Sragen,"Jl. Rokan No.8,Sragen",,Sragen,111.0176325,-7.428090931,0.017491,0.391054
+627,RS Brayat Minulya,Jl. Dr. Setiabudi Surakarta,,Kota Surakarta,110.8139987,-7.552709428,0.286602,0.464075
+628,RS Keluarga Sehat,"Jl. P. Sudirman No.9, Mrgorejo - Pati",,Jateng,111.0329227,-6.751462478,0.213381,0.265865
+629,RS Pertamina Cilacap,"Jl. Dr.Setiabudi Tegal Katilayu, Cilacap",,Cilacap,109.0415194,-7.702477255,0.687832,0
+630,RSU Emmanuel,Jl. Raya Klampok Banjarnegara,,Banjarnegara,109.6163154,-7.379437679,0.101417,0.801818
+631,RS PKU Muhammadiyah Sruweng,Jl. Raya Sruweng No.5 Sruweng Kebumen,,Kebumen,109.6093681,-7.663005292,0.722013,0.978762
+632,RSU Triharsi,"Jl. Monginsidi No.82,Surakarta",,Surakarta,110.8259982,-7.55740932,3.011302,0.466676
+633,RS Islam Banjarnegara,Jl. Raya Bawang Banjarnegara,,Banjarnegara,109.6161058,-7.401416588,0.931193,0.841199
+634,RS Santa Elizabeth,Jl. Gatot Subroto 44 Purwokerto,,Banyumas,109.2937128,-7.525459861,1.084701,0.978751
+635,RSU Bunda,Jl. Pramuka No. 249 Purwokerto,,Banyumas,109.2949212,-7.528572314,0.675715,0.978751
+636,RS Sinar Kasih,Jl. Martadireja II Purwokerto,,Banyumas,109.2551639,-7.428519004,2.018255,0.008268
+637,RSU Wishnu Husada,"Jl. Raya Notog Mt.200,Patikraja - Banyumas",,Banyumas,109.2161824,-7.49342122,0.133365,0.985216
+638,RSU Harapan Ibu,"Jl. May.Jend.Soengkono KM.1,Purbalingga",,Purbalingga,109.3613262,-7.390358017,1.589821,0.760476
+639,RS Purbowangi,Jl. Yos Sudarso Barat Gombong,,Kebumen,109.4859982,-7.60999104,0.615281,0.983482
+640,RS Panti Waluyo Yakkum Purworejo,Jl. Ahmad Yani No. 21 Purworejo,,Purworejo,110.0167471,-7.712773319,0.909706,0.843678
+641,RSU PKU Muhammadiyah Purworejo,"Jl. Brigjend Katamso No.144-A, Purworejo",,Purworejo,110.0024958,-7.731523839,0.499038,0.977989
+642,RS Palang Biru Kutoarjo,"Jl. Marditomo No.17,Kutoarjo,Kab.Purworejo",,Purworejo,109.9089261,-7.722369305,0.800541,0.890386
+643,RSI Al-Amin,"Jl. Raya Boyolali-Solo, Boyolali",,Boyolali,110.6202196,-7.56509681,0.611554,0.634811
+644,RS Dr. Oen Sawit,"Ds Keteguhan,Sawit,Boyolali",,Boyolali,110.8697241,-7.590277354,0.092452,0.393503
+645,RS PKU Aisyiyah Boyolali,Jl. Pasar Sapi Baru Singkil - Karanggeneng - Boyolali,,Boyolali,110.6077207,-7.518298545,0.534231,0.620565
+646,RS Umi Barokah,"Jl.Prof.DR.Soeharso No.6 Tegal Rejo,Boyolali",,Boyolali,110.5952129,-7.51554282,1.019257,0.609994
+647,RS Karanggede Sisma Medika,"Jl. Raya Karanggede - Solo KM.1, Boyolali",,Boyolali,110.6202196,-7.56509681,0.611554,0.634811
+648,RS Cakra Husada,"Jl. Merbabu No. 7,Klaten",,Klaten,110.5946555,-7.709107938,1.814938,0.317882
+649,RSU Nirmala Suri,"Jl. Raya Solo Sukoharjo Km.9, Sukoharjo",,Sukoharjo,110.8352017,-7.653355798,1.167379,0.702518
+650,RS Muhammadiyah Wonogiri,"Jl. Lama Nambangan Selogiri, Wonogiri",,Wonogiri,110.8837034,-7.759540371,0.574635,0.670488
+651,RS Amal Sehat,"Jl. Ngerjopuro RT.02/RW.03,Slogohimo Wonogiri",,Wonogiri,110.9239824,-7.814146522,1.166256,0.419604
+652,RS Muhammadiyah Gubug,"Jl. Letjen Suprapro No.12,Purwodadi",,Grobogan,110.6670089,-7.060669922,1.817481,0.638721
+653,RS PPT Migas Cepu,"Jl. Diponegoro No.9,Cepu",,Blora,111.5936904,-7.142565772,2.070136,0.246482
+654,RS PKU Muhammadiyah Cepu,"Jl. Ronggolawe No.137,Cepu",,Blora,111.4512578,-6.971973943,0.556494,0.377969
+655,RS Mardi Rahayu,"Jl. AKBP R Agil 110,Kudus",,Kudus,110.8312733,-6.830054134,1.955414,0.331221
+656,RS Islam Jepara,"Jl. Jepara-Bangsri KM.3,Jepara",,Jepara,110.6821922,-6.577365795,1.359568,0
+657,RS Graha Husada,"Jl. MH.Thamrin No.14,Jepara",,Jepara,110.6712272,-6.596348188,1.939384,0
+658,RS Islam NU Demak,"Jl. Jogoloyo No.9,Demak",,Demak,110.6387828,-6.919057791,0.184409,0.333039
+659,RSU Bina Kasih,"Jl. Naryo Atmajan 24,Ambarawa",,Semarang,110.3782019,-7.271928753,0.892376,0.285685
+660,RS Siti Asiyah,Jl. Pasar Wage Bumiayu Brebes,,Brebes,109.0065021,-7.244059371,1.571016,0.887825
+661,RS Islam Siti Aminah,Jl. Raya 155 Bumiayu Brebes,,Brebes,109.007385,-7.257084405,0.243693,0.897025
+662,RSU Lestari Raharja,"Jl. Sutopo No.5,Magelang",,Kota Magelang,110.2163409,-7.479040619,2.774942,0.731382
+663,RS Harapan,"Jl. Senopati No.11,Magelang",,Kota Magelang,110.2173755,-7.479638139,2.774942,0.731382
+664,RS Islam Magelang,"Jl. Jeruk No.4 A , Kota Magelang",,Kota Magelang,110.2256293,-7.457735034,0.811594,0.728521
+665,RS Islam Surakarta,"Jl. Ahmad Yani, Kertasura, Pabelan,Sukoharjo",,Surakarta,110.7709416,-7.55894771,2.340596,0.326975
+666,RSU Panti Wilasa I,"Jl. Citarum 98,Semarang",,Kota Semarang,110.4344846,-6.973160064,4.107022,0.368504
+667,RS Banyumanik,"Jl. Bina Remaja Srondol No.61,Semarang",,Kota Semarang,110.4165546,-7.05155106,3.571324,0.341579
+668,RS Siti Khodijah,"Jl. Bandung No.39-47,Pekalongan",,Kota Pekalongan,109.6767184,-6.886831867,3.100835,0.326475
+669,RS Karomah Holistic,"Jl. Gajah Mada Barat No.124,Pekalongan",,Kota Pekalongan,109.6524876,-6.889618806,1.626139,0.322951
+670,RSU Asy-Syifa Sambi,"Jl. Raya Bangak-Simo Km 7, Sambi, Boyolali",0,,110.5934427,-7.517290788,1.019257,0.609994
+671,RS Islam Arafah,"Jl. Raya Rembang - Lasem Km.5 Tritunggal, Rembang",0,,111.3420321,-6.704173711,1.180128,0.054683
+672,Rumkit Tk II Dr. Soedjono,"Jl. Urip Sumoharjo 48, Magelang",2,Kota Magelang,110.2268065,-7.468352154,0.832438,0.071139
+673,Rumkit Tk III Wijayakusuma,Jl. Prof.Dr. HR Bunyamin Purwokerto,3,Banyumas,109.1404401,-7.483214338,0.080019,0.981372
+674,RS Lanuma Adisumarmo,Lanuma Adisumarmo Surakarta,3,Karanganyar,110.7383724,-7.531408302,1.251227,0.303667
+675,Rumkinban Pati,Jl. P. Sudirman No.77 Pati,3,Pati,111.0329227,-6.751462478,0.213381,0.265865
+676,Rumkit Tk.III Bhakti Wira Tamtama Smg,"Jl. Dr. Sutomo No.17,Semarang",3,Kota Semarang,110.4079574,-6.98711705,3.506391,0.420025
+677,RS Akabri Pol Semarang,"Jl. Majapahit No.140,Semarang",4,Kota Semarang,110.4676024,-7.009613215,3.960923,0.230838
+678,Rumkitban Blora,"Jl. Dr. Sutomo No.45, Blora",4,Blora,111.418684,-6.966689908,1.861063,0.403055
+679,Rumkitban Kudus,"Jl. P. Sudirman No.64, Kudus",4,Kudus,110.849997,-6.805355173,3.373778,0.023674
+680,Rumkit Tk IV Slamet Riyadi Surakarta,"Jl. Slamet Riyadi 321,Surakarta",4,Surakarta,110.8099409,-7.566568314,2.879228,0.268793
+681,Rumkit Tk. IV Salatiga,Jl. Dr Muwardi Salatiga,4,Salatiga,110.8420019,7.558938792,0.291885,0.434035
+682,Rumkit Tk.IV Tegal,Jl. Raya Pagongan Tegal,4,Kota Tegal,109.1344872,-6.911776079,1.944168,0.396057
+683,RSU Dr. Kariadi,"Jl. Dr. Soetomo No.16,Semarang",A,Kota Semarang,110.4069987,-6.994612799,3.717423,0.450292
+684,RSU Dr. Moewardi Surakarta,"Jl. Kol Sutarto 132,Surakarta",A,Surakarta,110.837302,-7.535220833,2.799983,0.303601
+685,RSU Tidar,"Jl. Tidar No.30 A, Magelang",B,Kota Magelang,110.2237029,7.500542404,4.659502,0.729758
+686,RS St. Elisabeth Semarang,"Jl. Kawi No.1,Semarang",B,Kota Semarang,110.4179993,-7.007990102,0.365249,0.176226
+687,RSUD Tugurejo Semarang,"Jl. Raya Tugurejo,Semarang",B,Kota Semarang,110.3725433,-6.996614935,0.370119,0
+688,RS Islam Klaten,"Jl. Raya Klaten Solo KM 4,Klaten",B,Klaten,110.636201,-7.686500296,1.305645,0.240954
+689,RS Dr.Oen,"Jl. Brigjend Katamso 55,Surakarta",B,Kota Surakarta,110.8390009,-7.555099506,0.291885,0.300165
+690,RSUD Sragen,"Jl. Raya Sukowati No.534,Sragen",B,Sragen,111.0391878,-7.418543995,0.805025,0.366391
+691,RSUD RAA Soewondo,"Jl. Dr Soesanto 114,Pati",B,Pati,111.043366,-6.738437443,0.885732,0.308623
+692,RSU Dr. R.Soedjati Soemodiardjo,"Jl. D.I Panjaitan 36,Purwodadi",B,Grobogan,110.9147967,-7.08320176,1.724752,0.300121
+693,RSU Cilacap,Jl. Gatot Subroto 28 Cilacap,B,Cilacap,109.0151438,-7.717259175,1.694761,0
+694,RSUP Dr.Suraji Tirtonegoro Klaten,"Jl. Dr. Soeraji T No.1,Klaten",B,Klaten,110.5881453,-7.715176775,1.639001,0.317882
+695,RSUD Dr. Soediran MS Wonogiri,"Jl. Jend A Yani No. 40,Wonogiri",B,Wonogiri,110.9238977,-7.813745203,0.361375,0.419604
+696,RS Sultan Agung Semarang,"Jl. Raya Kaligawe Km.4,Semarang",B,Kota Semarang,110.4609984,-6.95561796,3.457691,0.205416
+697,RSU Dr. H.RM Soeselo W,"Jl. Dr. Sutomo No.63,Slawi",B,Jateng,109.1404981,-6.983509637,2.665589,0.385881
+698,RSUD Banyumas,Jl. Rumah Sakit No.1 Banyumas,B,Banyumas,109.2920005,-7.530240017,0.675715,0.975288
+699,RSUD Prof Dr. M Soekarjo,Jl. Dr Gumbreg No. 1 Purwokerto,B,Banyumas,109.2474452,-7.431653752,1.929345,0.841103
+700,RSUD Saras Husada Purworejo,Jl. Jen Sudirman No.60 Purworejo,B,Purworejo,109.9964761,-7.719618039,0.639393,0.894618
+701,RSUD Sujoharjo,"Jl. Dr Muwardi 71,Sukoharjo",B,Sukoharjo,110.8522444,-7.680761433,0.956043,0.334979
+702,RSUD Kudus,"Jl. Dr. Lukmonohadi No.19,Kudus",B,Kudus,110.8359598,-6.819758069,2.161972,0.305643
+703,RSU R.A. Kartini,Jl. K.H. Wahid Hasyim Jepara,B,Jepara,110.6748926,-6.597320272,1.959377,0
+704,RSUD Kota Semarang,"Jl. Fatmawati Raya No.1,Semarang",B,Kota Semarang,110.4642625,-7.037420169,2.845448,0.254881
+705,RSUD Kardinah,"Jl. KS Tubun No.4,Tegal",B,Kota Tegal,109.1357536,-6.88463799,3.427631,0.382465
+706,RS PKU Muhammadiyah,"Jl. Raya Kedu Km.2,Temanggung",C,Temanggung,110.1733731,-7.291365974,0.531335,0.523758
+707,RSUD Kab. Batang,"Jl. Dr Sutomo No. 42,Batang",C,Batang,109.7194232,-6.914678953,1.639208,0.421212
+708,RSUD Kajen Kab.Pekalongan,Jl. Raya Karangsari Karanganyar,C,Pekalongan,110.4461541,-6.988967577,3.977156,0.357754
+709,RSU Brebes,"Jl. Jend.Sudirman No.181,Brebes",C,Brebes,109.0463799,-6.874685276,2.857517,0.367758
+710,RSU Dr. R. Soetrasno Rembang,"Jl. Pahlawan No.16,Rembang",C,Rembang,111.3420321,-6.704191547,1.180128,0.054683
+711,RSU Roemani,"Jl. Wonodri 2 No. 22,Semarang",C,Kota Semarang,110.4259321,-7.002220025,3.928456,0.500948
+712,RS PKU Muhammadiyah,"Jl. Ronggowarsito 130,Surakarta",C,Surakarta,110.3620019,-7.800599773,4.885559,0.424301
+713,RS Dr. R. Soeprapto Cepu,"Jl. Ronggolawe No. 50,Cepu",C,Blora,111.5947739,-7.148540967,2.070136,0.248585
+714,RS Dr. R. Soetijono Blora,"Jl. Dr Sutomo No. 42,Blora",C,Blora,111.4211678,-6.971140091,0.967023,0.403055
+715,RSUD Majenang,Jl. Dr. Soetomo No. 54 Majenang,C,Cilacap,109.0213554,-7.729343339,0.886381,0
+716,RS Islam Wonosobo,"Jl. Mayjend Bambang S Mendolo,Wonosobo",C,Wonosobo,109.927418,-7.368677868,1.404804,0.060789
+717,RS Dr.Oen Solo Baru,Komplek Perumahan Solo Baru Kec.Grogol Sukoharjo,C,Sukoharjo,110.85529,-7.648348227,0.483053,0.730992
+718,RSI PKU Muhammadiyah Pekajangan,"Jl. Raya Ambokembang No.42-44,Pekalongan",C,Pekalongan,109.6242258,-7.042467871,0.057854,0.008341
+719,RSU Dr. M Ashasi Pemalang,"Jl. Gatot Subroto No.41,Pemalang",C,Pemalang,109.3828146,-6.910964522,2.459522,0.351809
+720,RS Islam PKU Muhammadiyah,Jl. Singkil Km.5 Kab.Tegal,C,Tegal,109.1333323,-6.866667812,3.840783,0.050618
+721,RSUD Pandan Arang Boyolali,"Jl. Kantil No. 14, Boyolali",C,Boyolali,110.590513,-7.532995742,0.857582,0.579821
+722,RS Santa Maria Pemalang,"Jl. Pemuda No. 24,Pemalang",C,Pemalang,109.3602114,-6.872339789,0.913482,0
+723,RS Islam Fatimah,Jl. Ir.H.Juanda No.20 Cilacap,C,Cilacap,109.0239996,-7.692149977,0.114875,0.914481
+724,RSUD Djojonegoro Temanggung,"Jl. Dr. Sutomo No.67,Temanggung",C,Temanggung,110.178617,-7.315012587,2.086699,0.455805
+725,RS Permata Medika,"Jl. Moch Ichsan No.93 - 97, Ngaliyah Semarang",C,Jateng,110.4166661,-6.966667613,3.960923,0.020249
+726,RSU Wonosobo,"Jl. Rumah Sakit No.1,Wonosobo",C,Wonosobo,109.9054836,-7.351398852,1.804712,0.061094
+727,RS Islam Harapan Anda,"Jl. Ababil No.42,Tegal",C,Kota Tegal,109.1310002,-6.877182373,3.718368,0.054695
+728,RS Islam Purwokerto,Jl. H Masyhusri Purwokerto,C,Banyumas,109.1310002,-6.877160077,3.718368,0.054695
+729,RSUD Purbalinnga,Jl. Tentara Pelajar Purbalingga,C,Purbalingga,109.3619995,-7.384632532,1.589821,0.798804
+730,RS Nirmala,"Jl. Letnan Yusuf Babakan, Kalimanah Purbalingga",C,Purbalingga,109.3427183,-7.387143006,1.372578,0.844956
+731,RSUD Kebumen,Jl. Rumah Sakit No.13 Kebumen,C,Kebumen,109.6626722,-7.69525797,0.100454,0.977249
+732,RS Palang Biro Gombong,Jl. Kartini 37 Gombong Kebumen,C,Kebumen,109.5160748,-7.606312281,0.627838,0.907466
+733,RSU PKU Muhamadiyah Gombong,Jl. Yos Sudarso 461 Gombong Kebumen,C,Kebumen,109.502256,-7.608845051,0.627838,0.977249
+734,RSUD Muntilan Kab. Magelang,Jl. Kartini No.13 Muntilan,C,Magelang,110.2908124,-7.584110417,1.846376,0.764166
+735,RS Medika Mulya,"Jl. Raya Wonogiri-Ngadirojo KM.5,Wonogiri",C,Wonogiri,110.9942133,-7.766951397,0.397762,0.159168
+736,RSUD Karanganyar,Jl. Yos Sudarso Karanganyar,C,Karanganyar,110.9509556,-7.596502259,1.272926,0.033154
+737,RS PKU Muhammadiyah K.A,Papahan Tasikmadu Karanganyar,C,Karanganyar,110.9393931,-7.611417952,0.773602,0.520342
+738,RSU Amal Sehat Sragen,"Jl. Veteran No.35,Sragen",C,Sragen,111.024553,-7.431176628,1.617369,0.402176
+739,RS Panti Rahayu,"Jl. R Suprapto No.6,Purwodadi",C,Grobogan,110.9149974,-7.083611997,2.290397,0.300121
+740,RS Kristen Tayu,"Jl. Diponegoro 56,Tayu Pati",C,Pati,111.0367442,-6.74857298,0.213381,0.241521
+741,RS Islam Pati,"Jl. Raya Pati-Tayu KM.18,Waturroyo Pati",C,Pati,111.0531091,-6.604494966,1.640618,0.695469
+742,RS Mitra Bangsa Pati,"Jl. Kol.Sugiyono No.75,Pati",C,Pati,111.0301581,-6.745540791,1.529901,0.194501
+743,RSU Islam Sunan Kudus,"Jl. Kudus Permai No.1,Kudus",C,Kudus,110.8149351,-6.798693276,1.955414,0.355433
+744,RSU Bhakti Karya Husada,"Jl. Sultan Fatah No. 669/50,Demak",C,Demak,110.6334497,-6.899571519,1.593819,0.300491
+745,RSUD Ambarawa,"Jl. Kartini No.10, Ambarawa",C,Semarang,110.422017,-6.956402762,0.365249,0.352148
+746,RSUD Ungaran,"Jl. Diponegoro 125,Ungaran",C,Semarang,110.4041717,-7.134374403,2.154011,0.648921
+747,RS Ngesti Waluyo,"Jl. Pahlawan Parakan,Temanggung",C,Temanggung,110.1157481,-7.286282599,0.627942,0.493249
+748,RSU Dedy Jaya,"Jl. Ahmad Yani No.57,Brebes",C,Brebes,108.9233443,-6.942557253,0.173183,0.639769
+749,RS Bhakti Asih,"Jl. P. Diponegoro No.125,Pesantunan Brebes",C,Brebes,109.006404,-6.864656758,2.535892,0.052739
+750,RSU Panti Waluyo,"Jl. Jen A Yani No.1,Surakarta",C,Surakarta,110.7906241,-7.559924253,3.156585,0.320876
+751,RS Islam Kustati,"Jl. Kapt.Mulyadi No.249,Surakarta",C,Surakarta,110.8309745,-7.580975669,3.116962,0.037267
+752,RSU Kasih Ibu,"Jl. Slamet Riyadi 404,Surakarta",C,Surakarta,110.8019993,-7.563188315,2.839605,0.255557
+753,RS Panti Wilasa II,"Jl. Dr. Cipto 50,Semarang",C,Kota Semarang,110.4353809,-6.9752603,4.107022,0.368504
+754,RS Mitra Siaga,"Jl. Pala Raya No.54,Tegal",C,Kota Tegal,109.1637791,-6.861606733,0.305687,0.471847
+755,RSU Mitra Keluarga Tegal,"Jl. Sipelem No.4, Tegal",C,,109.120887,-6.864433803,2.035156,0.779223
+756,RS William Booth,"Jl. Let Jen S Parman 5,Semarang",C,Kota Semarang,112.7366561,-7.290451858,5.398394,0.091394
+757,RSUD Bendan Kota Pekalongan,"Jl. Sriwijaya No.2,Pekalongan",D,Pekalongan,109.6601082,-6.894568408,2.909594,0.250928
+758,RS. Maguan Husada,"Jl. Raya Praci-gribelah Km.6 Suci, Pracimantoro",D,Wonogiri,110.8083045,-8.055308085,0.788455,0.775562
+759,RSU Ananda Salatiga,"Jl. Ki Penjawi No.5,Salatiga",D,,110.5036676,-7.343381388,2.851436,0.544206
+760,RSU JATI HUSADA,"Jl. Raya Solo - Tawangmangu KM 10,3 Jati, Jateng",D,Karanganyar,110.9165402,-7.573961503,0.555587,0.614981
+761,RSUD Gemolong Kabupaten Sragen,jl.DR Soetomo No 792,D,Sragen,110.8266537,-7.397033292,1.031896,0.535464
+762,RSU Marga Husada,"Jl. Letjen S.Parman No. 4 Selogiri,Wonogiri",D,Wonogiri,110.8976827,-7.789590253,0.739176,0.553633
+763,RS Puri Asih,"Jl. Sudirman No.169,Salatiga",D,Salatiga,110.5078591,-7.338543263,2.929202,0.481174
+764,RSUD Ajibarang,"Jl. Raya Pancasan No.1,Ajibarang Banyumas",D,Banyumas,109.0955682,7.403338461,1.129156,0.096415
+765,RSK Bedah Wiradadi Husada,"Jl. Menteri Supeno No. 25,Sokaraja-Banyumas",D,Banyumas,109.2455857,-7.415623284,1.849326,0.872977
+766,RSUD Simo,"Jl. Kebon Ijo Ds.Simo Kec.Simo, Boyolali",D,Boyolali,110.6755927,-7.437129528,0.119499,0.498016
+767,RSUD Kayen Pati,Jl. Rumah Sakit No.1 Kayen Pati,D,Pati,110.9858614,-6.894711099,1.509771,0.405164
+768,RSUD Kota Surakarta,"Jl. P.Lumban Tobing No.10,Surakarta",D,Surakarta,110.8258466,-7.564218368,3.182999,0.466676
+769,RSU Nurussyifa,"Jl. Kudus - Pati Km.10 Jekulo, Kudus",D,,110.8731175,-6.804784408,2.299677,0.267327
+770,RS Budi Rahayu,"Jl. Barito No. 5,Pekalongan",Madya,Kota Pekalongan,109.6699985,-6.882885563,3.210116,0.291657
+771,Rumkitban Manokwari,Jl. Brawijaya Kodim 1703 Manokwari,4,Kaimana,134.0787966,-0.861520619,0.610577,0.962423
+772,RS AL Manokwari,Jl. Serma Suwandi MaNo.kwari,4,Kaimana,134.0787966,-0.861520619,0.610577,0.962423
+773,RSU Manokwari,Jl. Bhayangkara No.I Manokwari,C,Kaimana,133.7745076,-3.660926424,0.481799,0.098251
+774,RS Bergerak Waisai,,D,Teluk Wondama,133.1747183,-1.336116121,0,0.814042
+775,RSU SCHOLOO Keyen,Jl. Teminabuan - Ayamaru Kampung Keyen - Teminbauan,D,,132.0166675,-1.450001562,0.478052,0.982328
+776,RSU Dharma Ibu Ternate,"Jl. Pahlawan Revolusi No.5, Ternate",,Ternate,127.3771557,0.788065847,4.107303,0.078379
+777,RS Lanu Morotai,Morotai Kab Maluku Utara,4,Halmahera Tengah,128.400836,2.365669045,0,0.460652
+778,Rumkit Tk.IV Ternate,"Jl. Ais Nasution No.2, Ternate",4,Ternate,127.3771557,0.788065847,4.107303,0.078379
+779,RSU Ternate,Jl. Tanah Tinggi Ternate,B,Ternate,127.3771557,0.788065847,4.107303,0.078379
+780,RSU Kota Tidore Kepulauan,Jl. Sultan mansyur No 11 Indonesiana Tidore maluku Utara,C,Kota Tidore Kpulauan,127.3999997,0.683334941,0.103004,0
+781,RSU Daerah Tobelo,Jl. Lanbouw Samsungi Tobelo Halmahera Utara,C,Halmahera Barat,127.8666669,0.599998801,0,0.737877
+782,RS Islam Bina Warga,"Jl. Pemuda No.131 Keluarahan Toboleu, Ternate",D,Kota Madya Ternate,127.3771557,0.788065847,4.107303,0.078379
+783,RS Medika Harifalm Ternate,"Jl. Zainal Abidin Syah No.25, Ternate",D,Kota Ternate,127.3771557,0.788065847,4.107303,0.078379
+784,RSUD Maba,Jl. Trans Halmahera Kota maba,D,Halmahera Timur,127.8666669,0.599998801,0,0.737877
+785,RSUD Weda,"Jl. Raya Weda, Kab. Halmahera Tengah",D,Halmahera tengah,127.917349,0.62460858,0,0.697149
+786,RSUD Kab. Pulau Morotai,Jl. Puskesmas No.5 Desa Yayasan,D,mOROTAI,128.5143156,2.287260213,0,0.433824
+787,RSUD Jailolo,"Jl.Raya Acango-Jailolo,Halmahera Barat",D,Halmahera Barat,127.4652051,1.070790691,0.909253,0.745308
+788,RS Bergerak Kab.Halmahera Utara,,D,Halmahera Barat,127.8666669,0.599998801,0,0.737877
+789,RSUD Sanana,"Jln. Dr. Sibarani - Falahu, Kep. Sula",D,Kepulauan Sula,125.9369954,-2.23370195,0,0.789612
+790,RS St Elizabeth Bantul,Ganjuran Kab Bantul Yogyakarta,,Bantul,110.3300213,-7.885550108,1.517081,0.043619
+791,RSU Panti Baktiningsih,"Klepu Sendangmulyo Minggir,Sleman",,Sleman,110.2449996,-7.756089027,1.313515,0.809506
+792,RS St Yusup Boro,Boro Banjarasri Kulon Progo,,Kulon Progo,110.1640847,-7.826681056,0.502972,0.979756
+793,RSU Kharisma Paramedika,"Jl. Khudori No.34, Wates, Kulon Progo",,DI Yogyakarta,110.1278233,-7.893206384,0.315916,0.946715
+794,RSU Rachma Husada,Jl. Parantritis Km.16 Gerselo Patalan Jetis Bantul,,DI Yogyakarta,110.3522633,-7.90959804,1.008413,0.658696
+795,RSU Rajawali Citra,"Jl. Pleret Km.2,5, Banjardadap Potorono Banguntapan Bantul",,DI Yogyakarta,110.3300213,-7.885550108,1.517081,0.043619
+796,RSU Queen Latifa,Jl. Ring Road Barat - Mlangi - Nogotirto - Sleman,,DI Yogyakarta,110.3458243,-7.696007099,1.617972,0.768308
+797,RS Condong Catur,"Jl. Manggis No.6, Gempol, Condong Catur Sleman",,DI Yogyakarta,110.3458243,-7.696007099,1.617972,0.768308
+798,RS Puri Husada Yogyakarta,Jl. Palagan Tentara Pelajar No.67 Km.11 Rejodani Ngaglik Sleman,,DI Yogyakarta,110.386304,-7.705727939,1.261322,0.774936
+799,RSKB Rizki Amalia Medika,Jl. Brosot - Wates Km.5 Jogahan Bumirejo Lendah Kulon Progo,,Kulon Progo,110.2029369,-7.912130809,0.042815,0.733081
+800,RS Nur Rohmah,"Ds.Jamburejo,Ds.Bandung,Kec.Playen,Kab.Gunungkidul",,Gunung Kidul,110.5757534,-7.938301273,0.655156,0.801495
+801,RS Panti Rini,"Jl. Solo Km 13,2, Sleman",,Sleman,110.4670004,-7.771762767,0.982961,0.035126
+802,RS Lokapala,Jl. Pemuda 1 Sleman Yogyakarta,,Sleman,110.4155201,-7.77804564,1.748453,0.452794
+803,RS Panti Nugroho,"Jl. Kaliurang Km.17 Pakem,Sleman",,Sleman,110.417491,-7.669029538,1.191732,0.680806
+804,RS Islam Hidayatullah,"Jl. Veteran No.184, Yogyakarta",,Yogyakarta,110.3877978,-7.815403989,5.160503,0.036692
+805,RS Happy Land Medical Centre,"Jl. Ipda Tut Harsono No.53,Timoho Yogyakarta",,Yogyakarta,110.3935367,-7.790473155,4.143419,0.041614
+806,RS Dr S Harjolukito,Lanud Adisucipto Yogyakarta,2,Yogyakarta,110.4106418,7.790571255,1.926966,0.270021
+807,Rumkit DKT Dr. Soetarto/Tk. III Yogyakarta,Jl. Juwadi 19 Yogyakarta,3,Yogyakarta,110.3766412,-7.785750967,5.097055,0.511659
+808,RSUP Dr. Sarjito,Jl. Kesehatan Sekip Yogyakarta,A,Sleman,110.3740014,-7.768512082,2.446767,0.046736
+809,RSU Panti Rapih,Jl. Cik Ditiro 30 Yogyakarta,B,Kota Yogyakarta,110.3759991,-7.776337805,3.703163,0.512794
+810,RSUD Penembahan Senopati,Jl. Dr. Wahidin SH Bantul,B,Bantul,110.33774,-7.892724801,1.588473,0.427483
+811,RSUD Sleman,Jl. Bhayangkara 48 Sleman,B,Sleman,110.3419984,-7.68757048,1.522285,0.779715
+812,RS Bethesda Yogyakarta,Jl. Jen Sudirman 70 Yogyakarta,B,Yogyakarta,110.3769979,-7.783610598,5.097055,0.511659
+813,RSUD Kota Yogyakarta,Jl. Wirosaban No. 1 Yogyakarta,B,Yogyakarta,110.3780012,-7.825860581,3.857491,0.319634
+814,Rumah Sakit &quot;JIH&quot;,Jalan Ring Road Utara no. 160 Condongcatur Depok,B,Sleman,110.4030034,-7.759045411,2.070308,0.463031
+815,RSUD Wates,Jl. Tentara Pelajar No. 1 Wates,C,Kulon Progo,110.1278233,-7.893206384,0.315916,0.946715
+816,RSUD Wonosari,Jl. Taman Bakti Wonosari,C,Gunung Kidul,110.6029985,-7.962050445,1.164071,0.641076
+817,RS PKU Muhammadiyah Yogya,Jl. K.H. Ahmad Dahlan 20 Yogyakarta,C,Yogyakarta,110.3620019,-7.800599773,4.885559,0.424301
+818,RS Islam Yogyakarta PDHI,"Jl. Solo Km 12,5 Kalasan Yogya",D,Sleman,110.4570566,-7.776886274,1.252623,0.037422
+819,RSUD Prambanan,Jl. Prambanan Piyungan Km.6 Sumber Harjo Prambanan Sleman,D,DI Yogyakarta,110.4820365,-7.814463119,1.156937,0.629996
+820,RS Budi Kemuliaan Batam,"Jl. Budi Kemuliaan No.1,Batam",,,104.030453,1.082825804,2.487765,0.833209
+821,RS Awal Bros Batam,"Jl. Gajah Mada Kav.I Baloi,Batam",,,104.030453,1.045623524,0.299731,0.771595
+822,RS Casa Medical Centre,"Jl. Jend. A. Yani No.8,Batam",,,104.030453,1.082825804,2.487765,0.833209
+823,RS Bhakti Timah,"Jl. Canggai Putri,Tanjung Balai",,Tanjung Pinang,104.4833327,1.083334142,0.210035,0.840259
+824,RS Antam Bauksit,"Jl. Kesehatan C. 36,Tg Pinang",,Tanjung Pinang,104.3341223,1.158229203,0.004362,0.796764
+825,RS Santa Elisabeth Batam,"Jl. Anggrek Blok II,Lubuk Baja Batam",,Batam,104.0466039,1.087668388,0,0.847473
+826,RS Harapan Bunda Batam,"Jl. Seraya No.1,Batam",,Tanjung Pinang,103.9766673,0.966942686,0,0
+827,RS AL Dr Midiyato S,"Jl. Ciptadi No.1,Tanjung Pinang",3,Tanjung Pinang,104.4784054,1.091168782,0,0.855406
+828,RS Lanu Ranai,Natuna Kab.Kepulauan Riau,4,Tanjung Pinang,108.1428679,3.945648944,0,0.088622
+829,RS Otorita Batam,"Jl. Dr. Cipto Mangunkusumo Sekupang,Batam",B,,103.9543094,1.087186805,0,0.745671
+830,RSU Kab. Karimun,"Jl. Soekarno - Hatta, Tg Balai Karimun",C,Karimun,103.4500341,0.90769907,0.026981,0
+831,RSU Tanjung Uban,"Jl. Indun Suri-Simpang Busung No.1,Kepulauan Riau",C,,108.1428679,3.945648944,0,0.088622
+832,RSU Lapangan Lingga,Jl. Masjid Sultan Kab.Lingga,C,,104.6745434,-0.160130778,0,0.749199
+833,RSUD Natuna,"Jl. H.Ali Murtopo,Natuna",C,Natuna,108.1428679,3.945648944,0,0.088622
+834,RSU Daerah Kota Batam,Jl. Bringjen Katamso,C,Tanjung Pinang,103.9531813,1.08631728,0.119892,0.745671
+835,RSUD Dabo,"Jl. Kesehatan No.1, Dabo Singkep",D,Lingga,104.4814019,-0.553579559,0,0.764124
+836,RS Banua Mamase,"Mamasa, Kab.Polmas",,Mamasa,119.3778762,-2.941450469,1.386748,0.870776
+837,RSU Polewali,Jl. Dr Ratulangi 50 Polewali,C,Polewali Mandar,119.2204655,-3.388600204,0.111891,0.569168
+838,RSU Majene,"Jl. Poros Majene, Mamuju",C,Majene,118.9062772,-3.029722833,0,0.069373
+839,RSU Mamuju Utara,"Jl. Bukit Husada - Ako No. 10, Pasangakayu",D,Mamuju Utara,119.3814346,-1.341565143,0.102904,0.083291
+840,RSUD Mamuju,Jl. Kurungan Bassi Mamuju,D,Mamuju,118.8621143,-2.699187509,0.332499,0.596849
+841,RS Islam Sitti Maryam,Jl. Pogindo Raya No.110 Tuminting Manado,,Manado,124.8454609,1.470887992,0.243233,0.400451
+842,RS Monompia,"Jl. A. Yani No.720,Kotamobagu Utara",,Bolaang Mengondow,124.3120543,0.739657846,2.833022,0.444955
+843,RS Piveri,Jl. Raya Kawangkoan Minahasa,,Minahasa,124.8182559,1.153391078,0.083445,0.510056
+844,RS Siloam GMIM Sonder,Kolongan Atas Sonder Minahasa,,Minahasa,124.8182559,1.153391078,0.083445,0.510056
+845,RS Gunung Maria,Jl. Sejahtera No. 282 Tomohon,,Minahasa,124.82795,1.32456705,0.552145,0.208226
+846,RS Hermina,Lembean Minahasa,,Minahasa,124.9161109,1.206387495,0,0.295245
+847,RS Budi Setia,Kayowas Jaga I Langowan Barat Minahasa,,Minahasa,124.8378849,0.152231712,1.994857,0.005031
+848,RS Cantia Tamposabaru,Tompasobaru Minahasa,,Minahasa,124.4730368,0.884453776,0.464271,0.127981
+849,RS Tonsea,Airmadidi Kab Minahasa,,Minahasa,124.9593954,1.402489841,0.065684,0.669306
+850,RS Kalooran,Buyungan Amurang Minahasa,,Minahasa,124.5692954,1.180341885,1.150584,0.072919
+851,RS Pancaran Kasih,Jl. Dr. Sam Ratulangi XIII,,Manado,124.8359987,1.478967883,2.239458,0.495218
+852,RS Permata Bunda,"Jl. Pingkan Matindas, Dendengan dalam,Manado",,Manado,124.8410018,1.493063101,2.593057,0
+853,RS Advent Manado,"Jl. 14 Februari Telling Atas,Manado",,Manado,124.8537771,1.465019815,2.368039,0.449762
+854,RS TK.Teling Manado,"Jl. 14 Februari Telling Atas,Manado",3,Manado,124.8509991,1.465019815,2.368039,0.400451
+855,RS Bhayangkara Manado,"Jl. Sam Ratulangi No.154,Manado",4,Manado,124.837225,1.455312352,2.485905,0.502693
+856,RS AL Bitung,Jl. Yos Sudarso No. 26 Bitung,4,Bitung,125.1863681,1.444918187,1.476769,0.714317
+857,RSU Prof.Dr. R.D Kandou Manado,"Jl. Raya Tanawangko No.56, Manado",B,Manado,124.8410018,1.493098774,2.593057,0
+858,RSU Datoe Binangkang,Jl. Ade Irma Kotamubagu,C,Bolaang Mengondow,124.3120543,0.739657846,2.833022,0.444955
+859,RSU Dr.Sam Ratulangi,Noogan Langowan Kab Minahasa,C,Minahasa,124.8182559,1.153391078,0.083445,0.510056
+860,RS Bethesda GMIM Tomohon,Jl. Raya Tomohon,C,Minahasa,124.82795,1.32456705,0.552145,0.208226
+861,RSU Bitung,Jl. SH Sarundayang Kota Bitung,C,Bitung,125.204695,1.455352484,1.582252,0.807467
+862,RSU Noongan,Jl.Raya Noongan Langowan Barat,D,Minahasa,124.5833327,0.999998002,0.073901,0.538691
+863,RS Bergerak Kab.Kep.Sitaro,"Kampung Sawang Kec, Siau timur selatan",D,Siau Tagulandang Biaro,123.9750043,0.624693303,0,0.052561
+864,RSUD Kota Kotamobagu,Kelurahan Pobundayan Kecamatan Kotamobagu Selatan,D,Kotamobagu,124.3089151,0.734338139,2.322149,0.439299
+865,RSU Ratatotok - Buyat,Dr. Vally Ch. H. Ratulangi (Plh),D,Pemkab Minahasa Tenggara,124.846977,1.180310672,0.404187,0.040699
+866,RSUD Maria Walanda Maramis,Jl. Prof. Arnold Mononutu - Kel.Sarongsong II - Airmadidi,D,Minahasa Utara,124.9725631,1.410409204,0.299225,0.735314
+867,RS Bergerak Kab.Kep.Talaud,,D,Kepulauan Talaud,126.7679979,4.0920011,0,0.778392
+868,RS Budi Mulia Bitung,Jl. Sam Ratulangi X/9A Bitung,Madya,Bitung,125.204695,1.455334647,1.582252,0.807467
+869,RS Restu Ibu,"Jl. Proklamasi No.31,Padang",,Padang,116.8370046,-1.271436861,3.194885,0.926463
+870,RS Yos Sudarso,"Jl. Situjuh No. 1,Padang",,Padang,100.3619996,-0.936246234,3.669921,0.855445
+871,RS Aisyiah Muhammadiyah,"Jl. H.A Salim No.6,Padang",,Padang,100.3691253,-0.945628183,3.718423,0.844876
+872,RS Selaguri,"Jl. A.Yani No.26,Padang",,Padang,100.3580935,-0.942801113,3.750757,0.855445
+873,RS Selasih,"Jl. Khatib Sulaiman 72,Padang",,Padang,100.3585617,-0.915007536,3.783091,0.830107
+874,Rumkit Tk III Reksodiwiryo Padang,"Jl. Dr Wahidin No.1,Padang",3,Padang,100.3717874,-0.950635754,3.718423,0.844876
+875,RS Bhayangkara Sumbar,Jl. Jati No.I Padang,4,Padang,100.3668378,-0.929312332,3.669921,0.851282
+876,Rumkit Tk IV Bukit Tinggi,"Jl. Jen Sudirman 37,Bukittinggi",4,Bukittinggi,100.3747393,-0.316506993,0.651376,0.846318
+877,RSU Dr. M.Jamil,Jl. Perintis Kemerdekaan Padang,B,Padang,100.36278,-0.888377785,3.766924,0.832913
+878,RSU Dr. Achmad Mochtar,Jl. Dr. A.Rivai Bukittinggi,B,Bukittinggi,100.3660663,-0.299722936,1.585344,0.873658
+879,RSUD Dr. Muhammad Zein Painan,Jl. Dr A Rivai Painan,C,Pesisir Selatan,104.0062312,-5.297033028,0.074769,0.943405
+880,RSUD dr. Rasidin Padang,"Sei.Sapih Kec.Kuranji,Padang",C,Padang,100.3801615,0.904912131,0,0.985738
+881,RSU Sungai Dareh,"Jl. LTS Sumatera KM 2, P. Punjung",C,Dharmas Raya,101.4516612,-0.930275498,0.032582,0.800336
+882,RS Ibnu Sina Bukittinggi,"Jl. Belakang Balok,Bukittinggi",C,Bukittinggi,100.3834791,-0.266948544,1.198595,0.751965
+883,RSUD Dr Adnaan WD,"Jl. AIS Nasution 25,Payakumbuh",C,Payakumbuh,100.6333315,-0.233331381,1.291484,0.804614
+884,RSU Sawah Lunto,"Jl. Kartini No.18,Sawah Lunto",C,Sawah Lunto,100.7833312,-0.666666821,0.015534,0.739086
+885,RSU Lubuk Basung,"Jl. M.Hatta Padang Baru,Lubuk Basung",C,Agam,100.1724923,-0.254547784,0.025797,0.947367
+886,RSUD Kep. Mentawai,Jl. Raya Tuapejat KM.9 - Sipora Utara,C,Mentawai,99.59104781,-2.061023262,0.103014,0
+887,"RSUD Arosuka,Solok","Jl. Lintas Sumatera Aro Suka Solok,Kab.Solok",C,Solok,100.6444034,-0.803026131,0.147629,0.934968
+888,RSU Prof Dr M.A Hanafiah,Jl. Bundo Kandung Batusangkar,C,Tanah Datar,100.5905999,-0.459639677,0.564914,0.818986
+889,RSU Pariaman,"Jl. Prof M Yamin SH,Pariaman",C,Padang Pariaman,100.1306481,-0.626976363,0.590648,0.862247
+890,RSU Lubuk Sikaping,"Jl. Jen Sudirman No.33,Lubuk Sikaping",C,Pasaman,100.16843,-0.135596804,0.109637,0.946054
+891,RSUD Pasaman Barat,Pemkab. Pasaman Barat,C,Pasaman Barat,99.81815874,0.04568349,1.063708,0.098243
+892,RS Islam IIbnu Sina,"Jl. Gajah Mada,Padang",C,Padang,100.3673728,-0.92074194,3.201077,0.831404
+893,RSUD Solok,"Jl. Simpang Rumbio,Solok",C,Sawah Lunto,101.0468596,-1.47699696,0.046138,0.902541
+894,RSU Padang Panjang,"Jl. KHA Dahlan 5,Pdg Panjang",C,Padang Panjang,100.4169714,-0.448875408,0.344241,0.746075
+895,RS Ibnu Sina Padang Panjang,"Jl. Sukarno. Hatta,Padang Panjang",D,Sumbawa Barat,100.4004906,-0.460906062,1.635147,0.815951
+896,RS Islam Ibnu Sina,Ds.Simpang Ampat Kab.Pasaman,D,Pasaman,99.8202679,0.070926461,0.485381,0.982899
+897,RSU Muara Labuh,"Jl. Raya Km.1,Muara Labuh Solok",D,Solok,101.046592,-1.30249004,0,0.699228
+898,RSU Suliki,"Jl. Tan Malaka No.1, Kec.Suliki",D,Limapuluh Kota,100.3646528,-0.945712906,3.880093,0.844876
+899,RSU Sundari,"Jl. Jend. T.B.Simatupang No.31,Medan",,Kota Medan,98.67559882,3.585242102,4.472114,0.391668
+900,RS Grand Medistra,Jl. Medan No.66 Desa Petapahan,,,98.85564394,3.552110981,0.089999,0.597972
+901,RSU Inanta,"Jl. Sisingamangaraja No.85/87, Padang Sidempuan",,,99.27487079,1.38806019,1.740401,0.772576
+902,RS Efarina Etaham,"Jl. Djamin Ginting, Berastagi - Desa Raya, Kab. Karo",,Karo,98.28135186,3.110312167,0.489858,0.911605
+903,RS Full Bethesda,"Jl. Binjai Km.10,8/Jl. Sama No.71, Medan",,Medan,98.62307953,3.591248511,4.532822,0.359413
+904,RSU Morawa Utama,"Jl. Medan Tanjung Morawa Km.18,5, Tanjung Morawa - Deli Serdang",,Deli-Serdang,98.9245326,3.458072999,0.103344,0.839038
+905,RS Rahmad Hidayah,"Jl. Limau Manis Pasar XIII No.61, Desa Limau Manis, Tanjung Morawa",,Tanjung Morawa,98.79394336,3.525713103,1.479984,0.352269
+906,RSU &quot; Insani &quot;,Jl. Perniagaan No.36 Kel.Stabat Baru Kec.Stabat Kabupaten Langkat,,Langkat,98.20746456,3.760065618,0,0.093384
+907,RSU Melati,"Jl. Deli No.115 Perbaungan, Serdang Begadai",,Serdang,98.6785017,3.599859035,4.755416,0.407805
+908,RS YY Kesehatan Samosir,"Nainggolan Samosir, Kab.Tapanuli Utara",,Tapanuli Utara,98.88208195,3.436733739,0.265076,0.758952
+909,RSU HKBP Nainggolan,"Nainggolan,Kab.Tapanuli Utara",,Tapanuli Utara,98.88374966,2.43434812,0,0.758952
+910,RS PTP III Indrya Husada,Membang Muda Labuhan Batu,,Labuhan Batu,99.66085949,2.552211079,0.371806,0.940533
+911,RS PTP VI Ajamu,Kebun Ajamu Labuhan Bilik,,Labuhan Batu,100.1672484,2.520101092,0.586307,0.084445
+912,RS Sri Torgamba,"Torgamba Aek Batu,Labuhan Batu",,Labuhan Batu,100.2297382,1.76871581,0.099195,0.959368
+913,RS Ibu Kartini,Jl. Sekh Silau Rengas Kisaran,,Asahan,99.62206532,2.981060664,1.233806,0.629239
+914,RS PTP VI Negaga,Bandar Pulau Kab.Asahan,,Asahan,99.47124514,2.613537096,0.294215,0.893482
+915,RS PT Inalum,"Tanjung Gading, Kab.Asahan",,Asahan,99.6341361,2.817474082,0.104399,0.674225
+916,RS PTP VIII Balimbingan,Balimbingan Pematang Siantar,,Simalungun,99.16668408,2.88643408,0.693853,0.959717
+917,RS PTP IV Laras,Serbalawan Kab.Simalungun,,Simalungun,99.14807625,3.133842843,0.745523,0.926807
+918,RS Bridgestone Sumatera Rubber Estate,"Dolok Marangir,Kab.Simalungun",,Simalungun,99.14717105,3.133071419,0.745523,0.925596
+919,RS Serasi Kabanjahe,"Jl. L.R.Perangin-Angin No.34,Kabanjahe",,Karo,98.4546682,3.135399069,0.803045,0.866169
+920,RS Ester,"Jl. Veteran No.21,Kabanjahe",,Karo,98.65644252,3.663793626,4.451879,0.418659
+921,RS Malem Ras,"Kabanjahe,Kab.Karo",,Karo,"98.4561084899859,",3.139269569,0.610314,0.866169
+922,RS PTPN III Patumbukan,Kec Galang Kab.Deli Serdang,,Deli Serdang,98.68189507,3.493794857,0.189998,0.670854
+923,RSU Anirma,Jl. Teratai Baru Gg. Amal No. 95 Deli Tua,,Deli Serdang,98.68066436,3.577469889,5.079189,0.464056
+924,RS Sari Mutiara Lubuk Pakam,"Jl. Medan No.17,Lubuk Pakam",,Deli Serdang,"98.6891678656453,",3.617204938,4.998246,0.498304
+925,RS Horas,"Jl. Bakaran Batu No.61,Lb Pakam Sumut",,Deli Serdang,98.69524562,3.58346292,5.160132,0.404716
+926,RS Halvetia,Jl. Kapt Sumars No.Deli Serdang,,Deli Serdang,98.64999912,3.615555071,4.168577,0.607141
+927,RSU Sinar Husni,"Jl. Veteran Gg.Utama Psr.V Helvetia,Deli Serdang",,Deli Serdang,98.90771287,3.45474205,0.143091,0.748847
+928,RS PTP II Tg Selamat,Padang Tualang Langkat,,Langkat,98.34815811,3.815465489,0.074233,0.078005
+929,RS Pertamina P Brandan,Jl. Lhok Sukon Puraka P Brandan,,Langkat,98.29260663,4.00832161,1.270209,0.518129
+930,RS Islam Al Karim,"Jl. Makam No.17,Tanjung Balai",,Tanjung Balai,99.83525048,3.037338978,0.028472,0.048305
+931,RS Harapan,"Jl. Farel Pasaribu 21,P.Siantar",,Pematang Siantar,99.10922856,2.966006739,1.262223,0.906659
+932,RS Humanitas,"Jl. Asahan 105,Pematang Siantar",,Pematang Siantar,99.06454837,2.9569726,0.035343,0.897442
+933,RS Manuela,"Jl. Sisingamangaraja,P.Siantar",,Pematang Siantar,99.0659084,2.953440992,0.035343,0.899583
+934,RS Kasih Sayang,"Jl. Jawa No.61,Pematang Siantar",,Pematang Siantar,"99.0540159729393,",2.961659115,3.487796,0.904827
+935,RS Mina Padi,"Jl. Medan KM.10,Pematang Siantar",,Pematang Siantar,99.08147066,2.988262112,2.666226,0.864891
+936,RS Horas Insani,"Jl. Medan Km.2,5,Pematang Siantar",,Pematang Siantar,"99.0803648010641,",2.986148498,2.666226,0.864891
+937,RS PTPN III Sri Pamela,Jl. Jend Sudirman Tebing Tinggi,,Tebing Tinggi,99.14944074,3.320286776,4.569104,0.482569
+938,RS Herna Tebing Tinggi,"Jl. Balai Kota No.2,Tebing Tinggi",,Tebing Tinggi,99.3853361,3.170759741,0.295505,0.579484
+939,RS PTP IX Tembakau,"Jl. Putri Hijau No.15, Medan",,Medan,98.6738999,3.597830144,4.755416,0.516292
+940,RS Deli,"Jl. Merbabu No.18,Medan",,Medan,98.65758405,3.580814214,4.957774,0.414721
+941,RS Santa Elisabeth Medan,"Jl. Haji Misbah No.7,Medan",,Medan,"98.6766021188767,",3.575289388,0.449235,0.464056
+942,RS Herna,"Jl. Majapahit 118 A,Medan",,Medan,98.66580218,3.579788621,5.058953,0.414721
+943,RS Advent Medan,"Jl. Gatot Subroto Km.4,Medan",,Medan,98.64739947,3.589999963,5.038717,0.541146
+944,RS Dewi Maya,"Jl. Surakarta No.2,Medan",,Medan,98.68515467,3.586941019,4.937538,0.388625
+945,RS Methodist,"Jl. Teuku Umar No.9-11,Medan",,Medan,98.69290013,3.583788435,5.160132,0.388625
+946,RS Materna,"Jl. Teuku Umar 9-11,Medan",,Medan,98.66899935,3.584479596,4.957774,0.400283
+947,RS Islam Malahayati,"Jl. Diponegoro No.4,Medan",,Medan,98.67259785,3.586718064,4.472114,0.400283
+948,RS Glugur,"Jl. Glugur No.140-142,Medan",,Medan,98.66907516,3.591667666,4.957774,0.400283
+949,RS Ellyah,"Jl. Gedung Arca 49,Medan",,Medan,98.69561573,3.567526093,4.856595,0.410399
+950,RS Sama Ria,"Jl. Sumatera 88 Belawan,Medan",,Medan,98.69051006,3.785081175,0.261042,0
+951,RSU Vina Estetica,"Jl. Sultan Iskandar Muda No.119,Medan",,Medan,98.66129402,3.587061415,4.937538,0.409969
+952,RS Helvetia,"Jl. Kapten Sumarsono No.107,Helvetia Medan",,Medan,"98.6497137395244,",0.615367789,4.168577,0.607141
+953,RS Hisarma,"Jl. Gatot Subroto 108,Medan",,Medan,98.64199058,3.591030015,4.674473,0.541146
+954,RS Sari Cipta,"Jl. Medan Belawan Km.16,3,Medan",,Medan,98.66346561,3.653921176,4.472114,0.468132
+955,RSU Mitra Medika,"Jl. K.L. Yos Sudarso Km 7,5 Tanjung Mulia,Medan",,Medan,"98.6658066352263,",3.63738683,4.431643,0.684477
+956,RS Bhakti,"Jl. HM Joni No.64,Medan",,Medan,"98.6970114243983,",3.568765723,4.856595,0.410399
+957,RS Pel Belawan I Bahagia,"Jl. Stasiun No.92, Belawan Medan",,Medan,98.681467,3.772270177,2.954429,0
+958,RS Imelda,"Jl. Bilal No.24 Pulo Brayan Darat,Medan",,Medan,"98.6839462583117,",3.62275206,4.998246,0.498304
+959,RS Melati,"Jl. Timor No.27 D,Medan",,Medan,98.68053951,3.595890435,5.018481,0.407805
+960,RS Renata Sakti,"Jl. Pesantren S Sekambing,Medan",,Medan,98.63687599,3.587895267,4.674473,0.046692
+961,RS Bina Sejahtera,"Jl. Simpang Kantor No.6, Medan Labuhan",,Medan,98.67812713,3.723469775,4.330464,0.360432
+962,RS Alqadri,"Jl. Binjai Km.7 No.237,Medan",,Medan,98.62307953,3.591248511,4.532822,0.359413
+963,RS Permata Bunda,"Jl. Sisingamangaraja No.17,Medan",,Medan,98.68578341,3.580747328,5.079189,0.039965
+964,RSU Martondi,"Jl. Letda Sujono No.80-82,Medan",,Medan,"98.6048016737141,",3.40494281,0.129999,0.941942
+965,RSU Sarah,"Jl. Baja Raya No.10,Medan",,Medan,98.66357263,3.587734739,4.957774,0.409969
+966,RS Bina Persada Medan,"Jl. Letjen Djamin Ginting,Medan",,Medan,"98.6153563659076,",3.552490005,2.934193,0.312359
+967,RS Bandung,Jl. Mistar Medan,,Medan,98.64572284,3.590896242,5.038717,0.541146
+968,RS Bahagia Medan,"Jl. Bahagia 85 Ds.Teladan,Medan",,Medan,98.70297324,3.562986728,5.139896,0.546324
+969,RS Estomihi,"Jl. Sisinga Mangaraja 235,Medan",,Medan,"98.693314829625,3",3.561140661,4.836359,0.339028
+970,RS Sufina Aziz,"Jl. Karya Baru No.1,Medan",,Medan,98.71134298,3.590356691,0.511966,0.435868
+971,RS PTP IX Bangkatan,Jl. Hasanuddin Binjai,,Binjai,98.485708,3.600425341,3.261764,0.757089
+972,RS Serasi Malem Binjai,"Jl. Imam Bonjol No.205,Binjai",,Binjai,"98.6745999825037,",3.572101131,0.449235,0.322506
+973,RSU Siti Hajar,"Jl. Letjend Jamin Ginting No.2, Medan",0,,98.6262009,3.53936687,4.472114,0.322137
+974,Rumkit Tk II Putri Hijau Medan,"Jl. Putri Hijau 17,Medan",2,Medan,"98.6756344939481,",3.595756662,4.755416,0.407805
+975,Rumkit Bhayankara Medan,"Jl. KH Wahid Hasyim No.1, Medan",2,Medan,"98.6584981685997,",3.57260055,4.836359,0.354227
+976,RS AL Belawan,"Jl. Bengkalis Belawan No.1,Medan",3,Medan,98.68431636,3.783681017,2.913957,0.079876
+977,Rumkit Tk IV 01.07.02 Binjai,"Jl. Bandung No.4,Binjai",3,Binjai,98.50709831,3.699319284,1.469984,0.687709
+978,Rumkitban Sibolga,"Jl. Anggrek No.6,Sibolga",4,Tapanuli Tengah,98.86800903,1.679917272,0.078471,0.984681
+979,Rumkit Tk IV Pematang Siantar,"Jl. Gn Simanuk Manuk,P Siantar",4,Pematang Siantar,99.07056816,2.959893311,3.859827,0.897442
+980,RS Lanu Dr ABD Malik,"Jl. Imam Bonjol No.1,Medan",4,Medan,"98.6767537283125,",3.579529993,4.593529,0.464056
+981,RS Tingkat IV 01.07.03,"Jl. Raya Losung Batu,Padang Sidempuan",4,Padang Sidempuan,98.67581286,3.596055422,4.755416,0.407805
+982,RSU H Adam Malik,"Jl. Bunga Lau No.17,Medan",A,Medan,98.61029975,3.518899596,3.290508,0.477144
+983,RSU Dr.RM Joelham Binjai,"Jl. Sultan Hasanuddin 9,Binjai",B,,98.485708,3.600425341,3.261764,0.757089
+984,RS Gleneagles Medan,"Jl. Listrik No.2A,Medan",B,Kota Medan,98.67649956,3.586080413,4.472114,0.391668
+985,RSU Dr Pirngadi,"Jl. Prof H M Yamin SH 47, Medan",B,Kota Medan,"98.6884009002641,",3.598119986,5.018481,0.406465
+986,RSUD.Dr. H.Kumpulan Pane,Jl. Dr. K. Pane Tebing Tinggi,B,Tebing Tinggi,99.15222321,3.319444006,4.569104,0.300153
+987,RS Sari Mutiara,"Jl. Kapten Muslim 79,Medan",B,Medan,98.6447463,3.597981754,5.038717,0.541324
+988,RSU Padang Sidempuan,"Jl. Dr. F.L. Tobing,Pd Sidempuan",B,Tapanuli Selatan,99.18521164,1.419354161,0.220304,0.083977
+989,RSU Tarutung,Jl. Bin Harun Said Tarutung,B,Tapanuli Utara,98.95858229,2.034268655,0.041299,0.760756
+990,RSU Rantau Prapat,Jl. KH Dewantara Rantau Prapat,B,Labuhan Batu,99.62639956,1.509160456,1.223011,0.924385
+991,RSU Dr Fl Tobing Sibolga,"Jl. Dr. FL. Tobing 35,Sibolga",B,Tapanuli Tengah,98.82294536,1.700821538,1.280237,0.986348
+992,RSUD.Dr. Djasaman Saragih,"Jl. Sutomo No. 230,P Siantar",B,Pematang Siantar,99.06962729,2.958631385,3.859827,0.897442
+993,RS Martha Friska,"Jl. Yos Sudarso Km.6 No. 91,Medan",B,Medan,98.66532059,3.68307032,4.026927,0.648727
+994,RSU Kabanjahe,"Jl. KS.Ketaren 8, Kabanjahe",C,Karo,"98.4546325275372,",3.138565031,0.803045,0.866169
+995,RSU Permata Madina,Jl. Merdeka No. 155 Panyabungan,C,Mandailing Natal,99.40992358,0.792181598,0,0.851795
+996,RSUD Natal,"Jl. Multatuli No. 72,Kab.Mandailing Natal",C,Mandailing Natal,"99.1349040660488,",0.840223952,0,0.981211
+997,RSU Gunung Sitoli,"Jl. Cipto M Kusumo,Gn Sitoli",C,Nias,97.62296559,1.273198206,0.717489,0.748298
+998,RSU Panyabungan,"Jl. Merdeka No.40,Panyabungan",C,Tapanuli Selatan,"99.5614081636088,",0.854533208,2.435736,0.967683
+999,RSU Sipirok,"Jl. RSU No.1,Sipirok Tapsel",C,Tapanuli Selatan,99.28776205,1.630233968,0,0.742851
+1000,RSUD Gunung Tua,Kab.Tapanuli Selatan,C,Tapanuli Selatan,99.73724835,1.348142317,0.143043,0.967453
+1001,RSUD Sibuhuan,Kec.Burumun Kab.Tap.Sel,C,Tapanuli Selatan,99.79164493,1.052954286,0.181188,0.971524
+1002,RSUD Pandan,"Jl. Imam Bonjol,Kab.Tapanuli Tengah",C,Tapanuli Tengah,98.82307021,1.682026427,2.680016,0
+1003,RSU Dr Hadrianus Sinaga,Jl. Dr Hadrianus S Pangururan,C,Tapanuli Utara,98.70405234,2.601399423,0.556659,0.844208
+1004,RSU Porsea,"Jl. Parparean Porsea Kab,Taput",C,Tapanuli Utara,99.10911708,2.340145151,0.223238,0.764692
+1005,RS HKBP Balige,"Jl. Gereja No.17,Balige",C,Tapanuli Utara,99.08331227,2.33330489,0.334857,0.775015
+1006,"RSU H.Abd.Manan Simatupang, Kisaran",Jl. Sisingamangaraja Kisaran,C,Asahan,99.85359522,2.078779402,1.140634,0.731196
+1007,RSUD Simalungun,Kabupaten Simalungun,C,Simalungun,99.06923043,2.957975898,3.859827,0.897442
+1008,RSU Sidikalang,"Jl. Rumah Sakit 19,Sidikalang",C,Dairi,"98.3099614529592,",2.752295402,1.497963,0.880265
+1009,RS Sembiring,"Jl. Besar No.77, Deli Tua",C,Deli Serdang,"98.681801430705,3",4.90348E+13,0.189998,0.722485
+1010,RS Nur Saadah,"Tanjung Morawa Km.12,Deli Serdang",C,Deli Serdang,98.71470068,3.568029972,4.998246,0.545536
+1011,RSUD Sultan Sulaiman Syariful Alamsyah,Kabupaten Serdang Bedagai,C,Deli Serdang,99.12101843,3.492604277,0.113678,0.744117
+1012,RSU Tanjung Pura,Jl. Khairil Anwar Tanjung Pura,C,Langkat,98.41587402,3.899599808,0.767074,0.726578
+1013,BPRSU Dr. Tengku Mansyur,Jl. Mayjen Sutoyo Tanjung Balai,C,Tanjung Balai,99.79491345,3.048816704,0.142362,0.486325
+1014,RSU Mitra Sejati,Jl. Jend.AH Nasution No.7 Pangkalan Masyhur Medan,C,Medan,98.67966998,3.540851751,0.449235,0.323766
+1015,RS Prof.Dr. Boloni,"Jl. Monginsidi No.11,Medan",C,Medan,98.66867384,3.57101311,4.532822,0.322506
+1016,RSU Haji Medan,"Jl. RS. Haji Medan Estate,Medan",C,Medan,98.68880222,3.578548991,5.079189,0.039965
+1017,RSU Muhammadiyah Sumatera Utara,"Jl. Mandala By Pass No.27,Medan",C,Medan,98.71139648,3.58981268,0.511966,0.435868
+1018,RSUD Lukas Hilisimaetano,Kabupaten Nias Selatan,D,Nias Selatan,98.74811718,-1.122097107,0,0.834322
+1019,RSU Artha Medica,Binjai Sumatera Utara,D,,98.48027682,3.598610487,3.161623,0.757089
+1020,RSU Delia,Jl. K.H. Dewantara No.24 Kec. Selesai Kabupaten Langkat,D,Langkat,98.41843355,3.570620709,0.098977,0.975546
+1021,RS Delima Medan,"Jl.Kl. Yos Sudarso Km.13,6 No.19 A, Medan - Martubung",D,,98.67308389,3.696554641,0.410787,0.440792
+1022,RSU Trianda,"Jl. Medan - Tebing Tinggi Km.42,5 No.752 B Ds.Bengkel Kec. Perbaungan Serdang B More ...",D,Serdang,99.00759227,3.561087151,0.787002,0.520208
+1023,RSU Dolok Sanggul,Jl. Kesehatan Dolok Sanngul,D,Tapanuli Utara,98.75268776,2.259582572,0.656609,0.733525
+1024,RS Medika Stania,"Jl. Jend. Sudirman No.3,Sungailiat",,Bangka,106.0970011,-1.875801122,0.686416,0.921638
+1025,RS Almah,Jl. Raya Air Kenanga Kec. Sungailiat Kab. Bangka,A,,106.0970011,-1.875801122,0.686416,0.921638
+1026,RSU Bakti Timah,"Jl. Bukit Baru No.1,Pangkal Pinang",C,Bangka,106.134569,-2.230790157,0.009631,0.931458
+1027,RSU Sungai Liat,"Jl. Jend Sudirman 195,Sungailiat",C,Bangka,106.1386892,-1.883305789,0.319883,0
+1028,RSUD Kabupaten Belitung,"Jl. Melati Tajung Pandan,Kab.Belitung",C,Belitung,107.9555678,-2.857610451,0.054134,0.906662
+1029,RSUD Depati Hamzah,"Jl. Soekarno Hatta,Pk Pinang",C,Pangkal Pinang,106.1346092,-2.230803534,0.009631,0.931458
+1030,RSUD Kab.Bangka Tengah,"Jl. By Pass Koba,bangka Tengah",D,Bangka Tengah,106.2001669,-2.443899514,0,0.946337
+1031,RSUD Sejiran Setason,Jl. Kadur Dalam Muntok Bangka Barat,D,Bangka Barat,105.4457761,-1.837403803,0,0.867285
+1032,RSUD Toboali Kab.Bangka Selatan,Jl. Raya Gadung Toboali,D,Bangka Selatan,108.0648871,-2.927056491,0,0.916342
+1033,RSUD Kab.Belitung Timur,Jl. Raya Gantung Ds. Padang Belitung Timur,D,Belitung Timur,107.9126623,-2.876918359,0,0.924102
+1034,RS GSTK Tentena,"Jl. Setia Budi No.98,Kec.Pamona - Utara",,Poso,120.7582177,-1.410239758,0.827351,0.097944
+1035,RS Woodward,Jl. Woodward No.1 Palu,,Palu,119.8719981,-0.904283398,1.947834,0.727897
+1036,RS Bethesda Kulawi,Kulawi Kab Donggala Palu,,Palu,120.0080141,-1.516223672,0.296787,0.700179
+1037,RS Budi Agung,Jl. Maluku No. 4 Palu,,Palu,119.8735989,-0.907369096,1.892632,0.727897
+1038,Rumkit Tk.IV Wirabuana Palu,"Jl. Sisinga Mangaraja No.4,Palu",4,Palu,119.8873775,-0.895601528,1.900518,0.503444
+1039,Rumkit Bhayangkara Palu,"Jl. Lorong Suharso 1 No.30, Palu",4,Palu,119.8505989,0.898584667,1.782229,0.513874
+1040,RSU Undata Palu,Jl. Dr Suharso 14 Palu,B,Palu,119.8671689,-0.886883986,1.774343,0.651736
+1041,RSU Anutapura Palu,Jl. Kangkung No. 1 Palu,B,Palu,119.8505989,-0.898584667,1.782229,0.513874
+1042,RSU Ampana,Jl. St Hasanudin No. 32 Ampana,C,Poso,121.5858001,-0.867981856,1.747291,0
+1043,RSU Mokopido Toli-Toli,"Jl. Lanoni No.37 Toli-Toli, Sulteng",C,Toli-Toli,"120.816667582484,",1.033334242,0.016006,0.729364
+1044,RSUD Poso,Jl. Jen.Sudirman No.33 Poso,C,Poso,113.5000007,-0.1999996,0,0.895561
+1045,RSU Anuntaloko Parigi,Jl. Sis Al Jufri No.214 Parigi,C,Donggala,120.1797118,-0.846274953,0.086272,0.705738
+1046,RSUD Banggai,Jl. KM 7.Adean Kabupaten Banggai Kepulauan,C,Banggai,123.5478046,-1.602810496,0,0.902482
+1047,RSUD Morowali,Jl. Trans Sulawesi Fonuasingko Bungku,D,Morowali,121.3541632,-2.169120789,0,0.861625
+1048,RSUD Kabelota,Jl. Trans Palu - Donggala Kabonga Besar,D,Donggala,119.9740536,-1.18354352,0,0.066941
+1049,RSU Buol,Kab Buol,D,Buol,121.4272122,1.1607263,0.740608,0.855603
+1050,RS Agape,Jl. Sintang-Pontianak Sintang,,Sintang,111.495501,",0.08023706435",0.522761,0.970756
+1051,RS Santa Elizabeth,Jl. Gusti Hamzah 029 Sambas,,Sambas,109.3099974,1.361327879,1.454161,0.910552
+1052,RSU Harapan Bersama,Jl. P Belitung No.61 Singkawang,,Sambas,108.984599,0.908796008,2.065384,0
+1053,RS PTPN XIII Parindu,Binjai Kec.Tayan Hulu Sanggau,,Sanggau,110.5972953,0.119276494,1.036913,0.972504
+1054,RS Pro Medika,"Jl. Gusti S. Lelanang Blok EA No.2-5, Kota Pontianak",0,,109.3290111,-0.040421751,2.270606,0.845453
+1055,RS Dam XII Ponianak,Jl. Jen Sudirman No. 1 Pontianak,3,Kota Pontianak,109.3303087,-0.022522919,1.695888,0.832529
+1056,Rumkit Lanud Supadio,"Jl. Raya Kuala Dua, Pontianak",4,Kota Pontianak,109.3303087,-0.022522919,1.695888,0.832529
+1057,Rumkit Bhayangkara Pontianak,"Jl. K.S. Tubun 14, Pontianak",4,Pontianak,109.3303087,-0.022522919,1.695888,0.832529
+1058,RSU Dr Sudarso PTK,Jl. Adisucipto Pontianak,B,Kota Pontianak,109.3303087,-0.022522919,1.695888,0.832529
+1059,RSU St.Antonius,"Jl. KHW. Hasyim No.249, Pontianak",B,Kota Pontianak,109.3303087,-0.022522919,1.695888,0.832529
+1060,RSUD Dr Abdul Aziz,"Jl. Dr Sotomo No. 28, Singkawang",B,Sambas,109.3099974,1.361327879,1.454161,0.910552
+1061,RSI Yarsi Pontianak,Jl. Tanjung Raya II Pontianak,C,Kota Pontianak,109.3303087,-0.022522919,1.695888,0.832529
+1062,RS Bethesda Serukam,"Serukam Samalantan Bengkayang, Sambas",C,Sambas,109.3099974,1.361327879,1.454161,0.910552
+1063,RSU Ade Moehamad Djoen Sintang,Jl. Patimura Sintang,C,Sintang,111.495501,0.080237064,0.522761,0.970756
+1064,RSUD Dr Achmad Diponegoro,Jl. Yos Sudarso 42 Puttussibau,C,Kapuas Hulu,112.9322991,0.851407378,0.106681,0.983165
+1065,RS Santo Vincentius,Jl. P Diponegoro 5 Singkawang,C,,108.984599,0.908796008,2.065384,0
+1066,RSU Sambas,Jl. Gusti Hamzah No. 87 Sambas,C,Sambas,109.3099974,1.361327879,1.454161,0.910552
+1067,RSU Dr Rubini Mempawah,Jl. Dr Rubini Mempawah,C,Pontianak,109.3303087,-0.022522919,1.695888,0.832529
+1068,RSU Sanggau,Jl. Jend Sudirman Sanggau,C,Sanggau,110.5972953,0.119276494,1.036913,0.972504
+1069,RSU Dr. Agusdjam Ketapang,Jl. Panjaitan No.1 Ketapang,C,Ketapang,109.9719019,-1.859097329,0.839028,0.975015
+1070,RSUD Kab.Sekadau,"Sekadau,Kalbar",D,Sekadau,110.8886039,0.01508068,0.789529,0.980222
+1071,RSUD Melawi,"Jl. Rawat Inap Nanga Pinoh,Kab.Melawi-Kalbar",D,Melawi,111.4833321,0.08333168,0.251841,0.972386
+1072,RSUD Landak,Jl. Pemuda Ngabang,D,Landak,112.8967958,-7.042151275,0.559908,0.325788
+1073,RSUD Kab.Bengkayang,Jl. Sanggau Ledo No.20 Bengkayang,D,Bengkayang,111.4752879,-0.278782998,0,0.982634
+1074,RS Restu Ibu,Jl. Jen A.Yani No. 12 Balikpapan,,Balikpapan,116.8370002,-1.271530502,3.194885,0.926463
+1075,RS Bhakti Nugraha,Jl. Basuki Rachmat 50 Samarinda,,Samarinda,117.1510011,-0.495704887,4.491475,0.764591
+1076,RS Haji Darjad,"Jl.Dahlia No.4,Samarinda",,Samarinda,117.1538014,-0.502183961,4.491475,0.843988
+1077,RS LNG Badak,Bontang Selatan Kotip Bontang,,Bontang,117.498597,0.135694904,1.898825,0.819463
+1078,RS Pupuk Kaltim,Komplek Pupuk Kaltim Bontang,,Bontang,117.498597,0.135694904,1.898825,0.819463
+1079,RS Dirgahayu,Jl. Merbabu No.40 Samarinda,,,117.1538014,-0.502183961,4.491475,0.843988
+1080,RS Islam Samarinda,"Jl. Gurami No.18,Samarinda",,Samarinda,117.1538014,-0.502183961,4.491475,0.843988
+1081,RS St Yosef Tering,"Tering Baru, Kab.Kutai",,Kutai Kertanegara,117.05126,-0.476009037,0,0.909609
+1082,RS Pertamina Bunyu,Jl.Serdang P.Bunyu,,Bulongan,117.8194204,3.519144847,0,0
+1083,RS Pertamina Balikpapan,Jl. Jend Sudirman Balikpapan,,Balikpapan,116.8525669,-1.274081108,3.156547,0.864825
+1084,RS PT ITCI,Jl. Rumah Sakit Balikpapan,,Balikpapan,116.8311989,-1.265385861,1.750797,0.973895
+1085,RSAL Ilyas Tarakan,Jl. Jen Sudirman Tarakan,3,Tarakan,117.6193985,3.276088167,0.985818,0
+1086,Rumkit Tk.III Dr R Hardjanto,Jl. Tanjungpura I Balikpapan,3,Balikpapan,116.8579981,-1.269889553,2.849838,0.882288
+1087,RS Dim 0901 Samarinda,Jl. Jen Sudirman Samarinda,4,Samarinda,117.1569986,-0.503588577,2.772482,0.843988
+1088,Rumkit Bhayangkara Balikpapan,"Jl. Jend. Sudirman No.14, Balikpapan",4,Balikpapan,116.8311989,-1.265385861,1.750797,0.973895
+1089,RSUD H A Wahab Sjahranie,"Jl. Dr. Soetomo, Samarinda",B,Samarinda,117.1538014,-0.502183961,4.491475,0.843988
+1090,RSUD Tarakan,"Jl. P. Irian Tengah,Tarakan",B,Tarakan,117.6193985,3.276088167,0.985818,0
+1091,RSUD Kota Bontang,"Jl. S. Parman No.01, Kota Bontang",B,Bontang,117.498597,0.135596804,1.898825,0.819463
+1092,RSUD AM Parikesit Tenggarong,Jl. Imam Bonjol Tenggarong,B,Kutai Barat,116.9813992,-0.417322808,1.322322,0.849259
+1093,RSUD Inche Abdoel Moeis,"Jl. A.M.Rifaddin Kel,Harapan Baru Samarinda Seberang",C,Samarinda,117.1564992,-0.503588577,2.772482,0.843988
+1094,RSUD Sangatta,Jl. Cut Nyak Dien No.1 Kutai Timur,C,Kutai Timur,117.4354829,0.520863135,0,0.720207
+1095,RSUD Panglima Sebaya,Jl. Ciptomangunkusumo No.2 T Grogot,C,Pasir,116.2287966,-1.97134628,0,0.976489
+1096,RS Harapan Insan Sendawar,Jl. Mawar Desa Sendawar Kutai,C,Kutai Barat,116.9813992,-0.417322808,1.322322,0.849259
+1097,RSUD Aji Batara Agung Dewa Sakti,Jl. Balikpapan - Handil II Samboja,C,Kutai Barat,116.9371025,-0.896720763,0,0.096711
+1098,RSUD Tanjung Selor,Jl. Cendrawasih Tanjung.Selor,C,Kutai Timur,117.3666656,2.849998766,1.396837,0.968019
+1099,RSU Dr. Abd.Rivai Berau,Jl. Pulau Panjang No.275 Tanjung Redeb,C,Berau,117.696202,2.162329578,0.212483,0.911299
+1100,RSUD Kab.Penajam Paser Utara,Jl. Propinsi Km.09 Kab.Penajam Paser Utara,C,Penajam Paser Utara,116.4193875,1.640632591,0,0.850517
+1101,RSUD Kab. Nunukan,Jl. Sei Fatimah,D,Nunukan,117.6488018,4.142585142,0.753339,0.908154
+1102,RS Bergerak Kab.Malinau,Langgap-Malinau Selatan,D,malinau,116.647796,3.584220968,0.019374,0.097211
+1103,RSUD Kab. Malinau,Jl. Raya Respen Tubu Kec. Malinau Utara Kab. Malinau,D,Malinau,116.647796,3.584220968,0.019374,0.097211
+1104,RS Akademis Jaury,Jl. Bulusaraung No. 57 Makassar,,,119.4160015,5.131279324,5.824053,0.411388
+1105,RS PT Semen Tonasa,Jl. Beruang No.1 Komp PT Semen Tonasa Pangkep,,Pangkajene Kepulauan,119.5907136,-4.869213496,0.100359,0.764408
+1106,RS Islam Faisal,"Jl. AP Pettarani E19,Makasar",,Makassar,119.4329996,-5.163380392,6.382523,0.488177
+1107,RSU Elim Rantepao,Jl. A.Yani No. 68 Rantepao,,Toraja,119.8965811,-2.974024202,0.089568,0.935238
+1108,RS PT INCO,"Soroako, Kab.Luwu",,Luwu,121.3580025,-2.531806233,0.898819,0.890183
+1109,RS At - Medika,Jl. Andi Djemma No. 9 Palopo,,Luwu,120.1979985,-3.002740813,2.953317,0.867118
+1110,RS Stella Maris,Jl. Somba Opu No.273 Makassar,,Makassar,"119.409000725528,",-5.144036812,0.265938,0.492659
+1111,RS Hikmah,Jl. Yosef Latumahina No.1 Makassar,,Makassar,119.4120017,-5.146150426,0.265938,0.492659
+1112,RS 45 Makassar,Jl. U Sumoharjo Makassar,,Makassar,119.4519998,-5.141588765,5.770865,0.409114
+1113,RS Grestelina,Jl. Hertasning Raya No.52 Makassar,,Makassar,119.4371956,-5.158689418,6.382523,0.504671
+1114,RS Fatima Pare-Pare,Jl. Ilham No.3 Pare-Pare,,Pare Pare,119.6236128,4.016669047,3.009251,0.753878
+1115,RSUD Siwa,,,,"120.419196691883,",-3.712955215,0.041435,0
+1116,Rumkitban 07.08.05 Palopo,"Jl. Samiun, Palopo",0,,120.2000007,-2.999998466,3.163331,0
+1117,Rumkit Tk.II Pelamonia,"Jl. Jend Sudirman No.27,Makassar",2,Makassar,119.4138255,-5.134739586,5.824053,0.411388
+1118,RS Kepolisian Bhayangkara,Jl. Letjen Mapaodang Makassar,3,Makassar,119.4160015,5.174581654,5.930428,0.421089
+1119,Rumkit Tk.IV Dr. M Yasin Bone,Jl. Jend Sudirman Watampone,4,Bone,120.3249982,-4.538771812,1.401883,0.033976
+1120,RS Dr. Dody Saryoto,Lanu Hasanudin Maros,4,Maros,119.5743041,-5.005840352,1.082129,0.458647
+1121,RS Lanal Makassar,Jl. Satando Makassar,4,Makassar,119.4128088,-5.11631458,0.744628,0.443894
+1122,RS Dim 1402 Pare-Pare,Jl. Karaeng Burane No.24 Pare Pare,4,Pare Pare,119.6218738,-4.012383851,3.178603,0.753878
+1123,RSU Dr W Sudirohusodo UP,"Jl. P Kemerdekaan Km.11,Makasar",A,Makassar,119.5108198,-5.106335112,5.691083,0.416372
+1124,RSUD Syekh Yusup Gowa,Jl. Dr. Wahidin HS No.48 Sungguminasa,B,Gowa,119.6984231,-5.330681404,0.003651,0.085635
+1125,RSU Tenriawaru Bone,Jl. W.Sudirohusodo Watampone,B,Bone,120.0498939,-4.688477212,0.422678,0.794913
+1126,RSU Labuang Baji,Jl. Dr. Ratulangi No.81 Makassar,B,Makassar,119.418998,-5.162979073,6.621868,0.404431
+1127,RSU Andi Makkasau Pare2,Jl. Nurussamawaty No.3 Pare-Pare,B,Pare Pare,119.6236128,4.016669047,3.009251,0.753878
+1128,RSU Palopo,Jl. Samiun No.2 Palopo,C,Luwu,120.244342,-3.159201751,0.006951,0.894266
+1129,RSUD HA. Sulthan Daeng Radja,Jl. Serikaya No. 17 Bulukumba,C,Bulukumba,120.1857271,-5.555576166,1.716672,0.814297
+1130,RSU Luramay,Jl. AP Pettarani E19 Makassar,C,,119.4372402,5.166345694,6.409117,0.504671
+1131,RSU Prof.Dr. A Makkatutu,Jl. Teratai No.20 Bantaeng,C,Bantaeng,119.9511293,-5.542698282,1.452164,0.604601
+1132,RSU Enrekang,Jl. Jend Sudirman Enrekang,C,Enrekang,119.7794272,-3.519412393,0.041686,0.331893
+1133,RS Fatima Makale,Jl. Nusantara No.18 Makale Tator,C,Tana Toraja,119.9166649,-3.416665786,0,0.834929
+1134,RSU Nene Mallomo,Jl. Wolter Monginsidi Rappang,C,Sidenreng Rappang,119.8077692,-3.920459483,0.321368,0.745464
+1135,RSU Andi Jemma Masamba,"Jl. Sultan Hasanuddin No.23, Masamba Luwu Utara",C,Luwu,120.3337469,-2.554306856,0.266845,0.009044
+1136,RSU Selayar,Jl. Dr Wahidin S No. 23 Selayar,C,Selayar,120.5000001,-6.000001391,0.061849,0.360631
+1137,RSUD Lanto Daeng Pasewang/Jeneponto,Jl. Kesehatan No. 8 Bonto Sunggu,C,Jeneponto,119.6730954,-5.554577327,0.327875,0.025837
+1138,RSU H. Pajonga Dg.Ngale Takalar,"Jl. Incesuhsan No.1 Dg, Parani Takalar",C,Takalar,119.4875656,-5.416251554,0.122565,0.032182
+1139,RSU Salewangeng Maros,Jl. Ujung Pandang KM 3 Maros,C,Maros,119.5743041,-5.005840352,1.082129,0.458647
+1140,RSU Pangkep,Jl. Sultan Hasanudin 7 Pangkajene,C,Pangkep,119.4100798,-5.139707025,0.265938,0.411388
+1141,RSU Ajapange Soppeng,Jl. Samudra No.4 Watansoppeng,C,Barru,119.6900489,-4.418037192,0.164763,0.828047
+1142,RSU Lamadukeleng Sengkang,Jl. K.Chandra Kirana Sengkang,C,Wajo,120.0397539,-4.148743161,0.129829,0.680492
+1143,RSU Lasinrang Pinrang,Jl. Macan No. 9 Pinrang,C,Pinrang,119.5571677,-3.648351759,0,0.576565
+1144,RSU Lakipadada Tana Toraja,Jl. Pongtiku Mandetek Tana Toraja,C,Tana Toraja,119.8855449,-2.992302057,0.521123,0.940298
+1145,RSUD I Lagaligo,"Jl. Sangkuruwira,Kec.Wotu Kab.Luwu Timur",C,Luwu Timur,121.1710368,2.582550803,0,0.809777
+1146,RSU Haji Makassar,Jl. Dg. Ngeppe 14 Makassar,C,Makassar,119.4153416,-5.179397483,5.930428,0.414813
+1147,RSUD Daya,"Jl. Perintis Kemerdekaan No. 14,Makasar",C,Makassar,119.5108198,-5.106335112,5.691083,0.416372
+1148,RSUD Batara Guru,Jl. Tomakaka - Lebani Kab. Luwu,D,Luwu,120.244342,-3.159201751,0.006951,0.894266
+1149,RSU Barru,Jl. Lasawedi Kel.Coppo Kec.Barru Kab.Barru,D,Barru,119.6900489,-4.418037192,0.164763,0.828047
+1150,RSU Sinjai,Jl. Jend Sudirman No. 47 Sinjai,c,Sinjai,120.2428169,-5.139818502,0.041671,0.817349
+1151,RS Panti Bhaktiningsih,Tegalrejo Belitang Kab.OKU Timur,,Ogan Komering Ulu,104.1075732,-4.27920754,0.083248,0.577844
+1152,RS St Antonio,"Jl. Komisaris Umar 33,Baturaja",,Ogan Komering Ulu,104.1698267,-4.113993387,1.153581,0.032016
+1153,RS Pertamina Prabumulih,"Jl. Kesehatan No.100,Prabumulih",,Prabumulih,104.2260203,-3.435193351,2.263736,0.862591
+1154,RS AR Bunda Prabumulih,Jl. Angkatan 45 Kel.Prabumulih Timur,,Prabumulih,104.2262388,-3.433516729,2.263736,0.862591
+1155,RS Pertamina Plaju,"Komp Pertamina Plaju,Palembang",,Palembang,104.759409,-2.990866227,5.926124,0.839709
+1156,RS PT Pusri Palembang,"Jl. Mayor M Zen,Palembang",,Palembang,104.8159326,-2.968410194,4.020366,0.080367
+1157,RS Boom Baru,"Bomm Baru,Palembang",,Palembang,104.7765766,-2.979022854,5.351786,0.085854
+1158,RS Myria Palembang,"Jl. Kol.H.Barlian Km.7,Palembang",,Palembang,104.7249981,-2.940902,0.715247,0.081669
+1159,RS Muhammadiyah Palembang,"Jl. A.Yani 13 Ulu,Palembang",,Palembang,104.7716626,-2.998406567,6.004443,0.844292
+1160,RSUD Tebing Tinggi,"Desa Terusan Baru, Tebing tinggi",-,,99.15222321,3.319444006,4.569104,0.300153
+1161,Rumkit Tk II Dr. AK Gani Palembang,"Jl. S M Badaruddin II,Palembang",2,Palembang,104.7609073,-2.991637651,4.072579,0.839709
+1162,RSU Dr. Mohammad Hoesin,"Jl. Jend.Sudirman KM 3.5,Palembang",A,Kota Palembang,104.7519311,-2.972909427,5.612849,0.843179
+1163,RS Charitas,"Jl. Sudirman 1054,Palembang",B,Kota Palembang,104.7540001,-2.976548053,5.821699,0.840439
+1164,RSUD Palembang Bari,"Jl. P. Usaha Seb Ulu,Palembang",B,Palembang,104.7799432,-2.962319062,5.952231,0.856754
+1165,RSUD Dr. Ibnu Sutowo Baturaja,"Jl. Dr. Moh.Hatta No.1,Baturaja",C,Ogan Komering Ulu,104.1075732,-4.27920754,0.083248,0.577844
+1166,RSU Dr. Sobirin Musirawas,"Jl. Yos Sudarso No.13,Lubuk Linggau",C,Musi Rawas,102.8598989,-3.296898791,1.914247,0.877489
+1167,RS Bukit Asam,"Jl. Raya Bukit Asam,Tanjung Enim",C,Muara Enim,103.781332,-3.63748493,0.684279,0.923919
+1168,RSUD Basemah Kota Pagar Alam,"Jl. S.Parman Pagar Alam,Lahat",C,Lahat,103.265298,-4.037666954,0.068437,0.904208
+1169,RS Siti Khadijah,"Jl. Demang Lebar Daun,Palembang",C,Palembang,104.728561,-2.97309225,4.673023,0.827311
+1170,RSU Prabumulih,"Jl. Lingkar, Kel. Gunung Ibul, Kec. Prabumulih Timur",C,,104.2371814,-3.481706234,0.276065,0.882223
+1171,RSUD Oku Timur (Gumawang),"Jl. Mayjen Warsito Kec.Belitung,Gumawang",C,Ogan Komering Ulu,104.1075732,-4.27920754,0.083248,0.577844
+1172,RSU Kayuagung,"Jl. Letnan Marzuki,Kayu Agung",C,Ogan Komering Ilir,104.1663307,-4.094689938,0.261637,0.744085
+1173,RSU Muara Enim,"Jl. Dr AK Gani No.84,Muara Enim",C,Muara Enim,103.7747191,-3.639906222,1.119729,0.912327
+1174,RSU Lahat,"Jl. Mayor Ruslan I No. 28,Lahat",C,Lahat,103.4246797,-3.746897892,0,0.895193
+1175,RSU Sekayu,"Jl. Kolonel Wahid Udin,Sekayu",C,Musi Banyuasin,103.8566863,-2.892101598,0.659942,0.951878
+1176,RSUD Muaradua,Jl. Raya Ranau Desa Suka Jaya Kec.Muaradua,D,Ogan Komering Ulu Selatan,103.3836114,-4.797091995,0.008358,0.979384
+1177,RSUD Talang Ubi,Jl. Taman Siswa Kel.Pasar Bhayangkara,D,Muara Enim,103.781332,-3.63748493,0.684279,0.923919
+1178,RSUD Sungai Lilin,Kec.Sungai Lilin Kab.Musi Banyuasin,D,Musi Banyuasin,103.9144004,-3.319435088,0,0.855454
+1179,RSUD Bayung Lencir,"Jl raya Palembang-Jambi KM 200 Kec, bayung Lencir",D,Musi Banyuasin,103.817959,-2.254253947,0.015902,0.917438
+1180,RSUD Siti Aisyiah,"Jl. Lapter Silampari Kel.Air Kuti,Lubuk Linggau Timur",D,Lubuk Linggau,102.9194814,-3.269858802,0.541201,0.843479
+1181,RSUD Kab.Musi Rawas,"Kab.Musi Rawas,Sumsel",D,Musi Rawas,102.8600995,-3.296631245,1.693758,0.877489
+1182,RSUD Banyuasin,"Jl. Raya Palembang - Betung Km.48,Pangkalan Bali Banyuasin",D,Banyuasin,104.542719,-2.852834754,0,0.979629
+1183,Rumkit Tk.IV Palangkaraya,Jl. Diponegoro Palangkaraya,4,Palangka Raya,113.231487,-1.593424089,0.089222,0.892765
+1184,RSUD Dr Murjani Sampit,Jl. H M Arsyad No. 65 Sampit,B,,112.9520708,-2.540015438,1.103622,0.443901
+1185,RSUD Dr Doris Sylvanus,Jl. Tambun Bungai No.4 Palangkaraya,B,Palangka Raya,113.231487,-1.593424089,0.089222,0.892765
+1186,RSUD Kasongan,"Jl. Rumah Sakit No.1,Kasongan",C,,113.3823517,-1.681486875,0,0.967087
+1187,RSUD Dr H Soemarno S,Jl. Tambun Bungai Kuala Kapuas,C,Kapuas,114.3910227,-3.0028077,1.047097,0.852944
+1188,RSU Muara Teweh,Jl. Yetro Sinseng Muara Teweh,C,Barito Utara,114.4499988,-1.433333443,0,0.097474
+1189,RSUD Sultan Imanuddin,Jl. St Syahrir 17 Pangkalan Bun,C,Waringin Barat,113.3823517,-1.681486875,0,0.967087
+1190,RSUD Buntok,"Jl. Patianom No.6, Buntok",C,Barito Selatan,114.8217986,-1.744832865,0,0.090768
+1191,RSUD Sukamara,"Jl. Tjilik Riwut KM 5,5 Sukamara",D,Sukamara,111.1833327,-2.716667185,0.043556,0.986021
+1192,RSUD Kuala Kurun,Jl. Cilik Riwut No.43 Kuala Kurun Kalteng,D,Kapuas,113.3823517,-1.681486875,0,0.967087
+1193,RSUD Tamiang Layang,Jl. Nansarunai Tamiang Layang,D,Barito Selatan,113.3823517,-1.681486875,0,0.967087
+1194,RSUD Puruk Cahu,"Jl. A. Yani No. 497, Puruk Cahu",D,Barito Utara,113.3823517,-1.681486875,0,0.967087
+1195,RSUD Lamandau,"Jl. Tjilik Riwut No.11,Nanga Bulik",D,Lamandau,113.3823517,-1.681486875,0,0.967087
+1196,RSUD Kuala Pembuang,"Jl. A.Yani No.30,Kuala Pembuang",D,Seruyan,112.956191,-2.529679241,0.119777,0.045589
+1197,RSUD Pulang Pisau,"Jl. Pemda No. 107, Pulang Pisau",D,Pulang Pisau,113.3823517,-1.681486875,0,0.967087
+1198,RS Mitra Sakinah Idaman,Jl. Poros Kendari-Kolaka Unaaha Kendari,,Kendari,122.577959,-3.968345769,1.722135,0.642404
+1199,RS Griya Husada Bakti,Jl. Saranani No. 248 Kendari,,Kota Kendari,122.5218635,-3.966838593,3.013737,0.066704
+1200,Rumkit Tk.IV Dr. R Ismoyo Kendari,Jl. Laute no 1 Kendari Sul-ut,4,Kota Kendari,122.5712213,-3.957960522,0,0.640334
+1201,RS Bhayangkara Kendari,Jl. Y Wayong No.7Kendari,4,Kendari,122.5095296,-4.012999207,1.861426,0.680851
+1202,RSU Propinsi Kendari,Jl. Dr Ratulangi No. 151 Kendari,B,Kota Kendari,122.5713328,-3.957960522,0,0.640334
+1203,RSUD Kab.Konawe Utara,"Jl. Raya Asera - Kendari, Lahimbua Kec. Asera",B,Konawe Utara,121.8377571,-3.280279722,0,0.825077
+1204,RSU Kolaka,Jl. W R Supratman No. 20 Kolaka,C,Kolaka,121.511837,-4.020735747,0.126529,0
+1205,RSU Bau Bau,Jl. Jend Sudirman 20 Bau Bau,C,Buton,122.9888339,-5.309634447,0,0.323894
+1206,RSUD Pasar Wajo,Kabupaten Buton,C,Buton,122.9888339,-5.309634447,0,0.323894
+1207,RSU Raha,Jl. Sultan Hasanuddin No.6 Raha,C,Muna,122.6277449,-4.901626701,0.018413,0.186797
+1208,RSU Unaaha,"Jl. Pangeran Diponegoro No.301, Konawe",C,Kendari,122.5722335,-3.968180782,1.240951,0.642404
+1209,RSUD Bombana,"Jl. Poea Kel.Poea, Rumbia",D,Bombana,121.7971124,-4.688628821,0,0.624607
+1210,RSUD Wakatobi,"Jl. Wohou Kel. Mandati III, Kec. Wangi - Wangi Selatan",D,Wakatobi,123.5902909,-5.329664729,0.009332,0.794007
+1211,RSU Daerah Abunawas,"Jl. Ki Hajar Dewantara No. 16, Kendari",D,Kota Kendari,122.5946985,-3.967489621,0.949707,0.813402
+1212,RSUD H.M.Djafar Harun,"Jl. Trans Sulawesi No. Lasusua, Kaloka",D,Kolaka,121.5126931,-4.021351103,0.126529,0
+1213,RSUD Kab. Konawe,Jl. Poros Andoolo,D,,122.0332932,-3.843731731,0.040379,0.979881
+1214,RS Antam Nikel Pomalaa,Jl. R.Suprapto Pomalaa Kab.Kolaka,BUMN,Kolaka,121.511837,-4.020735747,0.126529,0
+1215,RS Pertamina Tanjung,Tanjung Kab Tabalong,,Tabalong,115.4366908,-2.216360506,0.146874,0.985348
+1216,RSU Suaka Insan,Jl. H Zafri Zamzam Banjarmasin,,Banjarmasin,114.5850828,-3.395971098,0.049953,0.082497
+1217,RS Islam Banjarmasin,Jl. S Parman Banjarmasin,,Banjarmasin,114.5850828,-3.395971098,0.049953,0.082497
+1218,RSU Sari Mulia,Jl. P Antasari 139B Banjarmasin,,Banjarmasin,114.5850828,-3.395971098,0.049953,0.082497
+1219,RS Puri Paramita,Jl. A Yani Km 3 1/2 Banjarmasin,,Banjarmasin,114.5850828,-3.395971098,0.049953,0.082497
+1220,Rumkit Tk.III Dr. R.Soeharsono.,Jl. M.Soetoyo S 408 Banjarmasin,3,Banjarmasin,114.5850828,-3.395971098,0.049953,0.082497
+1221,RS Rem 101 Kandangan,Jl. Gambah Dalam Kandangan,4,Hulu Sungai Selatan,115.2639988,-2.778898399,1.593709,0.911228
+1222,RS TNI-Au Tk.IV Syamsudin Noor,Jl. Hercules No. 17 Banjarmasin,4,Banjarmasin,114.5850828,-3.395971098,0.049953,0.082497
+1223,Rumkit Bhayangkara Banjarmasin,"Jl. A. Yani Km.3,5 Banjarmasin",4,Banjarmasin,114.5850828,-3.395971098,0.049953,0.082497
+1224,RSUD Ulin Banjarmasin,"Jl. Jen A Yani No.43, Banjarmasin",B,Banjarmasin,114.5850828,-3.395971098,0.049953,0.082497
+1225,RSUD Dr.H.Moch.Ansari Saleh,"Jl. Brig Jend H Hasan Basry No.1,Banjarmasin",B,Banjarmasin,114.5850828,-3.395971098,0.049953,0.082497
+1226,RSU Pambalah Batung,Jl. Basuki Rahmat No. 1 Amuntai,C,Hulu Sungai Utara,115.283757,-3.092640749,0.009991,0.899685
+1227,RSUD Kotabaru,"Jl. H Hasan Basri No.57, Kotabaru",C,Kotabaru,115.283757,-3.092640749,0.009991,0.899685
+1228,RSUD Ratu Zalecha,Jl. A Yani Km 00100 Martapura,C,Banjar,114.8452,-3.411595789,1.534565,0.422705
+1229,RSU Datu Sanggul Rantau,Jl. Brigjen H Basri Rantau,C,Tapin,116.1832068,-3.689892744,0,0.869272
+1230,RSU Brigjen H Hasan Basry,Jl. Jend Sudirman Kandangan,C,Hulu Sungai Selatan,115.2639988,-2.778898399,1.593709,0.911228
+1231,RSUD H Damanhuri Barabai,Jl. Murakata No. 4 Barabai,C,Hulu Sungai Tengah,115.3399685,-2.652251011,0.025575,0.986427
+1232,RSUD H. Badaruddin/Tanjung,Jl. J A Suprapto Tanjung,C,Tabalong,115.4366908,-2.216360506,0.146874,0.985348
+1233,RSUD Banjarbaru,Jl. Palang Merah 2 Banjarbaru,C,Kota Banjar Baru,115.283757,-3.092640749,0.009991,0.899685
+1234,RSUD Abdul Aziz/Marabahan,"Jl. Jend Sudirman No.10,Marabahan",C,Barito Kuala,113.9209978,-0.789274264,0,0.984445
+1235,RSUD H Boejasin Pelaihari,Jl. Hadji Boejasin No.68 Kab. Tanah Laut,C,Tanah Laut,117.5965411,3.354679823,0,0.908203
+1236,RSUD Amanah Husada,Jl. Batulicin - Serongga Km.3.5 kec.Simpang Empat Kab.Tanah Bumbu,D,Tanah Bumbu,115.6860348,-2.967727952,0,0.883542
+1237,RS PTPN XIII D Salak,Danau Salak Martapura Kalsel,D,Banjar,114.5850828,-3.395971098,0.049953,0.082497
+1238,RSUD Balangan,"Jl. Lingkar Timur Km.1,7 Paringin Kab.Balangan",D,Balangan,112.7463948,-2.321590832,0,0.846143
+1239,RS Islam Yatofa,"Jl. Raya Bodak,Praya Lombok Tengah",,Lombok Tengah,116.2777085,-8.69462278,0.964897,0.363455
+1240,RS Islam Siti Hajar,Jl. Catur Warga Mataram,,Mataram,116.112744,-8.585762746,4.630299,0.002322
+1241,RS Sint Antonius Ampenan,Jl. Koperasi 61 Ampenan,,Mataram,116.0840899,-8.568617503,4.354451,0
+1242,RS Risa Sentra Medika,"Jl. Pejanggik No.115 Cakranegara,Mataram",,Mataram,116.1134352,-8.583992483,4.630299,0.002322
+1243,Rumkit Tk.IV Wira Bhakti Mataram,Jl. Cokroaminoto 7 Mataram,4,Mataram,116.1087621,-8.582159792,4.630299,0.253083
+1244,RS Bhayangkara Mataram,"Jl. Langko No.64,Mataram",4,Mataram,116.0927628,-8.580563434,4.334748,0
+1245,RSU Mataram,"Jl. Pejanggik No.6, Mataram",B,Mataram,116.1119994,-8.582409502,4.630299,0.002322
+1246,RSUD Patut Patuh Patju,"Jl. H. Lalu Anggrat BA No. 2, Gerung",C,Lombok Barat,116.1121019,-8.691363177,0.600628,0.508884
+1247,RSU Dr R Sudjono,Jl. Prof M Yamin SHNo.55 Selong,C,Lombok Timur,116.5505832,-8.583649132,0.659559,0.297252
+1248,RSU Praya,Jl. Basuki Rahmat No. 11 Praya,C,Lombok Tengah,116.2723977,-8.710367866,1.651772,0.545636
+1249,RSU Sumbawa Besar,Jl. Garuda No. 5 Sumbawa Besar,C,Sumbawa,117.4284955,-8.504040801,1.475727,0.379637
+1250,RSU Dompu,"Jl. Kesehatan No. 1 Dompu, NTB",C,Dompu,118.4457992,-8.545434636,0.096494,0.355929
+1251,RSU Raba,Jl. Langsat No. 1 Raba Kab Bima,C,Bima,118.7274048,-8.460569025,2.808934,0.368929
+1252,RSUD Kota Mataram,Jl. Bung Karna Pagutan Mataram,D,Mataram,116.1068313,-8.58182536,4.728816,0.253083
+1253,RS St Elizabeth Lela,"Lela Maumerem,Kab.Sikka",,Sikka,121.0793711,-8.657384827,0.017077,0.127046
+1254,RS Karitas Weetabula,"Weetebula,Kab.Sumba Barat",,Sumba Barat,121.0793711,-8.657384827,0.017077,0.127046
+1255,RSU Imanuel Sumba,"Jl. Nangka No.4,Waingapu-Sumba Timur",,Sumba Timur,120.2669006,-9.662805096,0.940483,0.321445
+1256,RS Marianum Halilolik,"Jl. Paroki Roh Kudus, Kab.Belu",,Belu,124.8910017,-9.101069841,1.371894,0.236492
+1257,RS Sito Husada,"Jl. KH.Dewantara No.15,Atambua Belu",,Belu,124.9000002,-9.333331038,0,0.013303
+1258,RS St Antonius Jopu,"Jopu Wolowaru, Ende- Flores",,Ende,121.6541982,-8.854053479,1.817371,0.612473
+1259,RS Bukit Lewoleba,"Lewoleba, Lembata NTT",-,Flores Timur,121.0793711,-8.657384827,0.017077,0.127046
+1260,RSU St. Gabriel Kewapante Sikka,Kewapante Kabupaten Sikka,0,,122.1887954,-8.74020817,0.229118,0
+1261,RS Tk.IV Wirasakti Kupang,"Jl. Dr.DR.Moch Hatta No.3,Kupang",4,Kupang,123.5948525,-10.18430142,2.939034,0
+1262,RS Bhayangkara,Jl. Nangka No. 54 Kupang,4,Kupang,123.5948525,-10.18430142,2.939034,0
+1263,RSU Prof Dr WZ Johanes,Jl. Dr Moch Hatta No. 19 Kupang,B,Kupang,123.5948525,-10.18430142,2.939034,0
+1264,RSU Dr TC Hillers Maumere,Jl. Kesehatan Maumere,C,Sikka,122.207702,-8.620842494,2.035625,0.383892
+1265,RSUD Naibonat,"Jl. Timor Raya KM.37 Oelamasi, Kupang",C,Kab Kupang,123.5948525,-10.18430142,2.939034,0
+1266,RSUD Kota Kupang,Jl. Timor Raya Pasir Panjang,C,Kupang,123.5948525,-10.18430142,2.939034,0
+1267,RSU Waikabubak,"Jl. Adhyaksa Km-IV,Sumba Barat",C,Sumba Barat,121.0793711,-8.657384827,0.017077,0.127046
+1268,RSUD Belu,Jl. Dr Sutomo No. II Atambua,C,Belu,124.8910017,-9.101069841,1.371894,0.236492
+1269,RSUD Ende,Jl. Prof Dr. WZ.Johanes Ende,C,Ende,121.6541982,-8.854053479,1.817371,0.612473
+1270,RS ST Rafael Cancar,"Cancar Ruteng,Kab.Manggarai",D,Manggarai,121.0793711,-8.657384827,0.017077,0.127046
+1271,RSU Soe,Jl. Boegenville No.7 Soe - Timor Tengah Selatan,D,Timor Tengah Selatan,124.4811791,-9.696449014,0.196987,0.202838
+1272,RS Lendemoripa,Jl. El Tari No.2 Waikabubak,D,Sumba Barat,119.2459938,-9.409537075,0.419287,0.215337
+1273,RS Kristen Lindimara,"Jl. Prof.DR WZ. Johannes No.6,Waingapu",D,Sumba Timur,120.2669006,-9.662805096,0.940483,0.321445
+1274,RSUD Rote Ndao Ba&#39;a,"Jl. Busa langga, Kab Kupang",D,Kupang,123.5948525,-10.18430142,2.939034,0
+1275,RSUD Waingapu,"Jl. Adam Malik No.54, Hambala Waingapu",D,Sumba Timur,120.2669006,-9.662805096,0.940483,0.321445
+1276,RSUD Kefamenanu,Jl. Letjen Suprapto Kefamenanu,D,Timor Tengah Utara,124.4712978,-9.437954926,0.143362,0.014757
+1277,RS Penyangga Perbatasan Betun,Jl. Sukabihanawa Desa Kamanasa Kec.Malaka Tengah,D,Belu,124.8910017,-9.101069841,1.371894,0.236492
+1278,RSUD Alor,Jl. Dr Sutomo Kalabahi Kab Alor,D,Alor,124.7500005,-8.250001355,0.050439,0.169826
+1279,RS Bergerak Kab.Alor,,D,Alor,124.7500005,-8.250001355,0.050439,0.169826
+1280,RSU Larantuka,"Jl. Moh Hatta No.19,Kab.Flores Timur",D,Flores Timur,122.9791711,-8.346411579,0.996339,0
+1281,RSUD Lewoleba,"Jl.Trans Lembata No.1,Lewoleba,Lembata",D,Flores Timur,123.4000255,-8.373692359,0.510709,0.647816
+1282,RSU Bajawa,"Jl. Diponegoro No. 5, Bajawa",D,Ngada,120.9606029,-8.792326143,0.017077,0.025082
+1283,RSU Ruteng,"Jl. Diponegoro No.16,Kab Manggarai",D,Manggarai,120.4664988,-8.61436342,2.078726,0.288408
+1284,RS Malahayati,"Jl. Medan - Banda Aceh No.100 M, Meunasah Blang - Bireuen",,Bireuen,96.69695299,5.209451824,1.721682,0
+1285,RS PTP IX Cot Girek,Lhok Sukon Kab. Aceh Utara,,Bireuen,97.25750213,5.066666949,0.375323,0.422824
+1286,RS PT Arun,Komp.PT Arun Lhokseumawe,,Bireuen,"97.1402768192256,",5.188057057,1.227592,0.359225
+1287,RS Yayasan Kasih Ibu,Jl. Merdeka No.17. Lhokseumawe,,Bireuen,"97.1463322784562,",5.179500042,1.335276,0.346482
+1288,RS Rehabilitasi Medik,Jl. Monisa Peureulak Kabupaten Aceh Timur,,,97.86730203,4.854302262,0.016353,0.829319
+1289,RSU Graha Bunda,"Jl. Medan - Banda Aceh Bukit Pala, Idi Rayeuk - Aceh Timur",,,97.7629769,4.957303037,0.578196,0.711942
+1290,RS Cut Nyak Dhien Langsa,Jl. T.M. Bachrun No.1. Langsa,,Aceh Timur,97.95652419,4.479282945,2.706835,0.519771
+1291,RS Malahayati,"Jl. Cut Nyak Dhien 4,Banda Aceh",,Banda Aceh,95.30838892,5.545173083,1.250231,0.380289
+1292,RS Teuku Fakinah,"Jl. Jend.Sudirman 27-29,Banda Aceh",,Banda Aceh,"95.3042018285598,",5.531211638,1.230147,0.395213
+1293,RS Permata Hati,"Jl. Sultan Iskandar Muda No.217,Banda Aceh",,Banda Aceh,95.29627355,5.547973399,1.074496,0.060784
+1294,PMI Cabang Aceh Utara,Jl. Samudera Lhoseumawe 24312,,Aceh Utara,97.1489899,5.189203046,0.926078,0
+1295,Rumkit Tk III Banda Aceh,Jl. Kesehatan Banda Aceh,3,Banda Aceh,"95.3417563776319,",5.8681101,0.719164,0.727721
+1296,Rumkit Tk IV Lhokseumawe Aceh Utara,Jl. Samudra Lhokseumawe AUT,4,Bireuen,97.1489899,5.189203046,0.926078,0
+1297,Rumkit Bhayangkara Banda Aceh,"Jl. Cut Nyak Dhien Lamtemen No.1,Banda Aceh",4,Banda Aceh,95.31727145,5.548321209,0.969055,0.418882
+1298,RSU Datu Beru Takengon,Jl. Rumah Sakit Takengon,B,Aceh Tengah,96.8467119,4.613243259,0.902797,0.734456
+1299,RSU Langsa,"Jl. Ahmad Yani No.1,Langsa",B,Aceh Timur,97.96995946,4.469241049,2.662278,0.408256
+1300,RSU Dr. Zainoel Abidin,"Jl. Tgk Daud Beureueh,B Aceh",B,Banda Aceh,95.34107414,5.569965685,0.928886,0.337556
+1301,RSUD Sigli,Jl. Prof.Majid Ibrahim Sigli,C,Pidie,95.95955145,5.363518225,0.328224,0.808896
+1302,RSU Dr. H.Yulidin Away,"Jl. T.Ben Mahmud No.86 A, Meulaboh",C,Aceh Selatan,97.3664781,3.000346276,0.011938,0.983346
+1303,RSU Cut Meutia Lhoksemawe,Jl. Banda Aceh-Medan Km.6 Buket Rata Lhokseumawe,C,Bireuen,96.69695299,5.209451824,1.721682,0
+1304,RSU Dr. Fauziah Bireun,Jl. RSU No.13. Bireuen,C,Bireuen,96.69695299,5.209451824,1.721682,0
+1305,RSUD Tamiang,"Jl. Kesehatan,Kab.Aceh Tamiang",C,Aceh Tamiang,98.00349636,4.208040287,0.048177,0.846631
+1306,RSUD Aceh Singkil,Jl. Rimo/Singkil Km.8,C,Aceh Singkil,97.80590021,2.279363145,1.451105,0
+1307,RSU Kutacane,Jl. Blang Kejeran Kutacane,C,Aceh Tenggara,97.58911209,3.767944849,0.018379,0.815732
+1308,RS Pertamina Rantau,Jl. Cepu Rantau Kab. Aceh Timur,C,Aceh Timur,98.10607352,4.345523291,0.078288,0.773766
+1309,RSU Cut Nyak Dhien,Jl. Gajah Mada Meulaboh,C,Aceh Barat,96.12469426,4.136605488,0.284797,0.856492
+1310,RSU Kota Jantho,Jl. Transmigrasi I Kota Jantho,C,Aceh Besar,95.698208,5.170162685,0,0.946377
+1311,RSUD Kab.Aceh Barat Daya,"Blang Pidie,Aceh Barat Daya",C,Aceh Barat Daya,"96.957676631087,3",8.79516E+13,0,0.802481
+1312,RSUD Nagan Raya,"Jl. Nasional Km.28,5 Ujung Patihah",C,Nagan Raya,"96.4891811789067,",4.131441849,0.017303,0.976056
+1313,RSU Meuraxa,Banda Aceh,C,Banda Aceh,95.31724916,5.518409559,0.953991,0.414619
+1314,RSU Cut Meutia,"Jl. Garuda Kebun Baru,Langsa",D,Langsa,97.96333323,4.48000086,2.361519,0.382797
+1315,RSUD Bener Meriah,Simpang Empat Kute Kering Kampung Kute Lintang Kec.Bukit Kab.Bener Meriah,D,Bener Meriah,96.74940094,4.69513465,0.014106,0.814229
+1316,RSUD Idi Rayeuk,Kabupaten Aceh Timur,D,Aceh Timur,97.66274523,4.836742322,0,0.045773
+1317,RS Bergerak Kab.Bener Meriah,,D,Bener Meriah,"96.8534540621648,",0.63466478,1.107337,0.802369
+1318,RSU Sabang,Jl. Teuku Umar Sabang,D,Sabang,95.31742306,5.893304021,0.918932,0.851138
+1319,RS Jiwa Bina Atma,Jl. Cokroaminoto 256 Km.5 Denpasar,,Denpasar,"115.201187852848,",8.630001488,4.771596,0.247528
+1320,RS Jiwa Bangli,Jl. Kusuma Yudha No. 29 Bangli,A,Bangli,115.3519991,-8.454210347,0.784853,0.187601
+1321,RS Jiwa Tampan,"Jl. H.R. Subrantas Km.12,5,Pekanbaru",A,Pekanbaru,101.3822999,0.464847908,2.418414,0.756901
+1322,RS Jiwa Jambi,"Jl. Dr. Purwadi Km.9,5,Jambi",B,Jambi,103.5541497,-1.618595714,1.827723,0.809373
+1323,RS Jiwa Abepura,Jl. Kesehatan II Abepura,C,Jayapura,140.6690002,-2.606117152,5.042575,0.811353
+1324,"RSK Mental, Narkotik Dharma Graha",Jl. Raya Astek No.17 Lengkong Gudang Timur Serpong,,Tangerang,106.6869981,-6.293838314,4.342301,0.145976
+1325,RSKD Ambon,Jl. Laksdya Leo Wattimena Ambon,B,Ambon,128.166421,-3.656070463,0.836905,0.980958
+1326,RS Jiwa Bandar Lampung,"Jl. Raya Gd.Tataan,Bandar Lampung",B,Kota Bandar Lampung,105.2666674,-5.44999803,2.392743,0.493739
+1327,RSJKO Soeprapto Bengkulu,Jl. Bhakti Husada Lingkar Barat Bengkulu,B,Kota Bengkulu,102.2562035,-3.800647896,0.439227,0.425094
+1328,RSJ Dr. H. Marzoeki Mahdi,Jl. Dr. Semeru No.114 Bogor,A,Kota Bogor,106.7930802,-6.589423204,5.685734,0.703942
+1329,RS Jiwa Bandung,Jl. LLRE Martadinata No.11 Bandung,A,Kota Bandung,107.5942468,-6.88394237,10.125685,0.721569
+1330,RS Jiwa Cimahi,Jl. Kolonel Masturi Cimahi,B,Bandung,107.5639562,-6.810541107,1.206136,0.696208
+1331,RS Jiwa Hurip Waluya,Jl. Karang Tineung No.1A Bandung,C,Kota Bandung,107.5942468,-6.88394237,10.125685,0.721569
+1332,RS Jiwa Aditama,Jl. Raya Bunder Gresik,,Gresik,112.5828126,-7.175745943,0.625128,0.373551
+1333,RS Jiwa Menur,Jl. Menur 120 Surabaya,A,Surabaya,112.7620016,-7.286750804,5.652164,0.078639
+1334,RS Jiwa Dharmawangsa,"Jl. Dharmawangsa Raya 13,Jaksel",,Jakarta Selatan,106.8039604,-6.252297328,6.426317,0.233073
+1335,RS Jiwa Islam Klender,Jl. Bunga Rampai X P.Klender Jaktim,,Jakarta Timur,106.9346878,-6.221716813,8.125407,0.355148
+1336,RS Jiwa Dharma Jaya,Jl. Raya Mangga Besar Jakarta Pusat,,Jakarta Pusat,106.8300595,-6.148212992,8.061483,0.012269
+1337,RS Jiwa Dharma Sakti,Jl. Kaji 40 Jakarta Pusat,,Jakarta Pusat,106.8159732,-6.16890768,0.775535,0.339689
+1338,RSJ Dr Soeharto Heerjan Jakarta,Jl. Prof.Dr.Latumeten No. 1 Jakbar,A,Jakarta Barat,106.7880012,-6.162482115,8.346493,0.150951
+1339,RS Jiwa Duren Sawit,Jl. Duren Sawit Baru Jakarta Timur,A,Jakarta Timur,106.9088696,-6.232133273,7.566168,0.331551
+1340,RS Jiwa Mita Menteng Abadi,Jl. Kalipasir No.9 Jakarta Pusat,D,Jakarta Pusat,106.8387636,-6.187216749,8.231556,0.179738
+1341,RS Jiwa Budi Asih,"Jl. Urip Sumoharjo 91,Magelang",,Kota Magelang,110.228541,-7.473547007,0.832438,0.699752
+1342,RS Jiwa Dharma Kusuma,"Jl. A Yani No. 417,Magelang",,Kota Magelang,110.2223697,-7.458439572,2.384057,0.728521
+1343,RS Jiwa Tathya Puri,"Jl. Kapt.Mulyadi 174,Surakarta",,Surakarta,110.8291374,-7.558631114,3.011302,0.466676
+1344,RS Jiwa dan Syaraf Puri Waluyo Surakarta,"Jl. Slamet Riyadi,Surakarta",,Surakarta,110.8080012,-7.565730003,2.879228,0.268793
+1345,RS Jiwa Puri Asih,Jl. Sompok No. 18 Semarang,,Kota Semarang,110.4369728,-7.004364853,4.090789,0.341884
+1346,RS Jiwa dan Narkoba &quot; H.Mustajab&quot;,"Jl. Raya Bungkanel - Karanganyar,Purbalingga",-,Purbalingga,109.4229955,-7.308020716,0.681352,0.863953
+1347,RSJ. Prof.Dr. Soerojo Magelang,"Jl. A Yani 169,Magelang",A,Kota Magelang,110.2258656,-7.441423643,0.933333,0.707357
+1348,RS Jiwa Surakarta,"Jl. K.H. Dewantoro 80,Surakarta",A,Surakarta,110.8629998,-7.557150692,2.549041,0.264835
+1349,RS Jiwa Dr. Amino Gondohutomo,"Jl. Brigjen Sudiarto,Semarang",A,Kota Semarang,110.4669157,-7.00988522,3.960923,0.230838
+1350,RS Jiwa Dr.R.M.Soedjarwadi Klaten,"Jl. Ki Pandanaran Km.2,Klaten",B,Klaten,"110.590646809425,",-7.736995156,1.916797,0.288534
+1351,RS Jiwa Puri Nirmala,Jl. Jayaningprangan No.13 Yogyakarta,,Yogyakarta,110.376824,-7.801045684,5.181653,0.465556
+1352,RS Jiwa Ghrasia/Lalijiwa pakem,Jl. Kaliurang No. 17 Yogyakarta,A,Sleman,110.4187351,-7.688729846,1.687562,0.704749
+1353,RS Jiwa Manado,Jl. Bethesda 77 Manado,A,Manado,124.8338093,1.463534934,2.485905,0
+1354,RS Jiwa Bina Atma,"Jl. Hos Cokroaminoto No.122, Medan",,Medan,98.69160699,3.591676585,5.139896,0.388625
+1355,RS Jiwa Medan,"Jl. Tali Air 21 Padang Bulan,Medan",A,Medan,98.67557207,3.585219806,4.472114,0.391668
+1356,RS Jiwa Sungai Liat,"Jl. Jend Sudirman,Sungai Liat",B,Bangka,106.0812649,-1.904945806,0.039985,0.907454
+1357,RS Jiwa Palu,Km 13 Mamboro Palu,B,Palu,119.8786734,-0.806473017,0.496816,0.480745
+1358,RS Jiwa Pontianak,Jl. Ali Anyang No. 1 Pontianak,A,Kota Pontianak,109.327,-0.028408933,2.308292,0.854444
+1359,RS Jiwa Singkawang,Jl. Raya Singkawang Singkawang,B,Sambas,108.984599,0.908796008,2.065384,0
+1360,RS Jiwa Atmamahusada Mahakam/Samarinda,Jl.Kakap No.23 Samarinda,B,Samarinda,117.1538014,-0.502183961,4.491475,0.843988
+1361,RS Jiwa Makassar,Jl. L Pasewang No. 34 Makassar,A,Makassar,119.4225296,-5.152299526,6.382523,0.495122
+1362,RS Jiwa Palembang,"Jl. Kol.H. Barlian Km 6,Palembang",A,Palembang,104.7329844,-2.948535981,3.312421,0.807739
+1363,RS Jiwa Kendari,Jl. Letjen Suprapto Kendari,B,Kota Kendari,122.5092175,-3.960479915,1.481543,0.727812
+1364,RSJ Sambang Lihum,Jl. Purwosari Km 4 Tamban Kab Batola,A,Barito Kuala,113.9209978,-0.789274264,0,0.984445
+1365,RS Jiwa Mataram,Jl. A Yani 1 Selagalas Mataram,B,Mataram,116.1457637,-8.576532407,2.423518,0.447162
+1366,RS Jiwa Banda Aceh,"Jl. Syarief Thayeb,Banda Aceh",A,Banda Aceh,95.33888918,5.565354975,1.139769,0.386741
+1367,RSB Kertayasa,Jl. Ngurah Rai 143 Negara,,Jembrana,114.6667958,-8.323344649,0.275828,0.149596
+1368,RSB Harapan Bunda,Jl. Tukad Unda No. 1 Denpasar,,Denpasar,115.2321741,-8.673549068,4.418144,0.486957
+1369,RS Bersalin Putra Dalima,"Bumi Serpong Damai Sektor 1-2 Blok K/5-UA/26-27,Tangerang",,Tangerang,106.6782628,-6.318590784,4.824779,0.001052
+1370,RSIA Tiara,Jl. Raya serang KM 14.5 No.1,-,Tangerang,106.1401251,-6.136240305,1.235242,0.233347
+1371,RSB Anugerah Medika,"Jl. Kapten Achmad Ibrahim No.21-23 Engal, Bandar Lampung",,Bandar Lampung,105.2603311,-5.417843453,4.479215,0.240586
+1372,RSB Astanaanyar,Jl. Astanaanyar 224 Bandung,,Kota Bandung,107.6116998,-6.925960479,11.271125,0.833533
+1373,RSB Klinik Bahagia,"Jl. Pasundan No.93, Sukabumi",,Sukabumi,106.9256671,-6.924283857,4.169762,0.855974
+1374,RSB Juwita,"Jl. M. Hasibuan No.78, Bekasi Timur",,Bekasi,107.0019801,-6.25204316,6.057437,0.078336
+1375,RSB Tunas Jaya Cibinong,Jl. Kelurahan Pabuaran No.24 Cibinong,,Bogor,106.8519269,-6.448190097,6.558654,0.503062
+1376,RSB Al-Afiah,Jl. Siti Jenab 49 Cianjur,,Cianjur,107.1389637,-6.821581842,2.464495,0.689373
+1377,RSB Pamela,Jl. Tentara Pelajar Tasikmalaya,,Tasikmalaya,108.2225832,-7.330980628,3.806729,0.909747
+1378,RSB Dr. Djoko Pramono,"Jl. Panatayuda I No.35, Karawang",,Karawang,107.3056003,-6.306841052,2.526938,0.261768
+1379,RSB Limijati,"Jl. LLRE Martadinata No.39,Bandung",,Kota Bandung,107.6138134,-6.906545553,9.438422,0.082276
+1380,RSB Emma Poeradiredja,"Jl. Sumatera No.46 - 48,Bandung",,Kota Bandung,107.6138758,-6.912984495,10.996219,0.082276
+1381,RSB Panti Abdi Dharma,"Jl. Pulasaren No.7,Cirebon",,Kota Cirebon,108.5668793,-6.723811592,7.589778,0.033654
+1382,RSB & Peny.Dalam Larasati,Jl. Mandilaras No.74 Pamekasan,,Pamekasan,113.4818432,-7.155104764,1.256513,0.234037
+1383,RSB Nirmala Kediri,Jl. Jaksa Agung Suprapto No.5 Kediri,,Kota Kediri,111.9992902,-7.779842658,1.217735,0.240951
+1384,RSB Adi Guna,Jl. Alun-alun Rangkah 1-3 Surabaya,,Surabaya,112.7649981,-7.249481638,5.790585,0.081699
+1385,RSB Pura Raharja,Jl. Puncang Adi No.12 Surabaya,,Surabaya,112.7519998,-7.282782205,5.836725,0.077541
+1386,RSB Budhi Jaya,"Jl. Dr. Sahardjo 120,Jaksel",,Jakarta Selatan,106.8449841,-6.219010139,6.455264,0.026435
+1387,RSB Panti Nugeraha,"Jl. Senayan 26 Kby.Baru,Jaksel",,Jakarta Selatan,106.8162229,-6.235615831,7.121054,0.156201
+1388,RSB Asih,"Jl. Panglima Polim I/34,Jakarta Selatan",,Jakarta Selatan,106.7975214,-6.250139123,6.686843,0.233073
+1389,RSB Kartini,"Jl. Ciledug Raya No.94-96 Cipulir, Keabayoran Lama",,Jakarta Selatan,106.7699686,-6.238389392,6.947369,0.474397
+1390,RSB Durentiga,Jl. Duren Tiga Raya No.5 Pancoran Jaksel,,Jakarta Selatan,106.8410021,-6.25338089,5.644738,0.383756
+1391,RSB Yy Pemelihara Kesehatan,Jl. Gereja Theresia No.22 Menteng Jakpus,,Jakarta Pusat,106.8266483,-6.189593449,7.517247,0.146845
+1392,RSB Angkasa,Jl. Budikemuliaan 12 Jakpus,,Jakarta Pusat,106.8196564,-6.180162451,3.197381,0.169589
+1393,RSIA Hermina Podomoro,Jl. Danau Agung 2 Sunter Jakarta Utara,,Jakarta Utara,106.8614917,-6.145608877,6.773783,0.116274
+1394,RSB Harapan Ibu,"Jl. Raya Procot,Slawi",,Tegal,109.1291408,-6.871060027,3.840783,0.468943
+1395,RSB Utama Aisyiyah &quot;Siti Hajar&quot;,Jl. Kartini No.41 Kab. Tegal,,Tegal,109.1400477,-6.870212798,3.672462,0.050618
+1396,RSB Bunda Semarang,"Jl. Brigjen Katamso No.8,Semarang",,Kota Semarang,110.4334189,-6.995018577,3.782357,0.296468
+1397,RSB Annisa,Jl. Gatot Subroto 31 A Cilacap,,Cilacap,109.0147158,-7.716848937,1.694761,0
+1398,RSB Reksodiputro,"Jl. Reksodiputro No.57,Blora",,Blora,111.4253326,-6.971019695,0.967023,0.382677
+1399,RSB Permata Hati,"Jl. Nisemito No.28,Kudus",,Kudus,110.8423229,-6.808106438,3.277384,0.240734
+1400,RSB Dewi Sekartaji,"Jl. Raya Mranggen No.78,Demak",,Demak,"110.517727129898,",-7.026250121,2.160217,0.341792
+1401,RSB Gladiool,"Jl. Kenanga No.6,Magelang",,Kota Magelang,110.2154848,-7.482130776,2.774942,0.731382
+1402,RSB Anugerah,"Jl. Kalisari Baru No.5-7,Semarang",,Kota Semarang,110.4050011,-6.992450135,3.717423,0.450292
+1403,RSB Gunung Sawo I,"Jl. Gunung Sawo No.21,Semarang",,Kota Semarang,110.4068427,-6.995361928,3.717423,0.450292
+1404,RSB Kusuma,"Jl. Bugangan Raya 5,Semarang",,Kota Semarang,110.437227,-6.975086395,4.107022,0.368504
+1405,RSB Permata Sari,"Jl. Gunung Pati No. 1,Semarang",,Kota Semarang,110.3118192,-7.086960782,2.029161,0.698902
+1406,RSB Permata Bunda,"Jl. Hayam Wuruk No. 24,Grobogan",C,Grobogan,110.9207095,-7.030874209,0.602736,0.344465
+1407,RSB Gunung Sawo II,Jl. Gatot Subroto Manding Temanggung,C,Temanggung,110.1555991,-7.309385201,1.246223,0.364237
+1408,RSB Bhakti Ibu,Jl. Golo No.20 Yogyakarta,,Yogyakarta,110.3839809,-7.818280109,5.012456,0.366071
+1409,RSB Sari,"Jl. Belakang Olo No.49,Padang",,Padang,100.3572953,-0.945788711,0.389626,0.873217
+1410,RSB Bunda Padang,"Jl. Gajah Mada No.35,Padang",,Padang,100.3652191,-0.919390833,3.201077,0.831404
+1411,RSB Lenggogeni,"Jl. Purus II No.1,Padang",,Padang,100.3535273,-0.939965125,3.750757,0
+1412,RSB An-Nisa,"Jl. Pemuda No.18,Padang",c,Padang,100.3550301,-0.947014964,0.389626,0
+1413,RS Dr Gerhard ML Tobing,Desa Buntu Bedimbar Tanjung Morawa Deli Serdang,3,Deli Serdang,"98.8804365462318,",3.458220149,0.065981,0.071111
+1414,RSB Tinatapura,Jl. Raden Saleh 31 Palu,,Palu,119.8684531,-0.884293248,1.774343,0.651736
+1415,RSB Harapan Anda,Jl. KH W Hasyim 256 Pontianak,,Kota Pontianak,109.3303087,-0.022522919,1.695888,0.832529
+1416,RSB Sayang Ibu Balikpapan,"Jl. Wain No.33,Kebun Sayur,Balikpapan",B,Balikpapan,116.8311989,-1.265385861,1.750797,0.973895
+1417,RSB Elim Makassar,Jl. S Saddang 70 Makassar,,Makassar,119.4221239,-5.146409053,6.728243,0.412903
+1418,RSB Sentosa,Jl. Jend Sudirman 44 Makkassar,,Makassar,119.4148689,-5.14454069,6.329336,0.492659
+1419,RSB Siti Hadijah,Jl. Kartini No. 15-17 Makassar,,Makassar,119.4243222,-5.155385224,6.382523,0.495122
+1420,RSB Restu Makassar,Jl. H A Mappanyuki 27 Makassar,,Makassar,119.4148421,-5.150926123,6.302742,0.480666
+1421,RSB Siti Miriam,Jl. Lamadukelleng Makassar,,Makassar,119.4109984,-5.143920875,0.265938,0.492659
+1422,RSB Wahyu,"Jl. Laccukang No.10,Makassar",,Makassar,119.428157,-5.133027291,6.728243,0.404431
+1423,RSB Masyita,"Jl. Camba Jawayya No.24 Tello Baru, Makasar",C,Makasar,119.8467105,-0.886701163,1.798001,0.525372
+1424,RSB Bunda,"Jl. Demang Lebar Daun,Palembang",,Palembang,104.7429103,-2.976347394,5.221255,0.832755
+1425,RSB Tiara Fatrin,"Jl. Rajawali No.495-496,Palembang",,Palembang,104.6996571,-2.927765488,1.165403,0.081717
+1426,RSB Pura Raharja,Jl. Rantauan Tengah Banjarmasin,,Banjarmasin,114.5850828,-3.395971098,0.049953,0.082497
+1427,RSB Renata,Jl. A Yani No. 149 Banjarmasin,,Banjarmasin,114.5850828,-3.395971098,0.049953,0.082497
+1428,RSB Ibunda Siti,Jl. Kol Sugio No. 51 Banjarmasin,,Banjarmasin,114.5850828,-3.395971098,0.049953,0.082497
+1429,RS Mata Permana Sari,"Jl. HOS Cokroaminoto,B Lampung",,Lampung,105.2623822,-5.417968308,4.479215,0.240586
+1430,RS Medirossa Cikarang,"Jl. Industri Tegal Gede No.09, Cikarang Selatan Bekasi",,Bekasi,107.1450013,-6.29881913,3.266427,0.198804
+1431,RS Mata Cicendo,Jl. Cicendo No.4 Bandung,A,Kota Bandung,107.6039989,-6.909898797,10.492226,0.833868
+1432,RS Mata Aini,"Jl. HR Rasuna Said,Jaksel",,Jakarta Selatan,106.821721,-6.21319993,6.527086,0.375992
+1433,RS Mata Jkt Eye Centre,Jl. Teuku Cik Ditiro 46 Jakpus,B Uta,Kota Jakarta Pusat,106.8368596,-6.198721229,7.602947,0.384617
+1434,RS Mata Dr. Yap,Jl. Cik Ditiro 7 Yogyakarta,,Yogyakarta,110.3750002,-7.780012104,4.991307,0.512794
+1435,RS Mata Oculer,"Jl. Sawahan No.69,Padang",,Padang,100.3723715,-0.945677233,3.718423,0.844876
+1436,RS Mata Perintis,"Jl. P.Kemerdekaan No.71,Padang",,Padang,100.3629985,-0.889015436,3.766924,0.832913
+1437,RS Mata Sitawa,"Jl. Kartini No.17,Padang",,Padang,100.3594579,-0.940067684,3.750757,0.855445
+1438,RS Mata Prof.Dr. Warouw,Jl. Dr Suharso No. 2 Palu,,Palu,119.8505989,-0.898584667,1.782229,0.513874
+1439,RS Khusus Mata Masyarakat,"Jl. Merdeka No.10 A,Palembang",B,Palembang,"104.75582389897,-",-2.991142691,5.926124,0.842978
+1440,RS Mata Sriwijaya Eye Centre Palembang,"Jl. Jenderal Sudirman No. 502 Km.4,5, Palembang",C,,104.7507584,-2.970666499,5.612849,0.843179
+1441,RS Paru Dr. H.A. Rotinsulu Bandung,Jl. Bukit Jarian No. 40 Bandung,A,Kota Bandung,107.6065629,-6.877659497,9.484239,0.751708
+1442,RS Paru Dr. Goenawan Partowidigdo Cisarua,Jl. Raya Puncak Cisarua Bogor,A,Bogor,106.9390444,-6.687447623,2.802899,0.056393
+1443,RSTP Sidawangi,Jl. Sumber-Mandirancan Cirebon,C,Cirebon,108.5249415,-6.75011137,0.319574,0.368258
+1444,RSTP Jember,Jl. Nusa Indah No. 28 Jember,B,Jember,113.7005086,-8.160663265,2.377797,0.401143
+1445,RSTP Dungus,"Jl. Raya Dungus - Wungu, Madiun",C,Madiun,111.5809909,-7.665542521,0.378917,0.430673
+1446,RSTP Ancol,Jl. LE. Martadinata Jakut,,Jakarta Utara,106.830162,-6.133948327,7.404445,0.124875
+1447,RSTP Kalibakung,"Jl. Dr Sutomo 63,Slawi",,Tegal,109.1393432,-6.992739977,1.870803,0.429017
+1448,RS Paru Dr. Ario Wirawan Salatiga,"Jl. Hasanudin No.806,Salatiga",B,,110.4503724,-7.369984385,0.800061,0.445745
+1449,RS Khusus Paru-Paru Pro.Sumatera Selatan,"Jl. Merdeka No.10,Palembang",B,Palembang,"104.75582389897,-",-2.991142691,5.926124,0.842978
+1450,RS Kusta Balun,Jl. Maruti 10 Denpasar,,Kota Denpasar,115.2110603,-8.644591666,4.889413,0.208157
+1451,RS Kusta Merauke,Jl. Garuda Mopa Merauke,,Merauke,140.3944979,-8.495992124,2.478184,0.419608
+1452,RS Kusta Sitanala,Jl. Dr Sitanala Tangerang,A,Kota Tangerang,106.633694,-6.162642643,6.068963,0.378198
+1453,RS Kusta Toto,Toto Kec Kabila Kab Gorontalo,,Boalemo,122.2653894,0.701340791,0,0.460038
+1454,RS Kusta Nganget,Pos Jojogan Bojonegoro Tuban,,Tuban,112.0503692,-6.901671756,1.501822,0.339865
+1455,RS Kusta Kediri,"Jl. Veteran No. 48, Kediri",B,Kota Kediri,111.9971766,-7.811457685,0.293996,0.313269
+1456,RS Kusta Sumberglagah,Sumberglagah Pacet Mojokerto,C,Mojokerto,112.5372228,-7.661515953,1.425141,0.353748
+1457,RS Kusta Kelet Donorejo,Kelet Kec Kaling Kab.Jepara,C,Jepara,110.9017137,-6.495911396,0.569819,0.782041
+1458,RS Kusta Hutasalem,Desa Sintong Manipi Kec.Laguboti Tobasa,,Tapanuli Utara,99.13487731,2.360144219,0.545693,0.767097
+1459,RS Kusta Lau Simomo,"Desa Lau Simomo,Kec.Kabanjahe,Kab.Karo",,Karo,98.45294253,3.137534979,0.803045,0.866169
+1460,RS Kusta Singkawang,Jl. Gn Sari 70 Singkawang,,Sambas,108.984599,0.908796008,2.065384,0
+1461,RS Kusta Tenggarong,Jl. Tanjung Kupang Tenggarong,,Kutai Barat,116.9813992,-0.417322808,1.322322,0.849259
+1462,RS Kusta Kalang Kalang,Jl. Dr Ratulangi Palopo,,Luwu,120.2000007,-2.999998466,3.163331,0
+1463,RS Kusta Batulelleng,Jl. Taman Pahlawan Rantepao,,Tana Toraja,119.9051917,-2.960771754,0.096082,0.936614
+1464,RS Kusta Lauleng,Jl. P Pinrang Km 4 Pare Pare,,Pare Pare,119.6344395,-3.999635281,2.579358,0.669174
+1465,RS Kusta Makassar,"Jl. P Kemerdekaan Km.14,Makassar",B,,119.4263377,-5.143662247,6.728243,0.412903
+1466,RS Kusta Dr. Rivai Abdullah,Jl. Dr. Rivai Abdullah - Mariana Banyuasin I,B,Lampung,105.2604069,-5.385256342,4.249512,0.029633
+1467,RS Kusta Sepolong,Sepolong Kab Lombok Timur,,Lombok Timur,116.5609863,-8.513445045,0.219853,0.186975
+1468,RS Kusta Panda,Panda Kec Belo Kab Bima,,Bima,118.7274048,-8.460569025,2.808934,0.368929
+1469,RS Kusta Lembata,Lembata Kab Flores Timur,,Flores Timur,121.0793711,-8.657384827,0.017077,0.127046
+1470,RSK Bedah Graha Usadha,Jl. Cokroaminoto No.28 Denpasar,,Denpasar,115.209999,-8.643360954,4.889413,0.208157
+1471,RSK Bedah Yayasan Bundo,"Jl. Pancasila 5, Sungai Penuh",,Kerinci,101.4123766,-2.073027162,0.170297,0.769054
+1472,RSK Bedah Benggala,"Jl. Yusuf Martadilaga No.56,Serang",,Serang,106.1548758,-6.121222053,3.524074,0.132031
+1473,RSK Bedah Halmahera Siaga,Jl. Halmahera No. 10 Bandung,,Kota Bandung,107.6160251,-6.907232255,9.438422,0.082276
+1474,RSK Bedah Budi Kasih,Jl. Raya Majalengka-Kadipaten Km.7,,Majalengka,108.1674643,-6.765571073,2.882457,0.587102
+1475,RSK Bedah Plastik Aibee Aesthetic Center,Jl. Pasir Angin Gadog Ciawi Bogor,,Bogor,106.8651749,-6.649045845,2.711896,0.731528
+1476,RSK Bedah Bina Sehat,Jl. Raya Dayeuh Kolot No.325 Bandung,D,Kota Bandung,107.623998,-6.986086998,3.329598,0.855774
+1477,RSK Bedah Dina L,"Jl. Hayam Wuruk No.90,Kediri",,Kota Kediri,112.0113967,-7.816893329,3.740186,0.307216
+1478,RSK Bedah Yasmin,Jl. Letkol Istiqlah Banyuwangi,,Banyuwangi,114.3704796,-8.225636827,1.844126,0.377331
+1479,RSK Bedah Bhakti Rahayu,Jl. Ketintang Madya I/16 Surabaya,,Surabaya,112.7217939,-7.320595381,5.513744,0.056217
+1480,RSK Bedah Onkologi,"Jl. Galaxy Bumi Permai Blok A2 No.7,Surabaya",C,Kota Surabaya,112.789376,-7.290786291,2.999108,0.238188
+1481,RS THT Bedah Yayasan Yurino,"Jl. Ciranjang No.20-22,Jaksel",,Kota Jakarta Selatan,106.8107828,-6.235776359,7.121054,0.212777
+1482,RSK Bedah Rawamangun,"Jl. Balai Pustaka Raya,Jaktim",,Jakarta Timur,106.8845452,-6.196612074,0.773065,0.164044
+1483,RSK Bedah Kramat Lima,Jl. Kramat V No. 6 Jakpus,,Jakarta Pusat,106.8432183,-6.187956959,8.231556,0.176128
+1484,RSK THT Bedah Proklamasi,Jl. Proklamasi 43 Jakarta Pusat,,Jakarta Pusat,106.8482348,-6.201896109,8.225068,0.260309
+1485,RSK Bedah Bina Estetika,Jl. Teuku Cik Ditiro 41 Jakarta Pusat,,Jakarta Pusat,106.8375954,-6.199492654,7.602947,0.384617
+1486,RSK Benda Chandera,Jl. Raya Mangga Besar 40 Jakbar,,Jakarta Barat,106.8255246,-6.148828348,9.308882,0.012269
+1487,RSK Bedah Cinta Kasih Tzu Chi,Jl. Kramat Raya Komplek Rusun BCI Jakbar,,Jakarta Barat,106.7058022,-6.161095335,9.101452,0.175498
+1488,RSK Bedah Siaga Medika Banyumas,Jl. Pramuka No.55 Banyumas,,Banyumas,109.2931956,-7.524590336,1.084701,0.980088
+1489,RSK Bedah Diponegoro,"Jl. Diponegoro No.21,Klaten",B,Klaten,110.6146323,-7.709558307,1.176006,0.265779
+1490,RS Khusus Bedah Nur Hidayah,"Jl. Imogiri Timur Km. 11,5 Trimulyo Jetis Bantul",,Bantul,110.3857957,-7.891338021,1.070881,0.629576
+1491,RSK Bedah An-Nur,"Jl. Samirono Baru No.14-16,Sleman",,Sleman,110.3843688,-7.777185034,3.703163,0.503218
+1492,RSK Bedah Dharma Husada,Jl. Yogya-Wonosari Sleman Yogya,,Sleman,110.4970235,-7.855451176,0.093594,0.672026
+1493,RSK Bedah Patmasuri,Lapangan Krapyak Yogyakarta,C,Yogyakarta,110.3602852,-7.828406728,2.714435,0.330948
+1494,RSK Bedah Soedirman,Jl. Sidobali UH II/402 Muja-Muju Yogyakarta,D,Yogyakarta,110.3940406,-7.797286661,2.149393,0.041614
+1495,RSK Bedah Ropanasuri,"Jl. Aur No.8,Padang",,Padang,100.3593063,-0.935381169,3.750757,0.833916
+1496,RSK Bedah &quot;Accuplast&quot;,"Jl. Sei Bahbolon No.40, Medan Baru",,Medan Baru,98.65473023,3.582062763,4.957774,0.053194
+1497,RSK Bedah Siaga,Jl. A Yani No. 149 Banjarmasin,,Banjarmasin,114.5850828,-3.395971098,0.049953,0.082497
+1498,RSK THT Bedah P.Raharja,Jl. Sawo No. 58-60 Jakpus,,Jakarta Pusat,"106.870659591992,",-6.19544379,0.723159,0.165841
+1499,RSK THT Prof Nizar,Jl. Kesehatan No. 9 Jakpus,,Jakarta Pusat,106.8149119,-6.171806095,7.483233,0.339689
+1500,RSK THT Bina Waluya,"Jl. Dr Susanto No.113,Pati",,Pati,111.0448419,-6.754780049,1.660748,0.241521
+1501,RSK THT Dr. Soeharso JD,"Jl. Kepatihan Wetan, Surakarta",,Surakarta,110.8317905,-7.563647603,3.011302,0.533456
+1502,RSK THT Syifaa Rohmani,"Jl. Osamaliki No.26 A,Salatiga",,Salatiga,110.4959132,-7.330155694,2.838474,0.586181
+1503,RSK THT Wira Husada,Jl. Tentara Pelajar Semarang,,Kota Semarang,110.4365759,-7.009332292,4.042089,0.288766
+1504,RSK THT Dharma Usadha,Jl. Kalimas Raya Semarang,,Kota Semarang,110.3297671,-7.052768395,1.444763,0.637676
+1505,RSK THT Puri Usadha,"Jl. Benfawan 34,Pekalongan",,Kota Pekalongan,109.3863239,-6.899727588,2.670693,0
+1506,RSK THT Trunorejo,"Jl. Dukuh I No.25,Tegal",,Kota Tegal,109.1297338,-6.945067727,0.193194,0.416041
+1507,RSK THT Sari Asih,Jl. Tirtodipuran No. 38 Yogya,,Yogyakarta,110.3720483,-7.788279277,4.991307,0.511659
+1508,RSK THT Prof R Oepomo,Jl. Suryomentaraman 298 A Yogya,,Yogyakarta,110.3671299,-7.808251591,4.927858,0.039873
+1509,RS Ibu dan Anak Puri Bunda,"Jl. Gatot Subroto VI /19, Denpasar",,Denpasar,115.2321741,-8.673549068,4.418144,0.486957
+1510,RSAB Eria Bunda,"Jl. KH.Ahmad Dahlan No.163,Pekanbaru",,,101.4379985,0.512016278,3.023018,0.829461
+1511,RSIA Mutia Sari,Jl. Bathin Betuah No.1-A Simp.Padang Duri,,Bengkalis,102.250906,1.466544827,0,0.777953
+1512,RSIA&quot;Andini&quot;,Jl. Tuanku Tambusai No.55 - Pekanbaru,,Pekanbaru,101.4371469,0.505773537,2.552771,0.801009
+1513,RS Khusus Bedah & Kebidanan Syafira,"Jl. Jenderal Sudirman No.134, Pekanbaru",B,riau,101.4520447,0.504837126,2.700563,0.790225
+1514,RSIA Selaras,"Jl. Raya Serang KM.18,5 Desa Bojong,Tangerang",,Tangerang,106.4965187,-6.223134807,0.384568,0.346168
+1515,RSIA Lestari,Jl. Cirendeu Indah III/37 Ciputat Tangerang,,Tangerang,106.7715026,-6.312686934,5.470371,0.104704
+1516,RSIA An-Nisa Tangerang,Jl. Gatot Subroto 96 Tangerang,C,Kota Tangerang,106.6043442,-6.187979255,6.331203,0.382688
+1517,RSIA Kurnia,"Jl. Jombang Masjid No.4,Cilegon",C,Kota Cilegon,106.0531013,-6.015599326,2.309499,0.109095
+1518,RSIA Sukajadi,Jl. Sukajadi No. 149 Bandung,,Kota Bandung,107.5961598,-6.886711472,10.125685,0.770242
+1519,RSIA Tedja,Jl. RE. Martadinata 97 Bandung,,Kota Bandung,107.6200071,-6.905751833,10.125685,0.082276
+1520,RSIA &quot;Melinda Hospital&quot;,"Jl. Pajajaran No.46 Kel Pasirkaliki,Kota Bandung",,Kota Bandung,"107.60336124069,-",-6.906813099,10.308956,0.830676
+1521,RSIA Permata Cibubur,"Jl. Alternatif Cibubur - Cilenungsi No. 6A, Kec. Jati Sampurna, Bekasi",,Bekasi,106.9110011,-6.375662818,6.290416,0.243798
+1522,RSIA Melania,"Jl. Pahlawan No.91, Kota Bogor",,Bogor,106.8006918,-6.611415491,5.357225,0.756583
+1523,RSIA Hermina Depok,Jl. Raya Siliwngi No. 50 Pancoran Mas Depok,,Bogor,106.8251233,-6.399915869,5.975662,0.419735
+1524,RSIA Citra Insani,Jl. Raya Parung Bogor No.242 Bogor,,Bogor,106.7352634,-6.484817153,1.565255,0.642797
+1525,RSIA Tumbuh Kembang,Jl. Raya Bogor Km.31 No.23 Bogor,,Bogor,106.8614382,-6.3716853,6.966748,0.313513
+1526,RSIA Mary Cileungsih Hijau,Jl. Raya Narogong Cileungsi Bogor,,Bogor,106.9694777,-6.399746423,2.966705,0.012911
+1527,RSIA Citra Sari Husada,"Jl. Raya Kosambi-Telaga Sari Km.3 Klari,Karawang",,Karawang,107.3774989,-6.349929346,2.837264,0.131648
+1528,RSIA Seto Hasbadi,Jl. Raya Seroja 19 Bekasi Utara,,KOTA BEKASI,106.9887232,-6.202012046,7.189047,0.037821
+1529,RSIA Hermina Bekasi,Jl. Kemakmuran No.39 Margataya Bekasi,,KOTA BEKASI,106.9945602,-6.241488467,6.323698,0.070658
+1530,RSIA Bella,"Jl. Ir.H.Juanda No.141,Bekasi",,KOTA BEKASI,107.0110009,-6.246861684,5.358502,0.613375
+1531,RSIA Anna,"Jl. Raya Pekayon Jaya No.36,Kel.Jaka Setia,Bekasi",,Bekasi,106.9770002,-6.274918348,4.626285,0.116822
+1532,RSIA Jati Sampurna,"Jl. Studio ANTV Rt.03/07 Kel.Jati Raden,Bekasi",,Bekasi,106.9110011,-6.375662818,6.290416,0.243798
+1533,RSIA Hermina Bogor,"Jl. Ring Road Bogor Utara , Bogor",,Kota Bogor,106.7774956,-6.556140474,4.472778,0.659046
+1534,RSIA Trimitra,"Jl. Raya Jakarta Bogor Km.43, Cibonong",,Kota Bogor,106.8473207,-6.474382856,2.693695,0.051015
+1535,RSIA Ridogalih,Jl. Gudang No. 24 Sukabumi,,Kota Sukabumi,106.9342642,-6.921875943,4.293006,0.856683
+1536,RSIA Hermina Pasteur,"Jl. DR. Djundjunan No.107, Bandung",,Kota Bandung,107.588508,-6.895611837,10.996219,0.768557
+1537,RSIA Karunia Bunda,"Jl. Raya Jatiwaringin No.133, Pd Gede Bekasi",-,Bekasi,106.9129988,-6.2758503,6.617958,0.541573
+1538,RSIA Sumber Kasih,Jl. Siliwangi No.135 Cirebon,C,Kota Cirebon,108.5595932,-6.70903859,3.587188,0.457177
+1539,RSIA Bunda,Jl. Adisucipto 9 Banyuwangi,,Banyuwangi,114.3623908,-8.23187065,1.844126,0.460884
+1540,RSIA Panca Dharma,Jl. Raya 14A Pandaan Sukorejo,,Pasuruan,112.6459357,-7.677541962,1.216902,0.569669
+1541,RSAB Jasem,Jl. Samanhudi No.85A Sidoarjo,,Sidoarjo,112.7217092,-7.459322474,0.351762,0.161532
+1542,RSAB Aisyiah Bojonegoro,Jl. Hasyim Asyari 17 Bojonegoro,,Bojonegoro,111.8724332,-7.156665449,1.827786,0.263455
+1543,RSAB Muhammadiyah,Jl. Diponegoro No.1 Tuban,,Tuban,112.044501,-6.898559303,2.094646,0
+1544,RSIA Nyai Ageng Pinatih,Jl. KH Abd Karim 76-78 Gresik,,Gresik,112.6521294,-7.156883945,2.613035,0.083277
+1545,RSIA Muhammadiyah Kediri,"Jl. Achmad Dahlan No.39,Kediri",,Kota Kediri,112.0022065,-7.802173836,2.818187,0.315511
+1546,RSIA Aminah,"Jl. Veteran No.12,Blitar",,Kota Blitar,112.1680003,-8.100188937,2.721039,0.033608
+1547,RSIA I.B.I. Surabaya,Jl. Dupak 15A Surabaya,,Surabaya,112.7259988,-7.245860848,5.536814,0.080577
+1548,RSIA Siti Aisyiah,Jl. Pacar Keling No.15A Surabaya,C,Surabaya,112.7569985,-7.259140051,5.836725,0.078639
+1549,RSAB Muslimat,Jl. U Sumohardjo 32-34 Jombang,D,Jombang,112.2289696,-7.560771482,2.747066,0.232124
+1550,RSIA Budi Kemuliaan,Jl. Budi Kemuliaan No.25 Jakarta Pusat,,Kota Jakarta Selatan,106.8181002,-6.180024219,7.483233,0.169589
+1551,RSIA &quot; Aulia &quot;,"Jl. Jeruk Raya No.15 RT.011 RW 01,Jagakarsa Jaksel",,Kota Jakarta Selatan,106.8270005,-6.335000276,0.616579,0.112894
+1552,RSIA Bunda,Jl. Teuku Cik Ditiro No. 28 Jakpus,,Jakarta Pusat,106.8365341,-6.195903077,7.721336,0.384617
+1553,RSIA Bina Sehat Mandiri,"Jl. Duri Raya No.22 Duri Kepa,Jakbar",,Jakarta Barat,106.7757699,-6.173652163,10.317775,0.232926
+1554,RS Ibu dan Anak Sayyidah,"Jl. Taman malaka Selatan No.6 Pondok Kelapa, Jaktim",,Jakarta,106.9322576,-6.232530133,7.039826,0.054238
+1555,RSIA Zahirah,"Jl. Sirsak No.21 RT/RW 009/001,Jagakarsa,Jaksel",,Jakarta Selatan,106.8236963,-6.335718191,0.616579,0.112894
+1556,RSIA Brawijaya Women and Children Hospital,"Jl..Taman Brawijaya No.1,Cepete Utara,Jaksel",,Jakarta Selatan,106.807541,-6.257380704,6.426317,0.113696
+1557,RSIA Muhammadiyah Taman Puring,"Jl. Gandaria I/20 Kebayoran Baru, Jaksel",,Jakarta Selatan,106.7869979,-6.241599945,6.600001,0.032987
+1558,RSIA Berkat Ibu,"Jl. Sumur Batu Raya Blok A3 No.13 Kemayoran,Jakpus",,Jakarta Pusat,106.8658973,-6.162080796,8.354395,0.109068
+1559,RSIA Tambak,"Jl. Tambak No.18 Manggarai, Jakpus",,Jakarta Pusat,106.8492425,-6.205606081,8.225068,0.260309
+1560,RS Anak dan Bunda H K,Jl. S Parman Kav 87 Jakbar,,Jakarta Barat,106.7962818,-6.184059705,9.772527,0.013795
+1561,RSIA Hermina Daan Mogot,Jl. Kintamani Raya No. 2 Jakbar,,Jakarta Barat,106.7120003,-6.152761275,8.598146,0.032476
+1562,RSIA Puri Medika,Jl. Sungai Bambu 5A Tanjung Priok,,Jakarta Utara,106.8854192,-6.129944055,5.810617,0.011232
+1563,RSIA Hermina,"Jl. Jatinegara Barat 126,Jaktim",B,Jakarta Timur,106.8646398,-6.220240851,7.270101,0.289277
+1564,RSIA Family,Jl. Pluit Mas I Blok A Jakut,C,Jakarta Utara,106.7905741,-6.133792259,6.591614,0.112034
+1565,RSIA Bahagia,"Jl. A Rachman Saleh No.71,Semarang",,Kota Semarang,110.3797848,-6.997872402,4.107022,0
+1566,RSIA Bunda Arif,Jl. Dr.Gumbreg No.927A Mersi Purwokerto Kab.Banyumas,,Banyumas,109.2945333,-7.52839395,0.675715,0.978751
+1567,RSAB Aprilia,Jl. Gatot Subroto 95 Cilacap,,Cilacap,109.0192819,-7.708398941,1.056567,0
+1568,RSIA Ananda,Jl. Pemuda No. 30 Purwokerto,,Banyumas,109.2211276,-7.417161674,1.618161,0.854705
+1569,RSIA Amelia,Jl. Banyumas Klampok 1 Banyumas,,Banyumas,109.2940829,-7.536741387,0.675715,0.974005
+1570,RSIA Dewi Queen,"Jl. Kutoarjo No.60,Kebumen",,Kebumen,109.6760272,-7.688390955,0.030764,0.980528
+1571,RSIA Adina,"Jl. P Ronggolawe No.24,Wonosobo",,Wonosobo,109.9054836,-7.351398852,1.804712,0.061094
+1572,RSIA Aisyiah,"Jl. Pramuka No. 10,Klaten",,Klaten,110.5977323,-7.710909415,1.814938,0.036095
+1573,RSIA Amal Bakti,Ds Teriangun Brebes,,Brebes,109.01126,-6.856023938,1.867901,0.541966
+1574,RSIA Mardi Waluyo,"Jl. Pandanaran No.24,Semarang",,Kota Semarang,110.4156003,-6.986987736,0.384729,0.420025
+1575,RSIA Kasih Ibu Tegal,"Jl. Sultan Agung 32,Tegal",,Kota Tegal,109.1360435,-6.883723874,3.427631,0.382465
+1576,RS Ibu dan Anak &#39; Aisyiyah &#39;,"Jl. Mayjend Sutoyo 113, Purworejo",0,Purworejo,110.0165955,-7.71291601,1.122837,0.843678
+1577,RSIA Restu Ibu,"Bendungan Desa Pilangsari Kec. Ngrampal, Sragen",0,,111.0176325,-7.428090931,0.017491,0.391054
+1578,RSIA Amanah,Jl Raya Kebokura No.37 Kec Sumpiuh Kab Banyumas,C,Banyumas,109.3596852,-7.613277397,0.152036,0.978679
+1579,RSIA Assalam,"Jl. Gatot Subroto KM.1,5,Sragen",C,Sragen,110.8282812,-7.398723291,1.031896,0.535464
+1580,RSIA Hidayah Purwokerto,Jl. Supriyadi No. 22 Purwokerto,D,Banyumas,109.2580578,-7.426668477,2.018255,0.822842
+1581,RSIA Ummi Khasanah,Jl. Pemuda Ds Gandekan Bantul,,Bantul,110.3312698,-7.878825783,1.454613,0.042902
+1582,RSIA Permata Bunda,Jl. Ngeksigondo 56 Yogyakarta,,Yogyakarta,110.3957083,-7.819038156,3.322522,0.334605
+1583,RSIA Bethesda Lempuyang,Jl. Raya Hayam Wuruk 6 Yogya,,Yogyakarta,110.0398141,-7.7964974,0.088371,0.097723
+1584,RS PKU Muhammadiyah Bantul,Jl. Jenderal Sudirman 124 Bantul,C,Bantul,110.330213,-7.886865542,1.517081,0.043619
+1585,RS Ibu dan Anak Sakina Idaman,"Jl. Nyi Condrolukito,Blunyah Gede 60,Sleman",C,Sleman,110.368432,-7.769551053,2.446767,0.463198
+1586,RS Ibu dan Anak Nuruddiniyah,Jl. Raya Sei Panas - Batam,,Batam,104.0303192,1.060039798,3.686688,0.475341
+1587,RSIA Mutiara Aini,"Jl. Batu Aji II Blok A No.01, Kel.Buliang, Kec.Batu Aji - Batam",C,,104.030453,1.045623524,0.299731,0.771595
+1588,RSIA Badrul Aini,"Jl. Bromo Gg.Sukri No.18,Medan",,Medan,98.71163282,3.575195747,4.998246,0.435547
+1589,RSIA Sri Ratu,"Jl. Nibung Raya No.204,Medan",,Medan,"98.6756344939481,",3.58500131,4.472114,0.391668
+1590,RSIA Rosiva,Medan,,Medan,98.68309457,3.590178327,4.937538,0.391668
+1591,RSIA Bunda Zahara,"Jl. Yos Sudarso No.209 K,Medan",,Medan,98.66577096,3.682450505,4.026927,0.648727
+1592,RSIA Harapan Ibu,"Jl. Danau Singkarak 13 A,Medan",,Medan,98.647832,3.604607978,4.836359,0.410172
+1593,RSIA Sitti Masyithah,Jl. WR Supratman No. 7 Palu,,Palu,119.8505989,-0.898584667,1.782229,0.513874
+1594,RSIA Anugerah Bunda Khatulistiwa,"Jl. Ahmad Yani,Pontianak Selatan",,Kota Pontianak,109.3460002,-0.05128858,2.110438,0.829833
+1595,RSIA Fatima Ketapang,"Jl. Jend Sudirman No.27, Ketapang",D,Ketapang,109.9719019,-1.859097329,0.839028,0.975015
+1596,RSIA Aisyiah Samarinda,Jl. P Hidayatulah 64 Samarinda,,Samarinda,117.1497481,-0.499914278,4.491475,0.764591
+1597,RS Ibu dan Anak 165,"Jl. Ary Ginanjar No.1,Moncongloe Lappara",,Bone,120.2166688,-2.083332144,0,0.700523
+1598,RSIA Rappang,Jl. Achmad Yani No. 1 Rappang,,Sidenreng Rappang,120.0202989,-3.773897749,0.075214,0.645502
+1599,RSB St Fatimah,Jl. Gn Merapi No. 73 Makassar,B,Makassar,119.4173482,-5.138953436,6.329336,0.411388
+1600,RSIA Chaterine Booth,Jl. Arief Rate No.15 Makassar,B,Makassar,119.4132547,-5.146043407,6.329336,0.492659
+1601,RSIA Pertiwi Makasar,"Jl. Jend.Sudirman No.14, Makasar",B,Makasar,119.4145969,-5.140598845,6.329336,0.492659
+1602,RSIA Permata Bunda,"Jl. Masjid Agung Al-Kautsar No.9,Kendari",,Kendari,122.5946985,-3.967489621,0.949707,0.813402
+1603,RSIA Beureunuen,"Jl. Banda Aceh  Medan Km.125,5 Kota Mini - Beureunuen",,Pidie,"95.9220771660305,",5.342480186,0.690638,0.798008
+1604,RSIA Bunda,Jl. Darussalam 16.Lhokseumawe,,Bireuen,97.14569909,5.183375001,0.926078,0.359225
+1605,RSIA Harapan Bunda,"Jl. Teuku Umar 181,Banda Aceh",,Banda Aceh,95.30996299,5.539991608,1.205042,0.402208
+1606,RS Ibu dan Anak Propinsi NAD,"Jl. Prof.A.Majid Ibrahim I,Banda Aceh",B,Banda Aceh,95.31905509,5.54618084,0.969055,0.418882
+1607,RSGM FKG Un Mahasaraswati,Jl. Kamboja 11A Denpasar,,Denpasar,115.2246383,-8.653139763,0.443778,0.207516
+1608,RSGM FKG Univ.Pajajaran,Jl. Sekeloa No. 1 Bandung,,Kota Bandung,107.6185802,-6.888811708,10.492226,0.744544
+1609,RSGM Universitas Jember,Jl. Kalimantan No. 37 Jember,,Jember,113.7141356,-8.176377137,2.260506,0.318943
+1610,RSGM FKG Univ.Erlangga,Jl. Prof Dr Moestopo 47 Sby,,Surabaya,112.7569985,-7.264682713,5.836725,0.077541
+1611,RSGM Hang Tuah Surabaya,FKG Hang Tuah Surabaya,,Surabaya,112.7928051,-7.290911146,5.121553,0.238188
+1612,RSGM Univ.Prof.Moestopo,"Jl. Bintaro Permai Raya,Jaksel",,Jakarta Selatan,106.7669543,-6.255445454,0.573158,0.088614
+1613,RSGM Yayasan Trisakti,Jl. Kyai Tapa Grogol Jakbar,,Jakarta Barat,106.7928929,-6.166629079,9.367375,0.281434
+1614,RSGM FKG Univ.Indonesia,Jl. Salemba Raya No. 4 Jakpus,A,Jakarta Pusat,106.852627,-6.19316073,8.018826,0.203576
+1615,RSGM Univ.Gajah Mada,Jl. Sekip Utara Yogyakarta,,Yogyakarta,110.3686683,-7.797117216,5.371999,0.535057
+1616,RSGM FKG Univ.Hasanudin,Jl. Perintis Kemerdekaan Mks,,Makassar,119.4879982,-5.132411935,4.999643,0.384568
