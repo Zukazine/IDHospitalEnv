@@ -295,9 +295,10 @@ def envmapmarker():
 
     return m6
 
-st. set_page_config(layout="wide") 
+st.set_page_config(layout="wide") 
 
 st.title('Welcome to Our Dashboard :smile:')
+st.markdown('Set theme to dark theme for better experience :moon:')
 
 left_column, right_column = st.columns(2)
 
