@@ -919,10 +919,10 @@ No,Name,Address,Class,District,Longitude,Latitude,Pop,Envi_Fact
 918,RS Bridgestone Sumatera Rubber Estate,"Dolok Marangir,Kab.Simalungun",,Simalungun,99.14717105,3.133071419,0.745523,0.925596
 919,RS Serasi Kabanjahe,"Jl. L.R.Perangin-Angin No.34,Kabanjahe",,Karo,98.4546682,3.135399069,0.803045,0.866169
 920,RS Ester,"Jl. Veteran No.21,Kabanjahe",,Karo,98.65644252,3.663793626,4.451879,0.418659
-921,RS Malem Ras,"Kabanjahe,Kab.Karo",,Karo,"98.4561084899859,",3.139269569,0.610314,0.866169
+921,RS Malem Ras,"Kabanjahe,Kab.Karo",,Karo,98.45610849,3.139269569,0.610314,0.866169
 922,RS PTPN III Patumbukan,Kec Galang Kab.Deli Serdang,,Deli Serdang,98.68189507,3.493794857,0.189998,0.670854
 923,RSU Anirma,Jl. Teratai Baru Gg. Amal No. 95 Deli Tua,,Deli Serdang,98.68066436,3.577469889,5.079189,0.464056
-924,RS Sari Mutiara Lubuk Pakam,"Jl. Medan No.17,Lubuk Pakam",,Deli Serdang,"98.6891678656453,",3.617204938,4.998246,0.498304
+924,RS Sari Mutiara Lubuk Pakam,"Jl. Medan No.17,Lubuk Pakam",,Deli Serdang,98.68916787,3.617204938,4.998246,0.498304
 925,RS Horas,"Jl. Bakaran Batu No.61,Lb Pakam Sumut",,Deli Serdang,98.69524562,3.58346292,5.160132,0.404716
 926,RS Halvetia,Jl. Kapt Sumars No.Deli Serdang,,Deli Serdang,98.64999912,3.615555071,4.168577,0.607141
 927,RSU Sinar Husni,"Jl. Veteran Gg.Utama Psr.V Helvetia,Deli Serdang",,Deli Serdang,98.90771287,3.45474205,0.143091,0.748847
@@ -1007,7 +1007,7 @@ No,Name,Address,Class,District,Longitude,Latitude,Pop,Envi_Fact
 1006,"RSU H.Abd.Manan Simatupang, Kisaran",Jl. Sisingamangaraja Kisaran,C,Asahan,99.85359522,2.078779402,1.140634,0.731196
 1007,RSUD Simalungun,Kabupaten Simalungun,C,Simalungun,99.06923043,2.957975898,3.859827,0.897442
 1008,RSU Sidikalang,"Jl. Rumah Sakit 19,Sidikalang",C,Dairi,"98.3099614529592,",2.752295402,1.497963,0.880265
-1009,RS Sembiring,"Jl. Besar No.77, Deli Tua",C,Deli Serdang,"98.681801430705,3",4.90348E+13,0.189998,0.722485
+1009,RS Sembiring,"Jl. Besar No.77, Deli Tua",C,Deli Serdang,98.68405092,3.49E+00,0.189998,0.722485
 1010,RS Nur Saadah,"Tanjung Morawa Km.12,Deli Serdang",C,Deli Serdang,98.71470068,3.568029972,4.998246,0.545536
 1011,RSUD Sultan Sulaiman Syariful Alamsyah,Kabupaten Serdang Bedagai,C,Deli Serdang,99.12101843,3.492604277,0.113678,0.744117
 1012,RSU Tanjung Pura,Jl. Khairil Anwar Tanjung Pura,C,Langkat,98.41587402,3.899599808,0.767074,0.726578
@@ -1309,7 +1309,7 @@ No,Name,Address,Class,District,Longitude,Latitude,Pop,Envi_Fact
 1308,RS Pertamina Rantau,Jl. Cepu Rantau Kab. Aceh Timur,C,Aceh Timur,98.10607352,4.345523291,0.078288,0.773766
 1309,RSU Cut Nyak Dhien,Jl. Gajah Mada Meulaboh,C,Aceh Barat,96.12469426,4.136605488,0.284797,0.856492
 1310,RSU Kota Jantho,Jl. Transmigrasi I Kota Jantho,C,Aceh Besar,95.698208,5.170162685,0,0.946377
-1311,RSUD Kab.Aceh Barat Daya,"Blang Pidie,Aceh Barat Daya",C,Aceh Barat Daya,"96.957676631087,3",8.79516E+13,0,0.802481
+1311,RSUD Kab.Aceh Barat Daya,"Blang Pidie,Aceh Barat Daya",C,Aceh Barat Daya,95.612228400,5.548109100,0,0.802481
 1312,RSUD Nagan Raya,"Jl. Nasional Km.28,5 Ujung Patihah",C,Nagan Raya,"96.4891811789067,",4.131441849,0.017303,0.976056
 1313,RSU Meuraxa,Banda Aceh,C,Banda Aceh,95.31724916,5.518409559,0.953991,0.414619
 1314,RSU Cut Meutia,"Jl. Garuda Kebun Baru,Langsa",D,Langsa,97.96333323,4.48000086,2.361519,0.382797
